@@ -4,6 +4,7 @@
 *.pyo
 *.egg-info
 *.po~
+*.mo
 dist
 
 # buildout #
