@@ -1,18 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-03-05 15:08+0000\n"
+"Project-Id-Version: 0.1 build 10\n"
+"POT-Creation-Date: 2013-03-18 17:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: Affinitic <info@affinitic.be>\n"
+"Language-Team: <info@affinitic.be>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"Language-Code: en\n"
-"Language-Name: English\n"
-"Preferred-Encodings: utf-8 latin1\n"
-"Domain: DOMAIN\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language-Code: fr\n"
+"Language-Name: French\n"
+"Preferred-Encodings: latin1 utf-8\n"
+"Domain: gites\n"
+"Language: \n"
+"X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
+
+#. Default: "3 nuits"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:447
+msgid "3_nuits"
+msgstr ""
+
+#. Default: "4 nuits"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:465
+msgid "4_nuits"
+msgstr ""
 
 #: getpaid/ogone/interfaces.py:34
 msgid "Accept URL"
@@ -39,6 +51,9 @@ msgstr ""
 
 #: getpaid/ogone/interfaces.py:39
 msgid "Cancel URL"
+msgstr ""
+
+msgid "Chambre d'hote"
 msgstr ""
 
 #: gites/shop/browser/cart.py:19
@@ -92,6 +107,75 @@ msgstr ""
 msgid "First Line"
 msgstr ""
 
+msgid "Gites et Meubles"
+msgstr ""
+
+msgid "GitesContent_help_category"
+msgstr ""
+
+msgid "GitesContent_help_description"
+msgstr ""
+
+msgid "GitesContent_help_endDate"
+msgstr ""
+
+msgid "GitesContent_help_eventEndDate"
+msgstr ""
+
+msgid "GitesContent_help_eventStartDate"
+msgstr ""
+
+msgid "GitesContent_help_hebergements"
+msgstr ""
+
+msgid "GitesContent_help_hebergementsConcernes"
+msgstr ""
+
+msgid "GitesContent_help_maisonsTourisme"
+msgstr ""
+
+msgid "GitesContent_help_startDate"
+msgstr ""
+
+msgid "GitesContent_help_text"
+msgstr ""
+
+msgid "GitesContent_label_category"
+msgstr ""
+
+msgid "GitesContent_label_description"
+msgstr ""
+
+msgid "GitesContent_label_endDate"
+msgstr ""
+
+msgid "GitesContent_label_eventEndDate"
+msgstr ""
+
+msgid "GitesContent_label_eventStartDate"
+msgstr ""
+
+msgid "GitesContent_label_hebergements"
+msgstr ""
+
+msgid "GitesContent_label_hebergementsConcernes"
+msgstr ""
+
+msgid "GitesContent_label_logo"
+msgstr ""
+
+msgid "GitesContent_label_maisonsTourisme"
+msgstr ""
+
+msgid "GitesContent_label_photo"
+msgstr ""
+
+msgid "GitesContent_label_startDate"
+msgstr ""
+
+msgid "GitesContent_label_text"
+msgstr ""
+
 #: gites.app/devel/gites.skin/gites/skin/browser/interfaces.py:406
 #: gites.skin/gites/skin/browser/interfaces.py:406
 msgid "Heb Pk"
@@ -113,6 +197,12 @@ msgstr ""
 
 #: gites/shop/browser/admin_order.py:46
 msgid "Item Id"
+msgstr ""
+
+msgid "La recherche a renvoy&eacute; ${nbr} r&eacute;sultats. <br /> Il serait utile de l'affiner."
+msgstr ""
+
+msgid "La recherche n'a pas renvoy&eacute; de r&eacute;sultats."
 msgstr ""
 
 #: gites/shop/browser/checkout.py:144
@@ -391,13 +481,25 @@ msgstr ""
 
 #. Default: "Autres ${type_hebergement} à ${commune}"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:134
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:134
 msgid "autres_a"
+msgstr ""
+
+#. Default: "Basse Saison"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:363
+msgid "basse_saison"
 msgstr ""
 
 #. Default: "Capacité"
 #: gites.app/devel/bnbelgium.skin/bnbelgium/skin/skins/bnbelgium_templates/hebergement_table.pt:15
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:80
 msgid "capacite"
+msgstr ""
+
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:183
+msgid "carte"
+msgstr ""
+
+msgid "chambre"
 msgstr ""
 
 #. Default: "${number} Chambre d'hôtes à proximité"
@@ -422,6 +524,11 @@ msgstr ""
 msgid "chambres_hotes"
 msgstr ""
 
+#. Default: "Charge"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:523
+msgid "charge"
+msgstr ""
+
 #. Default: "Civilité"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:31
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:31
@@ -441,6 +548,11 @@ msgstr ""
 msgid "commande"
 msgstr ""
 
+#. Default: "CONFORT"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:642
+msgid "confort"
+msgstr ""
+
 #. Default: "Contactez le propriétaire"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:16
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:16
@@ -449,7 +561,7 @@ msgstr ""
 
 #. Default: "DANS LA REGION"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:71
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:71
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:690
 msgid "dans_la_region"
 msgstr ""
 
@@ -463,6 +575,11 @@ msgstr ""
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:216
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:216
 msgid "date_fin_sejour"
+msgstr ""
+
+#. Default: "Déduction si pas petit déjeuner"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:231
+msgid "deduction_si_pas_petit_dejeuner"
 msgstr ""
 
 #. Default: "Dernière minute"
@@ -484,6 +601,11 @@ msgstr ""
 msgid "devenir_membre"
 msgstr ""
 
+#. Default: "Divers"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:271
+msgid "divers"
+msgstr ""
+
 #. Default: "E-mail"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:173
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:173
@@ -496,8 +618,13 @@ msgstr ""
 msgid "envoyer_demande"
 msgstr ""
 
+#: gites.core/gites/core/browser/templates/hebergementsinlisting.pt:15
+msgid "epis"
+msgstr ""
+
 #. Default: "Classification"
 #: gites.app/devel/bnbelgium.skin/bnbelgium/skin/skins/bnbelgium_templates/hebergement_table.pt:11
+#: gites.skin/gites/skin/skins/gites_templates/hebergement_macro.pt:17
 msgid "epis_hebergement"
 msgstr ""
 
@@ -507,16 +634,34 @@ msgstr ""
 msgid "fax"
 msgstr ""
 
+#. Default: "Fin d'année"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:486
+msgid "fin_d_annee"
+msgstr ""
+
 #. Default: "Français"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:136
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:136
 msgid "francais"
 msgstr ""
 
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:192
+msgid "galerie"
+msgstr ""
+
+#. Default: "Garantie"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:507
+msgid "garantie"
+msgstr ""
+
 #. Default: "Gîte à la ferme"
 #: gites.app/devel/gites.skin/gites/skin/skins/gites_templates/portlet_menu_gites_meubles.pt:29
 #: gites.skin/gites/skin/skins/gites_templates/portlet_menu_gites_meubles.pt:29
 msgid "gite_a_la_ferme"
+msgstr ""
+
+#. Default: "${number} Gite ou Chambre d'h\303\264tes \303\240 proximit\303\251"
+msgid "gite_a_proximite"
 msgstr ""
 
 #. Default: "Gîte citadin"
@@ -529,6 +674,9 @@ msgstr ""
 #: gites.app/devel/gites.skin/gites/skin/skins/gites_templates/portlet_menu_gites_meubles.pt:17
 #: gites.skin/gites/skin/skins/gites_templates/portlet_menu_gites_meubles.pt:17
 msgid "gite_rural"
+msgstr ""
+
+msgid "gites"
 msgstr ""
 
 #. Default: "${number} Gites et Chambres d'hôtes à proximité"
@@ -565,8 +713,12 @@ msgstr ""
 
 #. Default: "Haut de la page"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:149
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:149
 msgid "haut_de_la_page"
+msgstr ""
+
+#. Default: "Haute Saison"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:417
+msgid "haute_saison"
 msgstr ""
 
 #. Default: "Checkout"
@@ -629,7 +781,7 @@ msgstr ""
 
 #. Default: "Infos Touristiques"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:112
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:112
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:743
 msgid "infos_touristiques"
 msgstr ""
 
@@ -741,6 +893,7 @@ msgstr ""
 
 #. Default: "Localit&eacute;"
 #: gites.app/devel/bnbelgium.skin/bnbelgium/skin/skins/bnbelgium_templates/hebergement_table.pt:10
+#: gites.skin/gites/skin/skins/gites_templates/hebergement_macro.pt:16
 msgid "localite_hebergement"
 msgstr ""
 
@@ -752,8 +905,12 @@ msgstr ""
 
 #. Default: "Maison du Tourisme"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:97
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:97
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:725
 msgid "maison_du_tourisme"
+msgstr ""
+
+#. Default: "Maison d'h\303\264tes"
+msgid "maison_hotes"
 msgstr ""
 
 #. Default: "Membre d'Eurog&icirc;tes"
@@ -804,6 +961,11 @@ msgstr ""
 msgid "monsieur"
 msgstr ""
 
+#. Default: "Moyenne Saison"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:390
+msgid "moyenne_saison"
+msgstr ""
+
 #. Default: "Néerlandais"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:137
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:137
@@ -818,6 +980,7 @@ msgstr ""
 
 #. Default: "Nom"
 #: gites.app/devel/bnbelgium.skin/bnbelgium/skin/skins/bnbelgium_templates/hebergement_table.pt:9
+#: gites.skin/gites/skin/skins/gites_templates/hebergement_macro.pt:14
 msgid "nom_hebergement"
 msgstr ""
 
@@ -827,6 +990,10 @@ msgstr ""
 msgid "nombre_personnes"
 msgstr ""
 
+#. Default: "Il n'y a aucun h&eacute;bergement correspondant &agrave; ces crit&egrave;res"
+msgid "not_hebergement_correspondant"
+msgstr ""
+
 #. Default: "Nouveaux hebergements"
 #: gites.app/devel/bnbelgium.skin/bnbelgium/skin/browser/templates/derniereminutefolder.pt:46
 #: gites.app/devel/gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:35
@@ -834,9 +1001,14 @@ msgstr ""
 msgid "nouveaux_hebergements"
 msgstr ""
 
+#. Default: "Nuitée avec petit déjeuner"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:219
+msgid "nuit_avec_petit_dejeuner"
+msgstr ""
+
 #. Default: "nuits indisponibles"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:42
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:42
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:591
 msgid "nuits_indisponibles"
 msgstr ""
 
@@ -852,6 +1024,16 @@ msgstr ""
 msgid "pays"
 msgstr ""
 
+#. Default: "Période"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:350
+msgid "periode"
+msgstr ""
+
+#. Default: "Personne supplémentaire"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:213
+msgid "personne_supplementaire"
+msgstr ""
+
 #. Default: "Prénom"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:65
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:65
@@ -863,6 +1045,10 @@ msgstr ""
 #: gites.app/devel/gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:26
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:26
 msgid "promotions"
+msgstr ""
+
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:174
+msgid "question"
 msgstr ""
 
 #. Default: "Recherche avancée"
@@ -886,14 +1072,13 @@ msgstr ""
 
 #. Default: "Retour à la page précédente"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:153
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:153
 msgid "retour_page_precedente"
 msgstr ""
 
 #. Default: "Séjours Futés"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/hebergement.pt:80
 #: gites.app/devel/gites.skin/gites/skin/portlets/templates/sejourfute.pt:16
-#: gites.skin/gites/skin/browser/templates/hebergement.pt:80
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:703
 msgid "sejours_futes"
 msgstr ""
 
@@ -904,10 +1089,28 @@ msgstr ""
 msgid "selectionnez_titre_pour_trier"
 msgstr ""
 
+#. Default: "Semaine"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:357
+msgid "semaine"
+msgstr ""
+
+#. Default: "Avec le soutien du Commissariat g\303\251n\303\251ral"
+msgid "soutien_commissariat_ligne_1"
+msgstr ""
+
+#. Default: "au Tourisme du Minist\303\250re de la R\303\251gion wallonne"
+msgid "soutien_commissariat_ligne_2"
+msgstr ""
+
 #. Default: "Inscription à la newsletter"
 #: gites.app/devel/gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:262
 #: gites.skin/gites/skin/browser/templates/form_contact_proprio.pt:262
 msgid "subscribe_to_newsletter"
+msgstr ""
+
+#. Default: "Table d'hôte"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:297
+msgid "table_d_hote"
 msgstr ""
 
 #. Default: "Table d'hôtes"
@@ -919,6 +1122,16 @@ msgstr ""
 #. Default: "Tarif 2p d&eacute;j"
 #: gites.app/devel/bnbelgium.skin/bnbelgium/skin/skins/bnbelgium_templates/hebergement_table.pt:12
 msgid "tarif_hebergement"
+msgstr ""
+
+#. Default: "Taxe de séjour"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:540
+msgid "taxe_sejour"
+msgstr ""
+
+#. Default: "Taxes de séjour"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:251
+msgid "taxes_sejour"
 msgstr ""
 
 #. Default: "Téléphone"
@@ -963,6 +1176,11 @@ msgstr ""
 msgid "tout_voir"
 msgstr ""
 
+#. Default: "Type"
+#: gites.skin/gites/skin/skins/gites_templates/hebergement_macro.pt:15
+msgid "type_hebergement"
+msgstr ""
+
 #. Default: "<span><span><span>Un couple</span></span></span>"
 #: gites.app/devel/gites.skin/gites/skin/skins/gites_templates/portlet_je_suis.pt:17
 #: gites.skin/gites/skin/skins/gites_templates/portlet_je_suis.pt:17
@@ -998,5 +1216,10 @@ msgstr ""
 #: gites.app/devel/gites.core/gites/core/browser/templates/ideesejour.pt:38
 #: gites.core/gites/core/browser/templates/ideesejour.pt:38
 msgid "voir_la_liste"
+msgstr ""
+
+#. Default: "WE"
+#: gites.skin/gites/skin/browser/templates/hebergement.pt:354
+msgid "week-end"
 msgstr ""
 
