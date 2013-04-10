@@ -683,7 +683,7 @@ msgstr "Ferienhaus in der Stadt"
 msgid "gite_rural"
 msgstr "Ferienhaus auf dem Land"
 
-msgid "gites"
+msgid "gite"
 msgstr ""
 
 #. Default: "${number} Gites et Chambres d'hôtes à proximité"

@@ -682,7 +682,7 @@ msgstr "City gîte"
 msgid "gite_rural"
 msgstr "Rural gîte"
 
-msgid "gites"
+msgid "gite"
 msgstr ""
 
 #. Default: "${number} Gites et Chambres d'hôtes à proximité"
