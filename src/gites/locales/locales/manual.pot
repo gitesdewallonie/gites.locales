@@ -153,10 +153,6 @@ msgstr ""
 msgid "gites_meubles"
 msgstr ""
 
-# Default: "Gites et Meubl\303\251s"
-msgid "gites_et_meubles"
-msgstr ""
-
 # Default: "G\303\256te rural"
 msgid "gite_rural"
 msgstr ""
