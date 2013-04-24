@@ -480,7 +480,7 @@ msgstr "High season"
 #. Default: "Checkout"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:43
 msgid "heading_checkout"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:45
@@ -500,7 +500,7 @@ msgstr "accommodations correspond to your search."
 #. Default: "Enter the exact word in the image. This is used to fight robots."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:274
 msgid "help_captcha"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Idées séjours"
 #: gites.core/gites/core/browser/templates/ideesejourrootfolder.pt:10
@@ -554,7 +554,7 @@ msgstr "The shop"
 #: gites/shop/browser/templates/la_boutique_view.pt:34
 #: gites/shop/browser/templates/portlet-content-buyable.pt:37
 msgid "label_add_to_cart"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Nombre de personnes :"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:39
@@ -839,7 +839,7 @@ msgstr "Promotion"
 #. Default: "Required"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:44
 msgid "title_required"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Tous nos articles"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:20

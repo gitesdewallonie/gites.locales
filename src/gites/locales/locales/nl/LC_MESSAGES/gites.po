@@ -556,7 +556,7 @@ msgstr "De winkel"
 #: gites/shop/browser/templates/la_boutique_view.pt:34
 #: gites/shop/browser/templates/portlet-content-buyable.pt:37
 msgid "label_add_to_cart"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Nombre de personnes :"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:39
@@ -841,7 +841,7 @@ msgstr "Promotie"
 #. Default: "Required"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:44
 msgid "title_required"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Tous nos articles"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:20
