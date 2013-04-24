@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-04-24 10:07+0000\n"
+"POT-Creation-Date: 2013-04-24 10:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -529,11 +529,6 @@ msgstr ""
 msgid "invalid_date"
 msgstr ""
 
-#. Default: "Je cherche"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:3
-msgid "je_cherche"
-msgstr ""
-
 #. Default: "Je connais"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:11
 msgid "je_connais"
@@ -569,6 +564,7 @@ msgstr ""
 
 #. Default: "Je cherche"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:19
+#: gites.core/gites/core/browser/templates/search_base_form.pt:3
 msgid "label_recherche"
 msgstr ""
 
@@ -729,12 +725,8 @@ msgstr ""
 
 #. Default: "Plus d'infos"
 #: gites.core/gites/core/browser/templates/package.pt:54
-msgid "plus_dinfos"
-msgstr ""
-
-#. Default: "Plus d'infos..."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:27
-msgid "plus_infos"
+msgid "plus_dinfos"
 msgstr ""
 
 #. Default: "Précédent"
@@ -850,7 +842,7 @@ msgstr ""
 msgid "title_required"
 msgstr ""
 
-#. Default: "Tous nos articles..."
+#. Default: "Tous nos articles"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:20
 msgid "tous_nos_articles"
 msgstr ""
@@ -860,7 +852,7 @@ msgstr ""
 msgid "toutes_nos_dernieres_minutes"
 msgstr ""
 
-#. Default: "Toutes nos idées séjour..."
+#. Default: "Toutes nos idées séjour"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
 msgid "toutes_nos_idees_sejour"
 msgstr ""

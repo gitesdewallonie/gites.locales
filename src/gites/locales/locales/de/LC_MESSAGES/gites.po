@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-04-24 10:07+0000\n"
+"POT-Creation-Date: 2013-04-24 10:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -29,12 +29,12 @@ msgstr "INCOMPLETE"
 #. Default: "WE de fête 3 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:224
 msgid "3_nuits"
-msgstr ""
+msgstr "Feiertagswochenenden 3 Nächte"
 
 #. Default: "WE de fête 4 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:231
 msgid "4_nuits"
-msgstr ""
+msgstr "Feiertagswochenenden 4 Nächte"
 
 #: gites.core/gites/core/browser/interfaces.py:195
 msgid "Animals authorized"
@@ -369,7 +369,7 @@ msgstr "Datum Aufenthaltsende"
 #. Default: "D&eacute;duction si pas petit d&eacute;jeuner"
 #: gites.core/gites/core/browser/templates/hebergement.pt:306
 msgid "deduction_si_pas_petit_dejeuner"
-msgstr ""
+msgstr "Abzug, wenn kein Frühstück"
 
 #. Default: "Dernière minute"
 #: gites.core/gites/core/viewlets/templates/derniereminute.pt:7
@@ -450,7 +450,7 @@ msgstr "Fax"
 #. Default: "Fin d'ann&eacute;e"
 #: gites.core/gites/core/browser/templates/hebergement.pt:241
 msgid "fin_d_annee"
-msgstr ""
+msgstr "Jahresende"
 
 #. Default: "Français"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:135
@@ -529,11 +529,6 @@ msgstr "INCOMPLETE"
 msgid "invalid_date"
 msgstr "INCOMPLETE"
 
-#. Default: "Je cherche"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:3
-msgid "je_cherche"
-msgstr "INCOMPLETE"
-
 #. Default: "Je connais"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:11
 msgid "je_connais"
@@ -553,7 +548,7 @@ msgstr "INCOMPLETE"
 #. Default: "La boutique"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:6
 msgid "la_boutique"
-msgstr "INCOMPLETE"
+msgstr "Der shop"
 
 #. Default: "Add to Cart"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:40
@@ -569,6 +564,7 @@ msgstr "Anzahl Personen"
 
 #. Default: "Je cherche"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:19
+#: gites.core/gites/core/browser/templates/search_base_form.pt:3
 msgid "label_recherche"
 msgstr "Ich suche"
 
@@ -652,7 +648,7 @@ msgstr "Name"
 #. Default: "Nom ou référence"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:17
 msgid "nom_ou_reference"
-msgstr "INCOMPLETE"
+msgstr "Name oder Code"
 
 #. Default: "Nombre de chambres"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:25
@@ -700,7 +696,7 @@ msgstr "Neue Unterkünfte"
 #. Default: "Nuit&eacute;e avec petit d&eacute;jeuner"
 #: gites.core/gites/core/browser/templates/hebergement.pt:292
 msgid "nuit_avec_petit_dejeuner"
-msgstr ""
+msgstr "Übernachtung mit Frühstück"
 
 #. Default: "p. +"
 #: gites.core/gites/core/browser/templates/hebergement.pt:288
@@ -729,12 +725,8 @@ msgstr "INCOMPLETE"
 
 #. Default: "Plus d'infos"
 #: gites.core/gites/core/browser/templates/package.pt:54
-msgid "plus_dinfos"
-msgstr "INCOMPLETE"
-
-#. Default: "Plus d'infos..."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:27
-msgid "plus_infos"
+msgid "plus_dinfos"
 msgstr "INCOMPLETE"
 
 #. Default: "Précédent"
@@ -811,7 +803,7 @@ msgstr "INCOMPLETE"
 #. Default: "Table d'hôtes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:341
 msgid "table_hotes"
-msgstr ""
+msgstr "Gästetisch"
 
 #. Default: "Tarif"
 #: gites.core/gites/core/browser/templates/hebergement.pt:348
@@ -850,7 +842,7 @@ msgstr "Sonderaktion"
 msgid "title_required"
 msgstr ""
 
-#. Default: "Tous nos articles..."
+#. Default: "Tous nos articles"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:20
 msgid "tous_nos_articles"
 msgstr "INCOMPLETE"
@@ -860,7 +852,7 @@ msgstr "INCOMPLETE"
 msgid "toutes_nos_dernieres_minutes"
 msgstr "INCOMPLETE"
 
-#. Default: "Toutes nos idées séjour..."
+#. Default: "Toutes nos idées séjour"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
 msgid "toutes_nos_idees_sejour"
 msgstr "INCOMPLETE"
@@ -889,7 +881,7 @@ msgstr "Der Code der Unterkunft ${heb_pk} ist ungültig."
 #. Default: "WE"
 #: gites.core/gites/core/browser/templates/hebergement.pt:190
 msgid "week-end"
-msgstr ""
+msgstr "Wochenende"
 
 #. Default: "chambres"
 #: gites.core/gites/core/browser/templates/hebergement.pt:96

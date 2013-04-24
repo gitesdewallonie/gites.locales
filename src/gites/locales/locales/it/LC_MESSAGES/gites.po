@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-04-24 10:07+0000\n"
+"POT-Creation-Date: 2013-04-24 10:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -26,15 +26,16 @@ msgstr "INCOMPLETE"
 msgid "2_p"
 msgstr "INCOMPLETE"
 
+# /skins/GitesContent/hebergement_macro.pt:650
 #. Default: "WE de fête 3 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:224
 msgid "3_nuits"
-msgstr ""
+msgstr "Week-end festivi 3 notti"
 
 #. Default: "WE de fête 4 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:231
 msgid "4_nuits"
-msgstr ""
+msgstr "Week-end festivi 4 notti"
 
 #: gites.core/gites/core/browser/interfaces.py:195
 msgid "Animals authorized"
@@ -280,7 +281,6 @@ msgstr "Indirizzo"
 
 #. Default: "A la recherche d'une chambre d'hôtes pour cette nuit?<br /> Avec Allo chambre d'hôtes, trouvez une chambre d'hôtes disponible ce soir à proximité de votre destination en Wallonie."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:19
-#, fuzzy
 msgid "allo_chambre_description"
 msgstr "INCOMPLETE"
 
@@ -370,7 +370,7 @@ msgstr "Data di fine soggiorno"
 #. Default: "D&eacute;duction si pas petit d&eacute;jeuner"
 #: gites.core/gites/core/browser/templates/hebergement.pt:306
 msgid "deduction_si_pas_petit_dejeuner"
-msgstr ""
+msgstr "Deduzione se senza prima colazione"
 
 #. Default: "Dernière minute"
 #: gites.core/gites/core/viewlets/templates/derniereminute.pt:7
@@ -451,7 +451,7 @@ msgstr "Fax"
 #. Default: "Fin d'ann&eacute;e"
 #: gites.core/gites/core/browser/templates/hebergement.pt:241
 msgid "fin_d_annee"
-msgstr ""
+msgstr "Fine anno"
 
 #. Default: "Français"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:135
@@ -523,16 +523,11 @@ msgstr "INCOMPLETE"
 #. Default: "Invalid captcha"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:280
 msgid "invalid_captcha"
-msgstr "INCOMPLETE"
+msgstr "I dati di controllo non corrispondono all’immagine."
 
 #. Default: "Remplissez correctement la date de début et de fin du séjour."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:190
 msgid "invalid_date"
-msgstr "INCOMPLETE"
-
-#. Default: "Je cherche"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:3
-msgid "je_cherche"
 msgstr "INCOMPLETE"
 
 #. Default: "Je connais"
@@ -554,7 +549,7 @@ msgstr "INCOMPLETE"
 #. Default: "La boutique"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:6
 msgid "la_boutique"
-msgstr "INCOMPLETE"
+msgstr "La boutique"
 
 #. Default: "Add to Cart"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:40
@@ -570,6 +565,7 @@ msgstr "Numero di persone"
 
 #. Default: "Je cherche"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:19
+#: gites.core/gites/core/browser/templates/search_base_form.pt:3
 msgid "label_recherche"
 msgstr "Ricerco"
 
@@ -653,7 +649,7 @@ msgstr "Cognome"
 #. Default: "Nom ou référence"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:17
 msgid "nom_ou_reference"
-msgstr "INCOMPLETE"
+msgstr "Nome o riferimento"
 
 #. Default: "Nombre de chambres"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:25
@@ -701,7 +697,7 @@ msgstr "Nuovi alloggi"
 #. Default: "Nuit&eacute;e avec petit d&eacute;jeuner"
 #: gites.core/gites/core/browser/templates/hebergement.pt:292
 msgid "nuit_avec_petit_dejeuner"
-msgstr ""
+msgstr "Pernottamento con prima colazione"
 
 #. Default: "p. +"
 #: gites.core/gites/core/browser/templates/hebergement.pt:288
@@ -730,12 +726,8 @@ msgstr "INCOMPLETE"
 
 #. Default: "Plus d'infos"
 #: gites.core/gites/core/browser/templates/package.pt:54
-msgid "plus_dinfos"
-msgstr "INCOMPLETE"
-
-#. Default: "Plus d'infos..."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:27
-msgid "plus_infos"
+msgid "plus_dinfos"
 msgstr "INCOMPLETE"
 
 #. Default: "Précédent"
@@ -812,7 +804,7 @@ msgstr "INCOMPLETE"
 #. Default: "Table d'hôtes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:341
 msgid "table_hotes"
-msgstr ""
+msgstr "Tavola per gli ospiti"
 
 #. Default: "Tarif"
 #: gites.core/gites/core/browser/templates/hebergement.pt:348
@@ -851,7 +843,7 @@ msgstr "Promozione"
 msgid "title_required"
 msgstr ""
 
-#. Default: "Tous nos articles..."
+#. Default: "Tous nos articles"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:20
 msgid "tous_nos_articles"
 msgstr "INCOMPLETE"
@@ -861,7 +853,7 @@ msgstr "INCOMPLETE"
 msgid "toutes_nos_dernieres_minutes"
 msgstr "INCOMPLETE"
 
-#. Default: "Toutes nos idées séjour..."
+#. Default: "Toutes nos idées séjour"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
 msgid "toutes_nos_idees_sejour"
 msgstr "INCOMPLETE"
@@ -890,7 +882,7 @@ msgstr "Il riferimento dell'alloggio ${heb_pk} non è valido."
 #. Default: "WE"
 #: gites.core/gites/core/browser/templates/hebergement.pt:190
 msgid "week-end"
-msgstr ""
+msgstr "Fine settimana"
 
 #. Default: "chambres"
 #: gites.core/gites/core/browser/templates/hebergement.pt:96
