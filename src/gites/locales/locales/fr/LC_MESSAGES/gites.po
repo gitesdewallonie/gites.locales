@@ -302,7 +302,7 @@ msgstr "Capacité"
 #. Default: "Carte"
 #: gites.core/gites/core/browser/templates/package.pt:52
 msgid "carte"
-msgstr "carte"
+msgstr "Carte"
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:23
@@ -852,7 +852,7 @@ msgstr ""
 msgid "toutes_nos_dernieres_minutes"
 msgstr ""
 
-#. Default: "Toutes nos idées séjour"
+#. Default: "Toutes nos idées séjours"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
 msgid "toutes_nos_idees_sejour"
 msgstr ""

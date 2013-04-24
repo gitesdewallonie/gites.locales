@@ -853,7 +853,7 @@ msgstr "INCOMPLETE"
 msgid "toutes_nos_dernieres_minutes"
 msgstr "INCOMPLETE"
 
-#. Default: "Toutes nos idées séjour"
+#. Default: "Toutes nos idées séjours"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
 msgid "toutes_nos_idees_sejour"
 msgstr "INCOMPLETE"
