@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-04-24 10:22+0000\n"
+"POT-Creation-Date: 2013-04-30 22:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -54,11 +54,11 @@ msgid "Attrations_et_musees"
 msgstr ""
 
 #. Default: "Biblioth&egrave;ques"
-#: gites/map/browser/templates/hebergements_map.pt:78
+#: gites/map/browser/templates/hebergements_map.pt:84
 msgid "Bibliotheques"
 msgstr ""
 
-#: gites/map/browser/templates/hebergements_map.pt:96
+#: gites/map/browser/templates/hebergements_map.pt:102
 msgid "Casinos"
 msgstr ""
 
@@ -105,7 +105,7 @@ msgstr ""
 msgid "First Line"
 msgstr ""
 
-#: gites/map/browser/templates/hebergements_map.pt:108
+#: gites/map/browser/templates/hebergements_map.pt:72
 msgid "Gares"
 msgstr ""
 
@@ -131,7 +131,7 @@ msgstr ""
 msgid "Item Id"
 msgstr ""
 
-#: gites/map/browser/templates/hebergements_map.pt:72
+#: gites/map/browser/templates/hebergements_map.pt:78
 msgid "Magasins"
 msgstr ""
 
@@ -156,7 +156,7 @@ msgid "Near to"
 msgstr ""
 
 #. Default: "Night life"
-#: gites/map/browser/templates/hebergements_map.pt:102
+#: gites/map/browser/templates/hebergements_map.pt:108
 msgid "Night_life"
 msgstr ""
 
@@ -249,7 +249,7 @@ msgstr ""
 msgid "VAT Number"
 msgstr ""
 
-#: gites/map/browser/templates/hebergements_map.pt:90
+#: gites/map/browser/templates/hebergements_map.pt:96
 msgid "Wellness"
 msgstr ""
 
@@ -704,7 +704,7 @@ msgid "p_plus"
 msgstr ""
 
 #. Default: "Parcs"
-#: gites/map/browser/templates/hebergements_map.pt:84
+#: gites/map/browser/templates/hebergements_map.pt:90
 msgid "parcs"
 msgstr ""
 
@@ -885,7 +885,7 @@ msgstr ""
 
 #. Default: "chambres"
 #: gites.core/gites/core/browser/templates/hebergement.pt:96
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:102
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:108
 msgid "x_chambres"
 msgstr ""
 
@@ -896,13 +896,13 @@ msgstr ""
 
 #. Default: "epis"
 #: gites.core/gites/core/browser/templates/hebergement.pt:115
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:110
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:116
 msgid "x_epis"
 msgstr ""
 
 #. Default: "personnes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:104
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:96
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:102
 msgid "x_personnes"
 msgstr ""
 
