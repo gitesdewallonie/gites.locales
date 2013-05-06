@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-04-30 22:16+0000\n"
+"POT-Creation-Date: 2013-05-06 19:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -281,7 +281,7 @@ msgstr "Adresse"
 #. Default: "A la recherche d'une chambre d'hôtes pour cette nuit?<br /> Avec Allo chambre d'hôtes, trouvez une chambre d'hôtes disponible ce soir à proximité de votre destination en Wallonie."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:19
 msgid "allo_chambre_description"
-msgstr "Sie suchen ein Gästezimmer für diese Nacht?<br /> Mit „Allo chambres d‘hôtes“ (Hallo Gästezimmer) finden Sie ein freies Gästezimmer in der Nähe Ihres Bestimmungsortes für heute Abend."
+msgstr "Sie suchen ein Gästezimmer für diese Nacht?<br /> Mit „Allo chambres d‘hôtes“ (Hallo Gästezimmer) finden Sie ein freies Gästezimmer in der Nähe Ihres Bestimmungsortes in der Wallonie für heute Abend."
 
 #. Default: "Anglais"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:137
