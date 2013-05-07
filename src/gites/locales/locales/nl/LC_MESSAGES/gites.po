@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-05-06 19:37+0000\n"
+"POT-Creation-Date: 2013-05-07 13:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -20,12 +20,12 @@ msgstr ""
 #. Default: "1 p."
 #: gites.core/gites/core/browser/templates/hebergement.pt:286
 msgid "1_p"
-msgstr "INCOMPLETE"
+msgstr "1 p."
 
 #. Default: "2 p."
 #: gites.core/gites/core/browser/templates/hebergement.pt:287
 msgid "2_p"
-msgstr "INCOMPLETE"
+msgstr "2 p."
 
 #. Default: "WE de fête 3 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:224
@@ -52,29 +52,29 @@ msgstr "Is roken toegestaan op het logeeradres?"
 #. Default: "Attractions & mus&eacute;es"
 #: gites/map/browser/templates/hebergements_map.pt:42
 msgid "Attrations_et_musees"
-msgstr "INCOMPLETE"
+msgstr "Bezienswaardigheden en musea"
 
 #. Default: "Biblioth&egrave;ques"
 #: gites/map/browser/templates/hebergements_map.pt:84
 msgid "Bibliotheques"
-msgstr "INCOMPLETE"
+msgstr "Bibliotheken"
 
 #: gites/map/browser/templates/hebergements_map.pt:102
 msgid "Casinos"
-msgstr "INCOMPLETE"
+msgstr "Casino’s"
 
 #: gites/map/browser/templates/hebergements_map.pt:30
 #: gites/map/browser/utils.py:204
 msgid "Chambres"
-msgstr "INCOMPLETE"
+msgstr "kamers"
 
 #: gites/shop/browser/cart.py:19
 msgid "Checkout"
-msgstr "INCOMPLETE"
+msgstr "Check-out"
 
 #: gites/shop/interfaces.py:22
 msgid "City"
-msgstr "INCOMPLETE"
+msgstr "Plaats"
 
 #: gites.core/gites/core/browser/interfaces.py:179
 msgid "Classification"
@@ -82,7 +82,7 @@ msgstr "Classificatie"
 
 #: gites/shop/browser/cart.py:12
 msgid "Continue Shopping"
-msgstr "INCOMPLETE"
+msgstr "Meer kopen"
 
 #: gites/shop/interfaces.py:23
 msgid "Country"
@@ -90,29 +90,29 @@ msgstr "Land"
 
 #: gites.core/gites/core/viewlets/listing.py:121
 msgid "Distance"
-msgstr "INCOMPLETE"
+msgstr "Afstand"
 
 #: gites.core/gites/core/viewlets/listing.py:108
 #: gites/map/browser/utils.py:206
 msgid "Epis"
-msgstr "INCOMPLETE"
+msgstr "Aren"
 
 #. Default: "&Eacute;v&eacute;nements"
 #: gites/map/browser/templates/hebergements_map.pt:60
 msgid "Evenements"
-msgstr "INCOMPLETE"
+msgstr "Evenementen"
 
 #: gites/shop/interfaces.py:20
 msgid "First Line"
-msgstr "INCOMPLETE"
+msgstr "Eerste regel"
 
 #: gites/map/browser/templates/hebergements_map.pt:72
 msgid "Gares"
-msgstr "INCOMPLETE"
+msgstr "Stations"
 
 #: gites/map/browser/templates/hebergements_map.pt:25
 msgid "Gites"
-msgstr "INCOMPLETE"
+msgstr "Gîtes"
 
 #: gites.core/gites/core/browser/interfaces.py:173
 #: gites.core/gites/core/viewlets/listing.py:119
@@ -122,23 +122,23 @@ msgstr "Soort logeeradres"
 #. Default: "Informations touristiques"
 #: gites/map/browser/templates/hebergements_map.pt:36
 msgid "Informations_touristiques"
-msgstr "INCOMPLETE"
+msgstr "Toeristische info"
 
 #: gites/shop/browser/admin_order.py:48
 msgid "Item Code"
-msgstr "INCOMPLETE"
+msgstr "Productcode"
 
 #: gites/shop/browser/admin_order.py:46
 msgid "Item Id"
-msgstr "INCOMPLETE"
+msgstr "Productreferentie"
 
 #: gites/map/browser/templates/hebergements_map.pt:78
 msgid "Magasins"
-msgstr "INCOMPLETE"
+msgstr "Winkels"
 
 #: gites/shop/browser/checkout.py:144
 msgid "Make Payment"
-msgstr "INCOMPLETE"
+msgstr "Betaling uitvoeren"
 
 #: gites.core/gites/core/browser/interfaces.py:185
 msgid "Minimum Capacity"
@@ -146,20 +146,20 @@ msgstr "Minimale capaciteit"
 
 #: gites/shop/browser/admin_order.py:36
 msgid "N/A"
-msgstr "INCOMPLETE"
+msgstr "Niet BTW-plichtig"
 
 #: gites/shop/browser/admin_order.py:47
 msgid "Name"
-msgstr "INCOMPLETE"
+msgstr "Naam"
 
 #: gites.core/gites/core/browser/interfaces.py:268
 msgid "Near to"
-msgstr "INCOMPLETE"
+msgstr "In de buurt van"
 
 #. Default: "Night life"
 #: gites/map/browser/templates/hebergements_map.pt:108
 msgid "Night_life"
-msgstr "INCOMPLETE"
+msgstr "Nachtleven"
 
 #: gites.core/gites/core/browser/interfaces.py:190
 msgid "Number of rooms"
@@ -168,7 +168,7 @@ msgstr "Aantal kamers"
 #. Default: "Pour s&eacute;lectionner les autres points d’int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:111
 msgid "Pour_selectionner_zoomer"
-msgstr "INCOMPLETE"
+msgstr "Om de andere nuttige plaatsen te selecteren, inzoomen op de kaart."
 
 #: gites/shop/browser/admin_order.py:49
 msgid "Price"
@@ -177,19 +177,19 @@ msgstr "Prijs"
 #. Default: "Produits du terroir"
 #: gites/map/browser/templates/hebergements_map.pt:54
 msgid "Produits_du_terroir"
-msgstr "INCOMPLETE"
+msgstr "Streekproducten"
 
 #: gites/shop/browser/admin_order.py:50
 msgid "Quantity"
-msgstr "INCOMPLETE"
+msgstr "Hoeveelheid"
 
 #: gites/map/browser/templates/hebergements_map.pt:66
 msgid "Restaurants"
-msgstr "INCOMPLETE"
+msgstr "Restaurants"
 
 #: gites/shop/interfaces.py:18
 msgid "Same as shipping address"
-msgstr "INCOMPLETE"
+msgstr "Idem verzendingsadres"
 
 #: gites.core/gites/core/browser/search.py:23
 msgid "Search Hebergement"
@@ -197,7 +197,7 @@ msgstr "Een logeeradres zoeken"
 
 #: gites/shop/interfaces.py:21
 msgid "Second Line"
-msgstr "INCOMPLETE"
+msgstr "Tweede regel"
 
 #: gites.core/gites/core/browser/interfaces.py:180
 msgid "Select a classification"
@@ -214,15 +214,15 @@ msgstr "Rokers toegelaten"
 #. Default: "Sports & loisirs"
 #: gites/map/browser/templates/hebergements_map.pt:48
 msgid "Sports_loisirs"
-msgstr "INCOMPLETE"
+msgstr "Sport en ontspanning"
 
 #: gites/shop/interfaces.py:27
 msgid "State"
-msgstr "INCOMPLETE"
+msgstr "Staat"
 
 #: gites/shop/browser/admin_order.py:52
 msgid "Status"
-msgstr "INCOMPLETE"
+msgstr "Status"
 
 #: gites.core/gites/core/browser/interfaces.py:204
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:51
@@ -244,29 +244,29 @@ msgstr "Aantal kamers van het logeeradres"
 
 #: gites/shop/browser/admin_order.py:51
 msgid "Total"
-msgstr "INCOMPLETE"
+msgstr "Totaal"
 
 #: gites/shop/interfaces.py:32
 msgid "VAT Number"
-msgstr "INCOMPLETE"
+msgstr "BTW-nr."
 
 #: gites/map/browser/templates/hebergements_map.pt:96
 msgid "Wellness"
-msgstr "INCOMPLETE"
+msgstr "Wellness"
 
 #: gites/shop/interfaces.py:30
 msgid "Zip Code"
-msgstr "INCOMPLETE"
+msgstr "Postnummer"
 
 #. Default: "A proximité de"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:39
 msgid "a_proximite_de"
-msgstr "INCOMPLETE"
+msgstr "In de buurt van"
 
 #. Default: "Accueil"
 #: gites.core/gites/core/browser/templates/hebergement.pt:150
 msgid "accueil"
-msgstr "INCOMPLETE"
+msgstr "Welkom"
 
 #. Default: "Rechercher"
 #: gites.core/gites/core/browser/search.py:82
@@ -282,7 +282,7 @@ msgstr "Adres"
 #. Default: "A la recherche d'une chambre d'hôtes pour cette nuit?<br /> Avec Allo chambre d'hôtes, trouvez une chambre d'hôtes disponible ce soir à proximité de votre destination en Wallonie."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:19
 msgid "allo_chambre_description"
-msgstr "INCOMPLETE"
+msgstr "Op zoek naar een gastenkamer voor deze nacht? Met Allo chambre d’hôtes vindt u een gastenkamer voor deze avond, in de buurt van uw bestemming in Wallonië"
 
 #. Default: "Anglais"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:137
@@ -319,7 +319,7 @@ msgstr "Kosten"
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:43
 msgid "city_trip"
-msgstr "INCOMPLETE"
+msgstr "CITYTRIP"
 
 #. Default: "Civilité"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:32
@@ -375,7 +375,7 @@ msgstr "Korting bij afwezigheid ontbijt"
 #. Default: "Dernière minute"
 #: gites.core/gites/core/viewlets/templates/derniereminute.pt:7
 msgid "derniere_minute"
-msgstr "INCOMPLETE"
+msgstr "Op de valreep"
 
 #. Default: "Dernières minutes"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:10
@@ -390,12 +390,12 @@ msgstr "Beschrijving"
 #. Default: "Nous sommes désolés. Nous ne disposons pas des disponibilités pour cet hébergement."
 #: gites.core/gites/core/browser/templates/hebergement.pt:449
 msgid "desoles_pas_de_calendrier_pour_ce_gite"
-msgstr "INCOMPLETE"
+msgstr "Het spijt ons. We hebben geen  beschikbaarheidsgegevens van dit logies."
 
 #. Default: "Développé par"
 #: gites.theme/gites/theme/viewlets/templates/colophonviewlet.pt:81
 msgid "developed_by"
-msgstr "INCOMPLETE"
+msgstr "Ontwikkeld door"
 
 #. Default: "Devenir membre"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:52
@@ -405,7 +405,7 @@ msgstr "Lid worden"
 #. Default: "Disponibilités"
 #: gites.core/gites/core/browser/templates/hebergement.pt:432
 msgid "disponibilites"
-msgstr "INCOMPLETE"
+msgstr "Beschikbaarheden"
 
 #. Default: "Distribution"
 #: gites.core/gites/core/browser/templates/hebergement.pt:385
@@ -436,12 +436,12 @@ msgstr "Classificatie"
 #. Default: "Devenez fans sur facebook"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:10
 msgid "fans_facebook"
-msgstr "INCOMPLETE"
+msgstr "Word fan op Facebook"
 
 #. Default: "Devenez fans sur Google+"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:24
 msgid "fans_google"
-msgstr "INCOMPLETE"
+msgstr "Word fan op Google+"
 
 #. Default: "Fax"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:155
@@ -487,7 +487,7 @@ msgstr "Afrekenen"
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:45
 msgid "heb_count"
-msgstr "INCOMPLETE"
+msgstr "Logiesadressen ${heb_start} in ${heb_number} op een totaal van  ${heb_number_total}"
 
 #. Default: "h&eacute;bergement correspond &agrave; votre recherche."
 #: gites.core/gites/core/browser/templates/search_results_hebergement.pt:32
@@ -518,7 +518,7 @@ msgstr "in"
 #. Default: "INSOLITE"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
 msgid "insolite"
-msgstr "INCOMPLETE"
+msgstr "ONGEWOON "
 
 #. Default: "Invalid captcha"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:280
@@ -528,23 +528,23 @@ msgstr "De controlegegevens komen niet overeen met het beeld."
 #. Default: "Remplissez correctement la date de début et de fin du séjour."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:190
 msgid "invalid_date"
-msgstr "INCOMPLETE"
+msgstr "Vul de juiste begindatum en einddatum van uw verblijf in"
 
 #. Default: "Je connais"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:11
 msgid "je_connais"
-msgstr "INCOMPLETE"
+msgstr "Ik ken"
 
 #. Default: "Je découvre"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:35
 msgid "je_decouvre"
-msgstr "INCOMPLETE"
+msgstr "Ik ontdek"
 
 #. Default: "Je trouve"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:49
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
-msgstr "INCOMPLETE"
+msgstr "Ik vind"
 
 #. Default: "La boutique"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:6
@@ -556,7 +556,7 @@ msgstr "De winkel"
 #: gites/shop/browser/templates/la_boutique_view.pt:34
 #: gites/shop/browser/templates/portlet-content-buyable.pt:37
 msgid "label_add_to_cart"
-msgstr "INCOMPLETE"
+msgstr "Toevoegen aan de winkelmand"
 
 #. Default: "Nombre de personnes :"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:39
@@ -582,12 +582,12 @@ msgstr "Taal"
 #. Default: "Listing"
 #: gites.core/gites/core/browser/templates/package.pt:53
 msgid "listing"
-msgstr "INCOMPLETE"
+msgstr "Lijst"
 
 #. Default: "Localisation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:487
 msgid "localisation"
-msgstr "INCOMPLETE"
+msgstr "Ligging"
 
 #. Default: "Localité"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:104
@@ -608,7 +608,7 @@ msgstr "Mevrouw"
 #. Default: "Propulsé par"
 #: gites.theme/gites/theme/viewlets/templates/colophonviewlet.pt:82
 msgid "made_with"
-msgstr "INCOMPLETE"
+msgstr "Aangedreven door"
 
 #. Default: "Membre d'Eurogîtes"
 #: gites.theme/gites/theme/viewlets/templates/colophonviewlet.pt:24
@@ -618,7 +618,7 @@ msgstr "Lid van Eurogîtes"
 #. Default: "MICE"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:40
 msgid "mice"
-msgstr "INCOMPLETE"
+msgstr "MICE"
 
 #. Default: "Monsieur"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:38
@@ -661,7 +661,7 @@ msgstr "Aantal kamers"
 #. Default: "Il y a ${nombre} hébergements"
 #: gites.core/gites/core/browser/templates/package.pt:48
 msgid "nombre_hebergements"
-msgstr "INCOMPLETE"
+msgstr "Er zijn ${aantal} logiesadressen"
 
 #. Default: "Nombre de personne"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:236
@@ -672,12 +672,12 @@ msgstr "Aantal personen"
 #. Default: "Nos autres sites"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:56
 msgid "nos_autres_sites"
-msgstr "INCOMPLETE"
+msgstr "Onze andere sites"
 
 #. Default: "Nos offres"
 #: gites.core/gites/core/viewlets/templates/offresviewletmanager.pt:3
 msgid "nos_offres"
-msgstr "INCOMPLETE"
+msgstr "Onze aanbiedingen"
 
 #. Default: "Il n'y a aucune derni&egrave;re minute"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:133
@@ -702,12 +702,12 @@ msgstr "Overnachting met ontbijt"
 #. Default: "p. +"
 #: gites.core/gites/core/browser/templates/hebergement.pt:288
 msgid "p_plus"
-msgstr "INCOMPLETE"
+msgstr "p. +"
 
 #. Default: "Parcs"
 #: gites/map/browser/templates/hebergements_map.pt:90
 msgid "parcs"
-msgstr "INCOMPLETE"
+msgstr "Parken"
 
 #. Default: "Pays"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:117
@@ -722,18 +722,18 @@ msgstr "Periode"
 #. Default: "Photos"
 #: gites.core/gites/core/browser/templates/hebergement.pt:462
 msgid "photos"
-msgstr "INCOMPLETE"
+msgstr "Foto’s"
 
 #. Default: "Plus d'infos"
 #: gites.core/gites/core/browser/templates/package.pt:54
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:27
 msgid "plus_dinfos"
-msgstr "INCOMPLETE"
+msgstr "Meer info"
 
 #. Default: "Précédent"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:6
 msgid "precedent"
-msgstr "INCOMPLETE"
+msgstr "Vorige"
 
 #. Default: "Prénom"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:64
@@ -759,17 +759,17 @@ msgstr "Zoeken op de kaart"
 #. Default: "référence"
 #: gites.core/gites/core/browser/templates/hebergement.pt:91
 msgid "reference"
-msgstr "INCOMPLETE"
+msgstr "Referentie"
 
 #. Default: "Regardez-nous sur youtube"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:31
 msgid "regardez_nous_youtube"
-msgstr "INCOMPLETE"
+msgstr "Bekijk ons op youtube"
 
 #. Default: "Rejoignez-nous"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:4
 msgid "rejoignez_nous"
-msgstr "INCOMPLETE"
+msgstr "Kom erbij"
 
 #. Default: "Remarques"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:249
@@ -794,12 +794,12 @@ msgstr "Inschrijving op de newsletter"
 #. Default: "Suivant"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:15
 msgid "suivant"
-msgstr "INCOMPLETE"
+msgstr "Volgende"
 
 #. Default: "Suivez-nous sur twitter"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:17
 msgid "suivez_nous_twitter"
-msgstr "INCOMPLETE"
+msgstr "Volg ons op Twitter"
 
 #. Default: "Table d'hôtes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:341
@@ -831,7 +831,7 @@ msgstr "Prijs: ${value_price} €"
 #. Default: "Product Details"
 #: gites/shop/browser/templates/portlet-content-buyable.pt:12
 msgid "text_product_details"
-msgstr "INCOMPLETE"
+msgstr "Productgegevens"
 
 #. Default: "Promotion"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:32
@@ -841,27 +841,28 @@ msgstr "Promotie"
 #. Default: "Required"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:44
 msgid "title_required"
-msgstr "INCOMPLETE"
+msgstr "Verplicht"
 
 #. Default: "Tous nos articles"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:20
 msgid "tous_nos_articles"
-msgstr "INCOMPLETE"
+msgstr "Al onze artikels"
 
 #. Default: "Toutes nos dernières minutes"
 #: gites.core/gites/core/viewlets/templates/derniereminute.pt:22
 msgid "toutes_nos_dernieres_minutes"
-msgstr "INCOMPLETE"
+msgstr "Al onze lastminutes"
 
 #. Default: "Toutes nos idées séjours"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
+#, fuzzy
 msgid "toutes_nos_idees_sejour"
-msgstr "INCOMPLETE"
+msgstr "Al onze verblijfsideeën"
 
 #. Default: "Trier les résultats par"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:23
 msgid "trier_par"
-msgstr "INCOMPLETE"
+msgstr "De resultaten sorteren op"
 
 #. Default: "Type"
 #: gites.core/gites/core/browser/templates/hebergement.pt:356
@@ -888,22 +889,22 @@ msgstr "WE"
 #: gites.core/gites/core/browser/templates/hebergement.pt:96
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:108
 msgid "x_chambres"
-msgstr "INCOMPLETE"
+msgstr "kamers"
 
 #. Default: "clés"
 #: gites.core/gites/core/browser/templates/hebergement.pt:86
 msgid "x_cles"
-msgstr "INCOMPLETE"
+msgstr "sleutels"
 
 #. Default: "epis"
 #: gites.core/gites/core/browser/templates/hebergement.pt:115
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:116
 msgid "x_epis"
-msgstr "INCOMPLETE"
+msgstr "aren"
 
 #. Default: "personnes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:104
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:102
 msgid "x_personnes"
-msgstr "INCOMPLETE"
+msgstr "personen"
 
