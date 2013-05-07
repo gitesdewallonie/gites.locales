@@ -266,7 +266,7 @@ msgstr "Nelle vicinanze di"
 #. Default: "Accueil"
 #: gites.core/gites/core/browser/templates/hebergement.pt:150
 msgid "accueil"
-msgstr "Homepage"
+msgstr "Benvenuto"
 
 #. Default: "Rechercher"
 #: gites.core/gites/core/browser/search.py:82
