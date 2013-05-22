@@ -338,7 +338,7 @@ msgstr "Commande"
 #. Default: "Contact"
 #: gites.core/gites/core/browser/templates/hebergement.pt:497
 msgid "contact"
-msgstr "Contact"
+msgstr "Contacts"
 
 #. Default: "Contactez le propri&eacute;taire"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:16
