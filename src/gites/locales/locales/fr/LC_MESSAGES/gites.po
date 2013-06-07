@@ -389,7 +389,7 @@ msgstr "Description"
 #. Default: "Nous sommes désolés. Nous ne disposons pas des disponibilités pour cet hébergement."
 #: gites.core/gites/core/browser/templates/hebergement.pt:449
 msgid "desoles_pas_de_calendrier_pour_ce_gite"
-msgstr ""
+msgstr "Nous sommes désolés. Nous ne disposons pas des disponibilités pour cet hébergement."
 
 #. Default: "Développé par"
 #: gites.theme/gites/theme/viewlets/templates/colophonviewlet.pt:81
