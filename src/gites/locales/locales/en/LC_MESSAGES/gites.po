@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-06-18 12:16+0000\n"
+"POT-Creation-Date: 2013-06-18 13:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -258,6 +258,11 @@ msgstr "Wellness"
 msgid "Zip Code"
 msgstr "Zip Code"
 
+#. Default: "A proximité de"
+#: gites.core/gites/core/browser/templates/search_base_form.pt:39
+msgid "a_proximite_de"
+msgstr ""
+
 #. Default: "Accueil"
 #: gites.core/gites/core/browser/templates/hebergement.pt:150
 msgid "accueil"
@@ -306,6 +311,7 @@ msgstr ""
 
 #. Default: "Capacité"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:19
+#: gites.core/gites/core/skins/gitescore_templates/hebergement_table.pt:15
 msgid "capacite"
 msgstr "Capacity"
 
@@ -315,6 +321,7 @@ msgid "carte"
 msgstr "Map"
 
 #. Default: "Chambre d'h&ocirc;tes"
+#: gites.core/gites/core/browser/templates/search_base_form.pt:23
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "chambre_hotes"
 msgstr "Guest room"
@@ -333,6 +340,11 @@ msgstr "CITY-TRIP"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:32
 msgid "civilite"
 msgstr "Civility"
+
+#. Default: "<span class=\"nombre\">${DYNAMIC_CONTENT}</span> x"
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:133
+msgid "cles"
+msgstr ""
 
 #. Default: "Code postal"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:91
@@ -454,6 +466,11 @@ msgstr "E-mail"
 msgid "envoyer_demande"
 msgstr "Send your request"
 
+#. Default: "<span class=\"nombre\">${DYNAMIC_CONTENT}</span> x"
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:143
+msgid "epis"
+msgstr ""
+
 #. Default: "Classification"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:16
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_table.pt:12
@@ -492,6 +509,7 @@ msgid "garantie"
 msgstr "Guarantee"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
+#: gites.core/gites/core/browser/templates/search_base_form.pt:15
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:37
 msgid "gites_et_meubles"
 msgstr "Gîtes and Furnished Accommodation"
@@ -571,6 +589,7 @@ msgid "je_decouvre"
 msgstr "I’m finding out"
 
 #. Default: "Je trouve"
+#: gites.core/gites/core/browser/templates/search_base_form.pt:49
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
 msgstr "I’ve found"
@@ -582,6 +601,7 @@ msgstr "The shop"
 
 #. Default: "Add to Cart"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:42
+#: gites/shop/browser/templates/la_boutique_view.pt:36
 #: gites/shop/browser/templates/portlet-content-buyable.pt:37
 msgid "label_add_to_cart"
 msgstr "Add to Cart"
@@ -684,6 +704,7 @@ msgstr "Name or reference"
 
 #. Default: "Nombre de chambres"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:25
+#: gites.core/gites/core/skins/gitescore_templates/hebergement_table.pt:21
 #: gites.core/gites/core/viewlets/listing.py:142
 msgid "nombre-chambres"
 msgstr "Number of rooms"
@@ -783,6 +804,7 @@ msgstr "Promotions"
 
 #. Default: "recherche avanc&eacute;e"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:175
+#: gites.core/gites/core/browser/templates/search_base_form.pt:4
 msgid "recherche_avancee"
 msgstr "Advanced search"
 
@@ -867,9 +889,11 @@ msgstr "Sojourn tax"
 msgid "telephone"
 msgstr "Telephone"
 
-#. Default: "Price: ${value_price} €"
+#. Default: "Price: ${value_price} &euro;"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:34
+#: gites/shop/browser/templates/la_boutique_view.pt:31
 #: gites/shop/browser/templates/portlet-content-buyable.pt:31
+#, fuzzy
 msgid "text_price"
 msgstr "Price: ${value_price} €"
 
@@ -943,14 +967,17 @@ msgstr "WE"
 msgid "x_chambres"
 msgstr "rooms"
 
-#. Default: "clés"
+#. Default: "cl&eacute;s"
 #: gites.core/gites/core/browser/templates/hebergement.pt:104
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:133
 #: gites/map/browser/utils.py:213
+#, fuzzy
 msgid "x_cles"
 msgstr "keys"
 
 #. Default: "epis"
 #: gites.core/gites/core/browser/templates/hebergement.pt:115
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:143
 #: gites/map/browser/utils.py:214
 msgid "x_epis"
 msgstr "wheat ears"
