@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-06-20 08:55+0000\n"
+"POT-Creation-Date: 2013-06-20 09:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -48,17 +48,17 @@ msgstr "Sind Tiere in der Unterkunft zugelassen?"
 msgid "Are people allowed to smoke in the Hebergement"
 msgstr "Handelt es sich um eine Unterkunft für Raucher?"
 
-#. Default: "Attractions & mus&eacute;es"
+#. Default: "Attractions & musees"
 #: gites/map/browser/templates/hebergements_map.pt:42
 msgid "Attrations_et_musees"
 msgstr "Sehenswürdigkeiten & Museen"
 
-#. Default: "Biblioth&egrave;ques"
-#: gites/map/browser/templates/hebergements_map.pt:84
+#. Default: "Bibliotheques"
+#: gites/map/browser/templates/hebergements_map.pt:95
 msgid "Bibliotheques"
 msgstr "Bibliotheken"
 
-#: gites/map/browser/templates/hebergements_map.pt:102
+#: gites/map/browser/templates/hebergements_map.pt:118
 msgid "Casinos"
 msgstr "Kasinos"
 
@@ -94,8 +94,8 @@ msgstr "Abstand"
 msgid "Epis"
 msgstr "Ähren"
 
-#. Default: "&Eacute;v&eacute;nements"
-#: gites/map/browser/templates/hebergements_map.pt:60
+#. Default: "Evenements"
+#: gites/map/browser/templates/hebergements_map.pt:66
 msgid "Evenements"
 msgstr "Veranstaltungen"
 
@@ -103,7 +103,7 @@ msgstr "Veranstaltungen"
 msgid "First Line"
 msgstr "Erste Zeile"
 
-#: gites/map/browser/templates/hebergements_map.pt:72
+#: gites/map/browser/templates/hebergements_map.pt:81
 msgid "Gares"
 msgstr "Bahnhöfe"
 
@@ -121,7 +121,7 @@ msgid "Il y a eu un problème lors de l'envoi de votre demande."
 msgstr "INCOMPLETE"
 
 #. Default: "Informations touristiques"
-#: gites/map/browser/templates/hebergements_map.pt:36
+#: gites/map/browser/templates/hebergements_map.pt:34
 msgid "Informations_touristiques"
 msgstr "Tourist-Informationen"
 
@@ -133,7 +133,7 @@ msgstr "Code des Produkts"
 msgid "Item Id"
 msgstr "Referenz des Produkts"
 
-#: gites/map/browser/templates/hebergements_map.pt:78
+#: gites/map/browser/templates/hebergements_map.pt:88
 msgid "Magasins"
 msgstr "Geschäfte"
 
@@ -154,7 +154,7 @@ msgid "Near to"
 msgstr "In der Nähe von"
 
 #. Default: "Night life"
-#: gites/map/browser/templates/hebergements_map.pt:108
+#: gites/map/browser/templates/hebergements_map.pt:125
 msgid "Night_life"
 msgstr "Nachtleben"
 
@@ -163,7 +163,7 @@ msgid "Number of rooms"
 msgstr "Anzahl Zimmer"
 
 #. Default: "Pour s&eacute;lectionner les autres points d’int&eacute;r&ecirc;t, merci de zoomer sur la carte."
-#: gites/map/browser/templates/hebergements_map.pt:111
+#: gites/map/browser/templates/hebergements_map.pt:132
 msgid "Pour_selectionner_zoomer"
 msgstr "Um andere Interessen auszuwählen, bitte in die Karte zoomen."
 
@@ -172,7 +172,7 @@ msgid "Price"
 msgstr "Preis"
 
 #. Default: "Produits du terroir"
-#: gites/map/browser/templates/hebergements_map.pt:54
+#: gites/map/browser/templates/hebergements_map.pt:58
 msgid "Produits_du_terroir"
 msgstr "Regionale Erzeugnisse"
 
@@ -180,7 +180,7 @@ msgstr "Regionale Erzeugnisse"
 msgid "Quantity"
 msgstr "Menge"
 
-#: gites/map/browser/templates/hebergements_map.pt:66
+#: gites/map/browser/templates/hebergements_map.pt:74
 msgid "Restaurants"
 msgstr "Restaurants"
 
@@ -209,7 +209,7 @@ msgid "Smoking allowed"
 msgstr "Raucher zugelassen"
 
 #. Default: "Sports & loisirs"
-#: gites/map/browser/templates/hebergements_map.pt:48
+#: gites/map/browser/templates/hebergements_map.pt:50
 msgid "Sports_loisirs"
 msgstr "Sport & Freizeit"
 
@@ -247,7 +247,7 @@ msgstr "Insgesamt"
 msgid "VAT Number"
 msgstr "MwSt.-Nr."
 
-#: gites/map/browser/templates/hebergements_map.pt:96
+#: gites/map/browser/templates/hebergements_map.pt:111
 msgid "Wellness"
 msgstr "Wellness"
 
@@ -748,7 +748,7 @@ msgid "p_plus"
 msgstr "p. +"
 
 #. Default: "Parcs"
-#: gites/map/browser/templates/hebergements_map.pt:90
+#: gites/map/browser/templates/hebergements_map.pt:103
 msgid "parcs"
 msgstr "Parks"
 
@@ -888,7 +888,7 @@ msgstr "Telefon"
 
 #. Default: "Price: ${value_price} &euro;"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:34
-#: gites/shop/browser/templates/la_boutique_view.pt:31
+#: gites/shop/browser/templates/la_boutique_view.pt:32
 #: gites/shop/browser/templates/portlet-content-buyable.pt:31
 msgid "text_price"
 msgstr "Preis: ${value_price}  €"
