@@ -309,7 +309,6 @@ msgstr ""
 #. Default: "Capacite"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:19
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_table.pt:15
-#, fuzzy
 msgid "capacite"
 msgstr "Capacité"
 
@@ -798,7 +797,6 @@ msgstr "Promotions"
 #. Default: "Recherche avanc&eacute;e"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:175
 #: gites.core/gites/core/browser/templates/search_base_form.pt:4
-#, fuzzy
 msgid "recherche_avancee"
 msgstr "Recherche avancée"
 
@@ -892,7 +890,6 @@ msgstr "Téléphone"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:34
 #: gites/shop/browser/templates/la_boutique_view.pt:31
 #: gites/shop/browser/templates/portlet-content-buyable.pt:31
-#, fuzzy
 msgid "text_price"
 msgstr "Prix: ${value_price} €"
 

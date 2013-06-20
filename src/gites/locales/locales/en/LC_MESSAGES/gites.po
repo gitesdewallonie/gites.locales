@@ -116,8 +116,8 @@ msgid "Hebergement Type"
 msgstr "Type of accommodation"
 
 #: gites.core/gites/core/browser/SendMail.py:247
-msgid "Il y a eu un problème lors de l'envoi de votre demande (SMTPSenderRefused)."
-msgstr ""
+msgid "Il y a eu un problème lors de l'envoi de votre demande."
+msgstr "INCOMPLETE"
 
 #. Default: "Informations touristiques"
 #: gites/map/browser/templates/hebergements_map.pt:36
@@ -257,7 +257,7 @@ msgstr "Zip Code"
 #. Default: "A proximité de"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:41
 msgid "a_proximite_de"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Accueil"
 #: gites.core/gites/core/browser/templates/hebergement.pt:144
@@ -289,7 +289,7 @@ msgstr "English"
 #. Default: "Autre"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:111
 msgid "autre"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Basse saison"
 #: gites.core/gites/core/browser/templates/hebergement.pt:189
@@ -298,17 +298,16 @@ msgstr "Low season"
 
 #: gites.core/gites/core/table/hebcomparison.py:234
 msgid "calendrier"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Calendrier pas à jour"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:108
 msgid "calendrier_pas_a_jour"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Capacite"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:19
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_table.pt:15
-#, fuzzy
 msgid "capacite"
 msgstr "Capacity"
 
@@ -341,7 +340,7 @@ msgstr "Civility"
 #. Default: "<span class=\"nombre\">${DYNAMIC_CONTENT}</span> x"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:165
 msgid "cles"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Code postal"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:91
@@ -355,11 +354,11 @@ msgstr "Order"
 
 #: gites.core/gites/core/browser/hebcomparison.py:103
 msgid "compare_less_than_2"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #: gites.core/gites/core/browser/hebcomparison.py:106
 msgid "compare_more_than_4"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Contact"
 #: gites.core/gites/core/browser/templates/hebergement.pt:500
@@ -375,7 +374,7 @@ msgstr "Contact the owner"
 #. Default: "Coordonnées incorrectes"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:109
 msgid "coordonnees_incorrectes"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Date de d&eacute;but"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:30
@@ -462,7 +461,7 @@ msgstr "Send your request"
 #. Default: "<span class=\"nombre\">${DYNAMIC_CONTENT}</span> x"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:175
 msgid "epis"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Classification"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:16
@@ -524,7 +523,6 @@ msgstr "Checkout"
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:56
-#, fuzzy
 msgid "heb_count"
 msgstr "Accommodation addresses ${heb_start} to ${heb_number} out of a total of ${heb_number_total}"
 
@@ -788,7 +786,7 @@ msgstr "First name"
 #. Default: "Prix incorrect"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:110
 msgid "prix_incorrect"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:26
@@ -798,7 +796,6 @@ msgstr "Promotions"
 #. Default: "Recherche avanc&eacute;e"
 #: gites.core/gites/core/browser/templates/moteur_recherche.pt:175
 #: gites.core/gites/core/browser/templates/search_base_form.pt:4
-#, fuzzy
 msgid "recherche_avancee"
 msgstr "Advanced search"
 
@@ -831,7 +828,7 @@ msgstr "Remarks"
 #. Default: "selectionner pour comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:88
 msgid "selectionner-pour-comparer"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Semaine"
 #: gites.core/gites/core/browser/templates/hebergement.pt:186
@@ -841,12 +838,12 @@ msgstr "Week"
 #. Default: "Signaler un problème"
 #: gites.core/gites/core/browser/templates/hebergement.pt:557
 msgid "signaler-un-probleme"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Signaler un problème"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:21
 msgid "signaler_un_probleme"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:372
@@ -892,7 +889,6 @@ msgstr "Telephone"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:34
 #: gites/shop/browser/templates/la_boutique_view.pt:31
 #: gites/shop/browser/templates/portlet-content-buyable.pt:31
-#, fuzzy
 msgid "text_price"
 msgstr "Price: ${value_price} €"
 
@@ -924,7 +920,6 @@ msgstr "All our last-minute offers"
 
 #. Default: "Toutes nos idées séjours"
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:24
-#, fuzzy
 msgid "toutes_nos_idees_sejour"
 msgstr "All our ideas for stays"
 
@@ -941,7 +936,7 @@ msgstr "Type"
 #. Default: "Type de problème"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:103
 msgid "type_de_probleme"
-msgstr ""
+msgstr "INCOMPLETE"
 
 #. Default: "Type"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:14
@@ -970,7 +965,6 @@ msgstr "rooms"
 #: gites.core/gites/core/browser/templates/hebergement.pt:103
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:165
 #: gites/map/browser/utils.py:213
-#, fuzzy
 msgid "x_cles"
 msgstr "keys"
 
@@ -978,7 +972,6 @@ msgstr "keys"
 #: gites.core/gites/core/browser/templates/hebergement.pt:109
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:175
 #: gites/map/browser/utils.py:214
-#, fuzzy
 msgid "x_epis"
 msgstr "wheat ears"
 
