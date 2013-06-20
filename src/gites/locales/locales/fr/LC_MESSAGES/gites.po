@@ -19,12 +19,12 @@ msgstr ""
 #. Default: "1 p."
 #: gites.core/gites/core/browser/templates/hebergement.pt:281
 msgid "1_p"
-msgstr ""
+msgstr "1 p."
 
 #. Default: "2 p."
 #: gites.core/gites/core/browser/templates/hebergement.pt:282
 msgid "2_p"
-msgstr ""
+msgstr "2 p."
 
 #. Default: "WE de fête 3 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:219
@@ -735,7 +735,7 @@ msgstr "Nuitée avec petit déjeuner"
 #. Default: "p. +"
 #: gites.core/gites/core/browser/templates/hebergement.pt:283
 msgid "p_plus"
-msgstr ""
+msgstr "p. +"
 
 #. Default: "Parcs"
 #: gites/map/browser/templates/hebergements_map.pt:103
