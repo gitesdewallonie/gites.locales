@@ -717,7 +717,7 @@ msgstr "Number of rooms"
 #. Default: "Il y a ${nombre} hébergements"
 #: gites.core/gites/core/browser/templates/package.pt:51
 msgid "nombre_hebergements"
-msgstr "There are ${number} accommodation addresses"
+msgstr "There are ${nombre} accommodation addresses"
 
 #. Default: "Nombre de personne"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:236
