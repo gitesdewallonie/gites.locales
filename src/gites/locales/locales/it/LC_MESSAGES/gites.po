@@ -119,7 +119,7 @@ msgstr "Tipo di abitazione"
 
 #: gites.core/gites/core/browser/SendMail.py:247
 msgid "Il y a eu un problème lors de l'envoi de votre demande."
-msgstr "INCOMPLETE"
+msgstr "C'è stato un problema durante l'invio della domanda."
 
 #. Default: "Informations touristiques"
 #: gites/map/browser/templates/hebergements_map.pt:34
@@ -167,10 +167,10 @@ msgstr "Night life"
 msgid "Number of rooms"
 msgstr "Numero di camere"
 
-#. Default: "Pour s&eacute;lectionner les autres points d’int&eacute;r&ecirc;t, merci de zoomer sur la carte."
+#. Default: "Pour s&eacute;lectionner les autres points d'int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:132
 msgid "Pour_selectionner_zoomer"
-msgstr "Per selezionare gli altri punti d’interesse, si prega di zoomare sulla carta."
+msgstr "Per selezionare gli altri punti d'interesse, si prega di zoomare sulla carta."
 
 #: gites/shop/browser/admin_order.py:49
 msgid "Price"
@@ -191,7 +191,7 @@ msgstr "Ristoranti"
 
 #: gites/shop/interfaces.py:18
 msgid "Same as shipping address"
-msgstr "Identico all’indirizzo di spedizione"
+msgstr "Identico all'indirizzo di spedizione"
 
 #: gites.core/gites/core/browser/search.py:25
 msgid "Search Hebergement"
@@ -264,7 +264,7 @@ msgstr "Codice postale"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:41
 #: gites.core/gites/core/browser/templates/search_host_form.pt:44
 msgid "a_proximite_de"
-msgstr "INCOMPLETE"
+msgstr "Nelle vicinanze di"
 
 #. Default: "Accueil"
 #: gites.core/gites/core/browser/templates/hebergement.pt:144
@@ -301,7 +301,7 @@ msgstr "INCOMPLETE"
 #. Default: "Autre"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:111
 msgid "autre"
-msgstr "INCOMPLETE"
+msgstr "Altro"
 
 #. Default: "Basse saison"
 #: gites.core/gites/core/browser/templates/hebergement.pt:210
@@ -310,12 +310,12 @@ msgstr "Bassa stagione"
 
 #: gites.core/gites/core/table/hebcomparison.py:234
 msgid "calendrier"
-msgstr "INCOMPLETE"
+msgstr "Calendario"
 
 #. Default: "Calendrier pas à jour"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:108
 msgid "calendrier_pas_a_jour"
-msgstr "INCOMPLETE"
+msgstr "Calendario non aggiornato"
 
 #. Default: "Capacite"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:19
@@ -382,7 +382,7 @@ msgstr "Contattare il proprietario"
 #. Default: "Coordonnées incorrectes"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:109
 msgid "coordonnees_incorrectes"
-msgstr "INCOMPLETE"
+msgstr "Dati errati"
 
 #. Default: "Date de d&eacute;but"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:30
@@ -554,7 +554,7 @@ msgstr "abitazioni corrispondono alla vostra ricerca"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:274
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:139
 msgid "help_captcha"
-msgstr "Digitare i caratteri che appaiono nell’immagine.<br/>In questo modo ci aiutate ad impedire a dei robot di creare dei conti e di generare dei messaggi indesiderati."
+msgstr "Digitare i caratteri che appaiono nell'immagine.<br/>In questo modo ci aiutate ad impedire a dei robot di creare dei conti e di generare dei messaggi indesiderati."
 
 #. Default: "Idées séjours"
 #: gites.core/gites/core/browser/templates/ideesejourrootfolder.pt:10
@@ -576,12 +576,12 @@ msgstr "INSOLITO"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:280
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:145
 msgid "invalid_captcha"
-msgstr "I dati di controllo non corrispondono all’immagine."
+msgstr "I dati di controllo non corrispondono all'immagine."
 
 #. Default: "Remplissez correctement la date de début et de fin du séjour."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:190
 msgid "invalid_date"
-msgstr "Inserire correttamente la data d’inizio e di fine del soggiorno"
+msgstr "Inserire correttamente la data d'inizio e di fine del soggiorno"
 
 #. Default: "Je connais"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:11
@@ -801,7 +801,7 @@ msgstr "Nome"
 #. Default: "Prix incorrect"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:110
 msgid "prix_incorrect"
-msgstr "INCOMPLETE"
+msgstr "Prezzo errato"
 
 #. Default: "Promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:26
@@ -843,7 +843,7 @@ msgstr "Osservazioni"
 #. Default: "selectionner pour comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:88
 msgid "selectionner-pour-comparer"
-msgstr "INCOMPLETE"
+msgstr "Selezionare per comparare"
 
 #. Default: "Semaine"
 #: gites.core/gites/core/browser/templates/hebergement.pt:207
@@ -853,12 +853,12 @@ msgstr "Settimana"
 #. Default: "Signaler un problème"
 #: gites.core/gites/core/browser/templates/hebergement.pt:578
 msgid "signaler-un-probleme"
-msgstr "INCOMPLETE"
+msgstr "Segnalare un problema"
 
 #. Default: "Signaler un problème"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:21
 msgid "signaler_un_probleme"
-msgstr "INCOMPLETE"
+msgstr "Segnalare un problema"
 
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:393
@@ -951,7 +951,7 @@ msgstr "Tipo"
 #. Default: "Type de problème"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:103
 msgid "type_de_probleme"
-msgstr "INCOMPLETE"
+msgstr "Tipo di problema"
 
 #. Default: "Type"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:14
