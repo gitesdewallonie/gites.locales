@@ -166,7 +166,7 @@ msgstr "Nachtleben"
 msgid "Number of rooms"
 msgstr "Anzahl Zimmer"
 
-#. Default: "Pour s&eacute;lectionner les autres points d’int&eacute;r&ecirc;t, merci de zoomer sur la carte."
+#. Default: "Pour s&eacute;lectionner les autres points d'int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:132
 msgid "Pour_selectionner_zoomer"
 msgstr "Um andere Interessen auszuwählen, bitte in die Karte zoomen."

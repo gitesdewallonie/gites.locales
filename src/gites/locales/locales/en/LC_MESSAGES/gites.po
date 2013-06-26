@@ -165,7 +165,7 @@ msgstr "Night life"
 msgid "Number of rooms"
 msgstr "Number of rooms"
 
-#. Default: "Pour s&eacute;lectionner les autres points d’int&eacute;r&ecirc;t, merci de zoomer sur la carte."
+#. Default: "Pour s&eacute;lectionner les autres points d'int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:132
 msgid "Pour_selectionner_zoomer"
 msgstr "To select other points of interest, please zoom in on the map."
@@ -589,14 +589,14 @@ msgstr "I know"
 #. Default: "Je découvre"
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:35
 msgid "je_decouvre"
-msgstr "I’m finding out"
+msgstr "I'm finding out"
 
 #. Default: "Je trouve"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:51
 #: gites.core/gites/core/browser/templates/search_host_form.pt:76
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
-msgstr "I’ve found"
+msgstr "I've found"
 
 #. Default: "La boutique"
 #: gites.core/gites/core/viewlets/templates/boutique.pt:6
