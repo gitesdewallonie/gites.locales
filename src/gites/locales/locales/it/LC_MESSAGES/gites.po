@@ -502,7 +502,7 @@ msgid "gite-citadin"
 msgstr "Abitazione cittadina"
 
 msgid "gite-groupes"
-msgstr "raggruppamento"
+msgstr "Raggruppamento"
 
 msgid "gite-rural"
 msgstr "Abitazione Rurale"

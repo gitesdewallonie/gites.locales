@@ -501,7 +501,7 @@ msgid "gite-citadin"
 msgstr "Gîte citadin"
 
 msgid "gite-groupes"
-msgstr "groupement"
+msgstr "Groupement"
 
 msgid "gite-rural"
 msgstr "Gîte rural"

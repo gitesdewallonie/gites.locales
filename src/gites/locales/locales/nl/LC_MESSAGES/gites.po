@@ -501,7 +501,7 @@ msgid "gite-citadin"
 msgstr "Stadsvakantieverblijf"
 
 msgid "gite-groupes"
-msgstr "geheel"
+msgstr "Geheel"
 
 msgid "gite-rural"
 msgstr "Landelijk gîte"

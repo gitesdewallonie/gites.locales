@@ -500,7 +500,7 @@ msgid "gite-citadin"
 msgstr "City gîte"
 
 msgid "gite-groupes"
-msgstr "group"
+msgstr "Group"
 
 msgid "gite-rural"
 msgstr "Rural Gîte"
