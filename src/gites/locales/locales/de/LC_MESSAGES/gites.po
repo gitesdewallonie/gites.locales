@@ -531,9 +531,6 @@ msgstr "Kombination"
 msgid "gite-rural"
 msgstr ""
 
-msgid "gites-groupes"
-msgstr ""
-
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:16
 #: gites.core/gites/core/browser/templates/search_host_form.pt:15

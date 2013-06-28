@@ -34,9 +34,6 @@ msgstr ""
 msgid "logement"
 msgstr ""
 
-msgid "gites-groupes"
-msgstr ""
-
 msgid "gite-a-la-ferme"
 msgstr ""
 
