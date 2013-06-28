@@ -15,3 +15,36 @@ msgstr ""
 "Domain: gites\n"
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
+
+msgid "gite-groupes"
+msgstr ""
+
+msgid "maison-d-hotes"
+msgstr ""
+
+msgid "chambre-d-hotes"
+msgstr ""
+
+msgid "chambre"
+msgstr ""
+
+msgid "meuble-de-tourisme"
+msgstr ""
+
+msgid "logement"
+msgstr ""
+
+msgid "gites-groupes"
+msgstr ""
+
+msgid "gite-a-la-ferme"
+msgstr ""
+
+msgid "gite-citadin"
+msgstr ""
+
+msgid "gite-rural"
+msgstr ""
+
+msgid "meuble-de-vacances"
+msgstr ""

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-06-26 14:12+0000\n"
+"POT-Creation-Date: 2013-06-28 08:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -17,22 +17,22 @@ msgstr ""
 "X-Is-Fallback-For: nl-be nl-nl\n"
 
 #. Default: "1 p."
-#: gites.core/gites/core/browser/templates/hebergement.pt:309
+#: gites.core/gites/core/browser/templates/hebergement.pt:318
 msgid "1_p"
 msgstr "1 p."
 
 #. Default: "2 p."
-#: gites.core/gites/core/browser/templates/hebergement.pt:310
+#: gites.core/gites/core/browser/templates/hebergement.pt:319
 msgid "2_p"
 msgstr "2 p."
 
 #. Default: "WE de fête 3 nuits"
-#: gites.core/gites/core/browser/templates/hebergement.pt:246
+#: gites.core/gites/core/browser/templates/hebergement.pt:255
 msgid "3_nuits"
 msgstr "Feestweekend 3 nachten"
 
 #. Default: "WE de fête 4 nuits"
-#: gites.core/gites/core/browser/templates/hebergement.pt:253
+#: gites.core/gites/core/browser/templates/hebergement.pt:262
 msgid "4_nuits"
 msgstr "Feestweekend 4 nachten"
 
@@ -262,7 +262,7 @@ msgid "a_proximite_de"
 msgstr "In de buurt van"
 
 #. Default: "Accueil"
-#: gites.core/gites/core/browser/templates/hebergement.pt:146
+#: gites.core/gites/core/browser/templates/hebergement.pt:155
 msgid "accueil"
 msgstr "Welkom"
 
@@ -273,12 +273,12 @@ msgid "action_search"
 msgstr "Zoeken"
 
 #. Default: "Adresse"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:78
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:68
 msgid "adresse"
 msgstr "Adres"
 
 #. Default: "Avec Allo chambre d'hôtes, trouvez une chambre d'hôtes disponible ce soir à proximité de votre destination en Wallonie."
-#: gites.core/gites/core/viewlets/templates/chambrehotes.pt:22
+#: gites.core/gites/core/viewlets/templates/chambrehotes.pt:25
 msgid "allo_chambre_description"
 msgstr "Met Allo chambre d'hôtes vindt u een gastenkamer voor deze avond, in de buurt van uw bestemming in Wallonië"
 
@@ -288,8 +288,8 @@ msgid "allo_chambre_question"
 msgstr "Op zoek naar een gastenkamer voor deze nacht?"
 
 #. Default: "Anglais"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:137
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:97
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:118
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:89
 msgid "anglais"
 msgstr "Engels"
 
@@ -299,12 +299,12 @@ msgid "animaux_autorises"
 msgstr "INCOMPLETE"
 
 #. Default: "Autre"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:111
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
 msgid "autre"
 msgstr "Ander"
 
 #. Default: "Basse saison"
-#: gites.core/gites/core/browser/templates/hebergement.pt:216
+#: gites.core/gites/core/browser/templates/hebergement.pt:225
 msgid "basse_saison"
 msgstr "Laagseizoen"
 
@@ -313,7 +313,7 @@ msgid "calendrier"
 msgstr "Kalender"
 
 #. Default: "Calendrier pas à jour"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:108
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:101
 msgid "calendrier_pas_a_jour"
 msgstr "Kalender niet up-to-date"
 
@@ -328,6 +328,12 @@ msgstr "Capaciteit"
 msgid "carte"
 msgstr "Kaart"
 
+msgid "chambre"
+msgstr ""
+
+msgid "chambre-d-hotes"
+msgstr ""
+
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:25
 #: gites.core/gites/core/browser/templates/search_host_form.pt:24
@@ -336,7 +342,7 @@ msgid "chambre_hotes"
 msgstr "Gastenkamer"
 
 #. Default: "Charges"
-#: gites.core/gites/core/browser/templates/hebergement.pt:279
+#: gites.core/gites/core/browser/templates/hebergement.pt:288
 msgid "charges"
 msgstr "Kosten"
 
@@ -346,12 +352,12 @@ msgid "city_trip"
 msgstr "CITYTRIP"
 
 #. Default: "Civilité"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:32
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:27
 msgid "civilite"
 msgstr "Aanspreektitel"
 
 #. Default: "Code postal"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:91
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:79
 msgid "code_postal"
 msgstr "Postcode"
 
@@ -369,18 +375,18 @@ msgid "compare_more_than_4"
 msgstr "INCOMPLETE"
 
 #. Default: "Contact"
-#: gites.core/gites/core/browser/templates/hebergement.pt:549
+#: gites.core/gites/core/browser/templates/hebergement.pt:558
 msgid "contact"
 msgstr "Contacten"
 
 #. Default: "Contactez le propri&eacute;taire"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:16
-#: gites.core/gites/core/browser/templates/hebergement.pt:591
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:18
+#: gites.core/gites/core/browser/templates/hebergement.pt:602
 msgid "contactez_le_proprietaire"
 msgstr "Contacteer de eigenaar"
 
 #. Default: "Coordonnées incorrectes"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:109
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:102
 msgid "coordonnees_incorrectes"
 msgstr "Onjuiste gegevens"
 
@@ -390,7 +396,7 @@ msgid "date_debut"
 msgstr "Aanvangsdatum"
 
 #. Default: "Date début de séjour"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:187
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:160
 msgid "date_debut_sejour"
 msgstr "Aanvangsdatum van het verblijf"
 
@@ -400,12 +406,12 @@ msgid "date_fin"
 msgstr "Einddatum"
 
 #. Default: "Date fin de séjour"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:214
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:188
 msgid "date_fin_sejour"
 msgstr "Einddatum van het verblijf"
 
 #. Default: "D&eacute;duction si pas petit d&eacute;jeuner"
-#: gites.core/gites/core/browser/templates/hebergement.pt:329
+#: gites.core/gites/core/browser/templates/hebergement.pt:338
 msgid "deduction_si_pas_petit_dejeuner"
 msgstr "Korting bij afwezigheid ontbijt"
 
@@ -420,12 +426,12 @@ msgid "dernieres_minutes"
 msgstr "Last minutes"
 
 #. Default: "Description"
-#: gites.core/gites/core/browser/templates/hebergement.pt:406
+#: gites.core/gites/core/browser/templates/hebergement.pt:415
 msgid "description"
 msgstr "Beschrijving"
 
 #. Default: "Nous sommes désolés. Nous ne disposons pas des disponibilités pour cet hébergement."
-#: gites.core/gites/core/browser/templates/hebergement.pt:482
+#: gites.core/gites/core/browser/templates/hebergement.pt:491
 msgid "desoles_pas_de_calendrier_pour_ce_gite"
 msgstr "Het spijt ons. We hebben geen  beschikbaarheidsgegevens van dit logies."
 
@@ -440,29 +446,29 @@ msgid "devenir_membre"
 msgstr "Lid worden"
 
 #. Default: "Disponibilités"
-#: gites.core/gites/core/browser/templates/hebergement.pt:465
+#: gites.core/gites/core/browser/templates/hebergement.pt:474
 msgid "disponibilites"
 msgstr "Beschikbaarheden"
 
 #. Default: "Distribution"
-#: gites.core/gites/core/browser/templates/hebergement.pt:413
+#: gites.core/gites/core/browser/templates/hebergement.pt:422
 msgid "distribution"
 msgstr "Verdeling"
 
 #. Default: "Divers"
-#: gites.core/gites/core/browser/templates/hebergement.pt:354
+#: gites.core/gites/core/browser/templates/hebergement.pt:363
 msgid "divers"
 msgstr "Diverse"
 
 #. Default: "E-mail"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:171
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:75
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:146
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:68
 msgid "email"
 msgstr "E-mail"
 
 #. Default: "Envoyer votre demande"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:304
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:165
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:269
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:153
 msgid "envoyer_demande"
 msgstr "Stuur uw vraag"
 
@@ -478,28 +484,28 @@ msgid "erreur_localisation_non_trouvee"
 msgstr "INCOMPLETE"
 
 #. Default: "Devenez fans sur facebook"
-#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:10
+#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:11
 msgid "fans_facebook"
 msgstr "Word fan op Facebook"
 
 #. Default: "Devenez fans sur Google+"
-#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:24
+#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:25
 msgid "fans_google"
 msgstr "Word fan op Google+"
 
 #. Default: "Fax"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:155
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:133
 msgid "fax"
 msgstr "Fax"
 
 #. Default: "Fin d'ann&eacute;e"
-#: gites.core/gites/core/browser/templates/hebergement.pt:263
+#: gites.core/gites/core/browser/templates/hebergement.pt:272
 msgid "fin_d_annee"
 msgstr "Eindejaar"
 
 #. Default: "Français"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:135
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:95
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:116
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:87
 msgid "francais"
 msgstr "Frans"
 
@@ -509,9 +515,24 @@ msgid "fumeurs_autorises"
 msgstr "INCOMPLETE"
 
 #. Default: "Garantie"
-#: gites.core/gites/core/browser/templates/hebergement.pt:273
+#: gites.core/gites/core/browser/templates/hebergement.pt:282
 msgid "garantie"
 msgstr "Garantie"
+
+msgid "gite-a-la-ferme"
+msgstr ""
+
+msgid "gite-citadin"
+msgstr ""
+
+msgid "gite-groupes"
+msgstr "geheel"
+
+msgid "gite-rural"
+msgstr ""
+
+msgid "gites-groupes"
+msgstr ""
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:16
@@ -526,7 +547,7 @@ msgid "go_to_parent_url"
 msgstr "Ga naar vorig niveau"
 
 #. Default: "Haute saison"
-#: gites.core/gites/core/browser/templates/hebergement.pt:234
+#: gites.core/gites/core/browser/templates/hebergement.pt:243
 msgid "haute_saison"
 msgstr "Hoogseizoen"
 
@@ -551,8 +572,8 @@ msgid "hebergements_correspondent"
 msgstr "Logeeradressen die overeenkomen met uw opzoeking"
 
 #. Default: "Enter the exact word in the image. This is used to fight robots."
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:274
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:139
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:240
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:131
 msgid "help_captcha"
 msgstr "Tik de letters in die in het beeld verschijnen.<br/>Zo helpt u verhinderen dat spammers accounts aanmaken en ongewenste mail versturen."
 
@@ -573,13 +594,13 @@ msgid "insolite"
 msgstr "ONGEWOON "
 
 #. Default: "Invalid captcha"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:280
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:145
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:247
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:136
 msgid "invalid_captcha"
 msgstr "De controlegegevens komen niet overeen met het beeld."
 
 #. Default: "Remplissez correctement la date de début et de fin du séjour."
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:190
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:162
 msgid "invalid_date"
 msgstr "Vul de juiste begindatum en einddatum van uw verblijf in"
 
@@ -629,8 +650,8 @@ msgid "label_reference"
 msgstr "Naam of referentie"
 
 #. Default: "Langue"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:130
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:90
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:112
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:82
 msgid "langue"
 msgstr "Taal"
 
@@ -640,12 +661,12 @@ msgid "listing"
 msgstr "Lijst"
 
 #. Default: "Localisation"
-#: gites.core/gites/core/browser/templates/hebergement.pt:539
+#: gites.core/gites/core/browser/templates/hebergement.pt:548
 msgid "localisation"
 msgstr "Ligging"
 
 #. Default: "Localité"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:104
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:90
 msgid "localite"
 msgstr "Plaats"
 
@@ -655,8 +676,11 @@ msgstr "Plaats"
 msgid "localite_hebergement"
 msgstr "Plaats"
 
+msgid "logement"
+msgstr ""
+
 #. Default: "Madame"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:37
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:32
 msgid "madame"
 msgstr "Mevrouw"
 
@@ -665,10 +689,19 @@ msgstr "Mevrouw"
 msgid "made_with"
 msgstr "Aangedreven door"
 
+msgid "maison-d-hotes"
+msgstr ""
+
 #. Default: "Membre d'Eurogîtes"
 #: gites.theme/gites/theme/viewlets/templates/colophonviewlet.pt:25
 msgid "membre_eurogites"
 msgstr "Lid van Eurogîtes"
+
+msgid "meuble-de-tourisme"
+msgstr ""
+
+msgid "meuble-de-vacances"
+msgstr ""
 
 #. Default: "MICE"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:43
@@ -676,24 +709,24 @@ msgid "mice"
 msgstr "MICE"
 
 #. Default: "Monsieur"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:38
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:33
 msgid "monsieur"
 msgstr "Mijnheer"
 
 #. Default: "Moyenne saison"
-#: gites.core/gites/core/browser/templates/hebergement.pt:225
+#: gites.core/gites/core/browser/templates/hebergement.pt:234
 msgid "moyenne_saison"
 msgstr "Tussenseizoen"
 
 #. Default: "Néerlandais"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:136
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:96
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:117
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:88
 msgid "neerlandais"
 msgstr "Nederlands"
 
 #. Default: "Nom"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:47
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:41
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:41
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:36
 msgid "nom"
 msgstr "Naam"
 
@@ -721,13 +754,13 @@ msgid "nombre_hebergements"
 msgstr "Er zijn ${nombre} logiesadressen"
 
 #. Default: "Nombre de personne"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:236
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:211
 #: gites.core/gites/core/viewlets/listing.py:163
 msgid "nombre_personnes"
 msgstr "Aantal personen"
 
 #. Default: "Nos autres sites"
-#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:56
+#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:57
 msgid "nos_autres_sites"
 msgstr "Onze andere sites"
 
@@ -752,12 +785,12 @@ msgid "nouveaux_hebergements"
 msgstr "Nieuwe logeeradressen"
 
 #. Default: "Nuit&eacute;e avec petit d&eacute;jeuner"
-#: gites.core/gites/core/browser/templates/hebergement.pt:315
+#: gites.core/gites/core/browser/templates/hebergement.pt:324
 msgid "nuit_avec_petit_dejeuner"
 msgstr "Overnachting met ontbijt"
 
 #. Default: "p. +"
-#: gites.core/gites/core/browser/templates/hebergement.pt:311
+#: gites.core/gites/core/browser/templates/hebergement.pt:320
 msgid "p_plus"
 msgstr "p. +"
 
@@ -767,23 +800,23 @@ msgid "parcs"
 msgstr "Parken"
 
 #. Default: "Pays"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:117
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:101
 msgid "pays"
 msgstr "Land"
 
 #. Default: "Période"
-#: gites.core/gites/core/browser/templates/hebergement.pt:211
+#: gites.core/gites/core/browser/templates/hebergement.pt:220
 msgid "periode"
 msgstr "Periode"
 
 #. Default: "Photos"
-#: gites.core/gites/core/browser/templates/hebergement.pt:495
+#: gites.core/gites/core/browser/templates/hebergement.pt:504
 msgid "photos"
 msgstr "Foto's"
 
 #. Default: "Plus d'infos"
 #: gites.core/gites/core/browser/templates/package.pt:57
-#: gites.core/gites/core/viewlets/templates/chambrehotes.pt:29
+#: gites.core/gites/core/viewlets/templates/chambrehotes.pt:32
 msgid "plus_dinfos"
 msgstr "Meer info"
 
@@ -793,13 +826,13 @@ msgid "precedent"
 msgstr "Vorige"
 
 #. Default: "Prénom"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:64
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:58
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:56
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:52
 msgid "prenom"
 msgstr "Voornaam"
 
 #. Default: "Prix incorrect"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:110
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:103
 msgid "prix_incorrect"
 msgstr "Onjuiste prijs"
 
@@ -820,53 +853,53 @@ msgid "recherche_cartographique"
 msgstr "Zoeken op de kaart"
 
 #. Default: "référence"
-#: gites.core/gites/core/browser/templates/hebergement.pt:86
+#: gites.core/gites/core/browser/templates/hebergement.pt:95
 msgid "reference"
 msgstr "Referentie"
 
 #. Default: "Regardez-nous sur youtube"
-#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:31
+#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:32
 msgid "regardez_nous_youtube"
 msgstr "Bekijk ons op youtube"
 
 #. Default: "Rejoignez-nous"
-#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:4
+#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:5
 msgid "rejoignez_nous"
 msgstr "Kom erbij"
 
 #. Default: "Remarques"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:249
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:122
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:222
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:117
 msgid "remarques"
 msgstr "Opmerkingen"
 
 #. Default: "selectionner pour comparer"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:84
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:86
 msgid "selectionner-pour-comparer"
 msgstr "Selecteer om te vergelijken"
 
 #. Default: "Semaine"
-#: gites.core/gites/core/browser/templates/hebergement.pt:213
+#: gites.core/gites/core/browser/templates/hebergement.pt:222
 msgid "semaine"
 msgstr "Week"
 
 #. Default: "Signaler un problème"
-#: gites.core/gites/core/browser/templates/hebergement.pt:606
+#: gites.core/gites/core/browser/templates/hebergement.pt:617
 msgid "signaler-un-probleme"
 msgstr "Een probleem melden"
 
 #. Default: "Signaler un problème"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:21
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:24
 msgid "signaler_un_probleme"
 msgstr "Een probleem melden"
 
 #. Default: "Situation"
-#: gites.core/gites/core/browser/templates/hebergement.pt:409
+#: gites.core/gites/core/browser/templates/hebergement.pt:418
 msgid "situation"
 msgstr "Situatie"
 
 #. Default: "Inscription à la newsletter"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:260
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:231
 msgid "subscribe_to_newsletter"
 msgstr "Inschrijving op de newsletter"
 
@@ -876,27 +909,27 @@ msgid "suivant"
 msgstr "Volgende"
 
 #. Default: "Suivez-nous sur twitter"
-#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:17
+#: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:18
 msgid "suivez_nous_twitter"
 msgstr "Volg ons op Twitter"
 
 #. Default: "Table d'hôtes"
-#: gites.core/gites/core/browser/templates/hebergement.pt:365
+#: gites.core/gites/core/browser/templates/hebergement.pt:374
 msgid "table_hotes"
 msgstr "Table d'hôtes"
 
 #. Default: "Tarif"
-#: gites.core/gites/core/browser/templates/hebergement.pt:372
+#: gites.core/gites/core/browser/templates/hebergement.pt:381
 msgid "tarif"
 msgstr "Prijs"
 
 #. Default: "Taxe de séjour"
-#: gites.core/gites/core/browser/templates/hebergement.pt:289
+#: gites.core/gites/core/browser/templates/hebergement.pt:298
 msgid "taxe_sejour"
 msgstr "Verblijfstaks"
 
 #. Default: "Téléphone"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:143
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:123
 msgid "telephone"
 msgstr "Telefoon"
 
@@ -918,8 +951,8 @@ msgid "texte_promotion"
 msgstr "Promotie"
 
 #. Default: "Required"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:44
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:38
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:38
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:33
 msgid "title_required"
 msgstr "Verplicht"
 
@@ -929,7 +962,7 @@ msgid "tous_nos_articles"
 msgstr "Al onze artikels"
 
 #. Default: "Toutes nos dernières minutes"
-#: gites.core/gites/core/viewlets/templates/derniereminute.pt:40
+#: gites.core/gites/core/viewlets/templates/derniereminute.pt:59
 msgid "toutes_nos_dernieres_minutes"
 msgstr "Al onze lastminutes"
 
@@ -944,12 +977,12 @@ msgid "trier_par"
 msgstr "De resultaten sorteren op"
 
 #. Default: "Type"
-#: gites.core/gites/core/browser/templates/hebergement.pt:379
+#: gites.core/gites/core/browser/templates/hebergement.pt:388
 msgid "type"
 msgstr "Type"
 
 #. Default: "Type de problème"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:103
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:94
 msgid "type_de_probleme"
 msgstr "Type probleem"
 
@@ -965,35 +998,35 @@ msgid "unknown_gites"
 msgstr "De referentie van het logies ${heb_pk} is ongeldig"
 
 #. Default: "WE"
-#: gites.core/gites/core/browser/templates/hebergement.pt:212
+#: gites.core/gites/core/browser/templates/hebergement.pt:221
 msgid "week-end"
 msgstr "WE"
 
 #. Default: "chambres"
-#: gites.core/gites/core/browser/templates/hebergement.pt:91
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:152
-#: gites/map/browser/utils.py:212
+#: gites.core/gites/core/browser/templates/hebergement.pt:100
+#: gites.core/gites/core/viewlets/templates/derniereminute.pt:40
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:154
 msgid "x_chambres"
 msgstr "kamers"
 
 #. Default: "cl&eacute;s"
-#: gites.core/gites/core/browser/templates/hebergement.pt:105
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:163
-#: gites/map/browser/utils.py:213
+#: gites.core/gites/core/browser/templates/hebergement.pt:114
+#: gites.core/gites/core/viewlets/templates/derniereminute.pt:48
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:165
 msgid "x_cles"
 msgstr "sleutels"
 
 #. Default: "&eacute;pis"
-#: gites.core/gites/core/browser/templates/hebergement.pt:111
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:175
-#: gites/map/browser/utils.py:214
+#: gites.core/gites/core/browser/templates/hebergement.pt:120
+#: gites.core/gites/core/viewlets/templates/derniereminute.pt:53
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:177
 msgid "x_epis"
 msgstr "aren"
 
 #. Default: "personnes"
-#: gites.core/gites/core/browser/templates/hebergement.pt:99
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:146
-#: gites/map/browser/utils.py:211
+#: gites.core/gites/core/browser/templates/hebergement.pt:108
+#: gites.core/gites/core/viewlets/templates/derniereminute.pt:36
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:148
 msgid "x_personnes"
 msgstr "personen"
 
