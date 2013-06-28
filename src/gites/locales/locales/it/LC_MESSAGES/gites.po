@@ -140,7 +140,7 @@ msgstr "Negozi"
 
 #: gites/shop/browser/checkout.py:93
 msgid "Make Payment"
-msgstr "INCOMPLETE"
+msgstr "Eseguire un pagamento"
 
 #: gites.core/gites/core/browser/interfaces.py:190
 msgid "Minimum Capacity"
@@ -297,7 +297,7 @@ msgstr "Inglese"
 #. Default: "Animaux autorisés sur demande"
 #: gites.core/gites/core/browser/templates/search_host_form.pt:72
 msgid "animaux_autorises"
-msgstr "INCOMPLETE"
+msgstr "animali autorizzati previa domanda"
 
 #. Default: "Autre"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
@@ -330,10 +330,10 @@ msgid "carte"
 msgstr "carta"
 
 msgid "chambre"
-msgstr ""
+msgstr "Camera"
 
 msgid "chambre-d-hotes"
-msgstr ""
+msgstr "Camera per gli Ospiti"
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:25
@@ -482,7 +482,7 @@ msgstr "Classifica"
 #. Default: "Nous n'avons pas trouv&eacute; votre localisation ${localisation}. Merci de v&eacute;rifier le nom. Voici les h&eacute;bergements r&eacute;pondant &agrave; vos autres crit&egrave;res."
 #: gites.core/gites/core/browser/templates/search_results_hebergement.pt:36
 msgid "erreur_localisation_non_trouvee"
-msgstr "INCOMPLETE"
+msgstr "Non abbiamo trovato la vostra localizzazione. Consigliamo di verificare il nome. Ecco le sistemazioni che corrispondono agli altri criteri precisati."
 
 #. Default: "Devenez fans sur facebook"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:11
@@ -513,7 +513,7 @@ msgstr "Francese"
 #. Default: "Fumeurs autorisés"
 #: gites.core/gites/core/browser/templates/search_host_form.pt:65
 msgid "fumeurs_autorises"
-msgstr "INCOMPLETE"
+msgstr "alloggi per fumatori"
 
 #. Default: "Garantie"
 #: gites.core/gites/core/browser/templates/hebergement.pt:282
@@ -521,16 +521,16 @@ msgid "garantie"
 msgstr "Garanzia"
 
 msgid "gite-a-la-ferme"
-msgstr ""
+msgstr "Allogio in fattoria"
 
 msgid "gite-citadin"
-msgstr ""
+msgstr "Abitazione cittadina"
 
 msgid "gite-groupes"
 msgstr "raggruppamento"
 
 msgid "gite-rural"
-msgstr ""
+msgstr "Abitazione Rurale"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:16
@@ -675,7 +675,7 @@ msgid "localite_hebergement"
 msgstr "Località"
 
 msgid "logement"
-msgstr ""
+msgstr "Alloggio"
 
 #. Default: "Madame"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:32
@@ -688,7 +688,7 @@ msgid "made_with"
 msgstr "Implementato da"
 
 msgid "maison-d-hotes"
-msgstr ""
+msgstr "Casa degli Ospiti"
 
 #. Default: "Membre d'Eurogîtes"
 #: gites.theme/gites/theme/viewlets/templates/colophonviewlet.pt:25
@@ -696,10 +696,10 @@ msgid "membre_eurogites"
 msgstr "Membro di Eurogîtes"
 
 msgid "meuble-de-tourisme"
-msgstr ""
+msgstr "Ammobiliato di Turismo"
 
 msgid "meuble-de-vacances"
-msgstr ""
+msgstr "Ammobiliato per le vacanze"
 
 #. Default: "MICE"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:43
