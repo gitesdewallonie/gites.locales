@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-06-29 08:17+0000\n"
+"POT-Creation-Date: 2013-07-01 11:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -252,8 +252,8 @@ msgid "Zip Code"
 msgstr ""
 
 #. Default: "A proximité de"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:44
-#: gites.core/gites/core/browser/templates/search_host_form.pt:44
+#: gites.core/gites/core/browser/templates/search_base_form.pt:45
+#: gites.core/gites/core/browser/templates/search_host_form.pt:57
 msgid "a_proximite_de"
 msgstr ""
 
@@ -289,7 +289,7 @@ msgid "anglais"
 msgstr ""
 
 #. Default: "Animaux autorisés sur demande"
-#: gites.core/gites/core/browser/templates/search_host_form.pt:72
+#: gites.core/gites/core/browser/templates/search_host_form.pt:94
 msgid "animaux_autorises"
 msgstr ""
 
@@ -325,7 +325,7 @@ msgstr ""
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:25
-#: gites.core/gites/core/browser/templates/search_host_form.pt:24
+#: gites.core/gites/core/browser/templates/search_host_form.pt:26
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
 msgstr ""
@@ -361,6 +361,11 @@ msgstr ""
 
 #: gites.core/gites/core/browser/hebcomparison.py:106
 msgid "compare_more_than_4"
+msgstr ""
+
+#. Default: "Comparer"
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:350
+msgid "comparer"
 msgstr ""
 
 #. Default: "Contact"
@@ -447,7 +452,7 @@ msgstr ""
 
 #. Default: "Envoyer votre demande"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:269
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:153
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:155
 msgid "envoyer_demande"
 msgstr ""
 
@@ -483,7 +488,7 @@ msgid "francais"
 msgstr ""
 
 #. Default: "Fumeurs autorisés"
-#: gites.core/gites/core/browser/templates/search_host_form.pt:65
+#: gites.core/gites/core/browser/templates/search_host_form.pt:85
 msgid "fumeurs_autorises"
 msgstr ""
 
@@ -506,13 +511,14 @@ msgstr ""
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:16
-#: gites.core/gites/core/browser/templates/search_host_form.pt:15
+#: gites.core/gites/core/browser/templates/search_host_form.pt:16
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
 msgstr ""
 
 #. Default: "Up one level"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:15
+#: gites.core/gites/core/browser/templates/boutiquerootfolder.pt:12
 msgid "go_to_parent_url"
 msgstr ""
 
@@ -527,7 +533,7 @@ msgid "heading_checkout"
 msgstr ""
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:52
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51
 msgid "heb_count"
 msgstr ""
 
@@ -543,7 +549,7 @@ msgstr ""
 
 #. Default: "Enter the exact word in the image. This is used to fight robots."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:240
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:131
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:133
 msgid "help_captcha"
 msgstr ""
 
@@ -565,7 +571,7 @@ msgstr ""
 
 #. Default: "Invalid captcha"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:247
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:136
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:138
 msgid "invalid_captcha"
 msgstr ""
 
@@ -585,13 +591,14 @@ msgid "je_decouvre"
 msgstr ""
 
 #. Default: "Je trouve"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:53
-#: gites.core/gites/core/browser/templates/search_host_form.pt:76
+#: gites.core/gites/core/browser/templates/search_base_form.pt:54
+#: gites.core/gites/core/browser/templates/search_host_form.pt:98
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
 msgstr ""
 
 #. Default: "La boutique"
+#: gites.core/gites/core/browser/templates/boutiquerootfolder.pt:11
 #: gites.core/gites/core/viewlets/templates/boutique.pt:7
 msgid "la_boutique"
 msgstr ""
@@ -716,7 +723,7 @@ msgid "nos_offres"
 msgstr ""
 
 #. Default: "Il n'y a aucune derni&egrave;re minute"
-#: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:220
+#: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:229
 msgid "not_lastminute_correspondant"
 msgstr ""
 
@@ -767,7 +774,7 @@ msgid "plus_dinfos"
 msgstr ""
 
 #. Default: "Précédent"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:6
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:5
 msgid "precedent"
 msgstr ""
 
@@ -814,12 +821,12 @@ msgstr ""
 
 #. Default: "Remarques"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:222
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:117
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:119
 msgid "remarques"
 msgstr ""
 
 #. Default: "selectionner pour comparer"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:84
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:82
 msgid "selectionner-pour-comparer"
 msgstr ""
 
@@ -854,7 +861,7 @@ msgid "subscribe_to_newsletter"
 msgstr ""
 
 #. Default: "Suivant"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:26
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:25
 msgid "suivant"
 msgstr ""
 
@@ -917,7 +924,7 @@ msgid "toutes_nos_idees_sejour"
 msgstr ""
 
 #. Default: "Trier les résultats par"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:32
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:31
 msgid "trier_par"
 msgstr ""
 
