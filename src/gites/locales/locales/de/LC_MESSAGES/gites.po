@@ -277,7 +277,7 @@ msgstr "Adresse"
 #. Default: "Avec Allo chambre d'hôtes, trouvez une chambre d'hôtes disponible ce soir à proximité de votre destination en Wallonie."
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:25
 msgid "allo_chambre_description"
-msgstr "Mit „Allo chambres d‘hôtes“ (Hallo Gästezimmer) finden Sie ein freies Gästezimmer in der Nähe Ihres Bestimmungsortes in der Wallonie für heute Abend."
+msgstr "Mit „Allo chambres d‘hôtes“ finden Sie ein freies Gästezimmer in der Nähe Ihres Bestimmungsortes in der Wallonie für heute Abend."
 
 #. Default: "A la recherche d'une chambre d'hôtes pour cette nuit?"
 #: gites.core/gites/core/viewlets/templates/chambrehotes.pt:20
