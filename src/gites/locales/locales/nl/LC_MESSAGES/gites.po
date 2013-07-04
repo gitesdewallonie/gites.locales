@@ -340,7 +340,7 @@ msgstr "Kosten"
 #. Default: "Nous traitons votre commande dans les plus brefs délais.<br /> Elle vous parviendra dans les prochains jours."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:7
 msgid "checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Wij verwerken uw bestelling zo snel mogelijk. U ontvangt uw bestelling in de volgende dagen."
 
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
@@ -364,11 +364,11 @@ msgstr "Bestelling"
 
 #: gites.core/gites/core/browser/hebcomparison.py:103
 msgid "compare_less_than_2"
-msgstr "INCOMPLETE"
+msgstr "Minimum 2 logiesadressen kiezen, aub."
 
 #: gites.core/gites/core/browser/hebcomparison.py:106
 msgid "compare_more_than_4"
-msgstr "INCOMPLETE"
+msgstr "Maximaal 4 logiesadressen kiezen, aub."
 
 #. Default: "Comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:358
@@ -420,7 +420,7 @@ msgstr "Last minutes"
 #. Default: "Dernières minutes et promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:11
 msgid "dernieres_minutes_promotions"
-msgstr "INCOMPLETE"
+msgstr "Last minute en promoties"
 
 #. Default: "Description"
 #: gites.core/gites/core/browser/templates/hebergement.pt:433
@@ -548,7 +548,7 @@ msgstr "Afrekenen"
 #. Default: "Nous vous remercions pour votre commande."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:5
 msgid "heading_checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Wij danken u voor uw bestelling."
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51

@@ -363,11 +363,11 @@ msgstr "Order"
 
 #: gites.core/gites/core/browser/hebcomparison.py:103
 msgid "compare_less_than_2"
-msgstr "Compare less than 2"
+msgstr "Please select at least two possibilities."
 
 #: gites.core/gites/core/browser/hebcomparison.py:106
 msgid "compare_more_than_4"
-msgstr "Compare more than 4"
+msgstr "Please select a maximum of four possibilities."
 
 #. Default: "Comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:358

@@ -341,7 +341,7 @@ msgstr "Spese"
 #. Default: "Nous traitons votre commande dans les plus brefs délais.<br /> Elle vous parviendra dans les prochains jours."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:7
 msgid "checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Ci occuperemo del vostro ordine entro brevissimo tempo. Vi arriverà nei prossimi giorni."
 
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
@@ -365,11 +365,11 @@ msgstr "Ordine"
 
 #: gites.core/gites/core/browser/hebcomparison.py:103
 msgid "compare_less_than_2"
-msgstr "INCOMPLETE"
+msgstr "Scegliete almeno 2 sistemazioni."
 
 #: gites.core/gites/core/browser/hebcomparison.py:106
 msgid "compare_more_than_4"
-msgstr "INCOMPLETE"
+msgstr "Scegliete al massimo 4 sistemazioni."
 
 #. Default: "Comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:358
@@ -421,7 +421,7 @@ msgstr "Ultima ora"
 #. Default: "Dernières minutes et promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:11
 msgid "dernieres_minutes_promotions"
-msgstr "INCOMPLETE"
+msgstr "Ultimo minuto e promozioni"
 
 #. Default: "Description"
 #: gites.core/gites/core/browser/templates/hebergement.pt:433
@@ -549,7 +549,7 @@ msgstr "Acquista"
 #. Default: "Nous vous remercions pour votre commande."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:5
 msgid "heading_checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Vi ringraziamo del vostro ordine."
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51

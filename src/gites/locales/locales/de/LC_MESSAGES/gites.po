@@ -364,11 +364,11 @@ msgstr "Auftrag"
 
 #: gites.core/gites/core/browser/hebcomparison.py:103
 msgid "compare_less_than_2"
-msgstr "Weniger Als 2 Vergleichen"
+msgstr "Bitte mindestens 2 Unterkünfte auswählen."
 
 #: gites.core/gites/core/browser/hebcomparison.py:106
 msgid "compare_more_than_4"
-msgstr "Mehr Als 4 Vergleichen"
+msgstr "Bitte höchstens 4 Unterkünfte auswählen."
 
 #. Default: "Comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:358
