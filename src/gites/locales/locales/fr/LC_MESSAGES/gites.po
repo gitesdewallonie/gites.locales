@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-07-03 11:55+0000\n"
+"POT-Creation-Date: 2013-07-04 11:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -155,7 +155,7 @@ msgstr ""
 
 #: gites.core/gites/core/browser/interfaces.py:281
 msgid "Near to"
-msgstr ""
+msgstr "A proximité de"
 
 #. Default: "Night life"
 #: gites/map/browser/templates/hebergements_map.pt:125
