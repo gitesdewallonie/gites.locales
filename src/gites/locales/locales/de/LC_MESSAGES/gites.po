@@ -340,7 +340,7 @@ msgstr "Nebenkosten"
 #. Default: "Nous traitons votre commande dans les plus brefs délais.<br /> Elle vous parviendra dans les prochains jours."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:7
 msgid "checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Wir bearbeiten Ihre Bestellung so schnell wie möglich. Sie wird Ihnen innerhalb einiger Tage zugestellt."
 
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
@@ -420,7 +420,7 @@ msgstr "Last Minutes"
 #. Default: "Dernières minutes et promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:11
 msgid "dernieres_minutes_promotions"
-msgstr "INCOMPLETE"
+msgstr "Neuigkeiten und Sonderangebote"
 
 #. Default: "Description"
 #: gites.core/gites/core/browser/templates/hebergement.pt:433
@@ -472,7 +472,7 @@ msgstr "Anfrage absenden"
 #. Default: "Nous n'avons pas trouv&eacute; votre localisation ${localisation}. Merci de v&eacute;rifier le nom. Voici les h&eacute;bergements r&eacute;pondant &agrave; vos autres crit&egrave;res."
 #: gites.core/gites/core/browser/templates/search_results_hebergement.pt:36
 msgid "erreur_localisation_non_trouvee"
-msgstr "INCOMPLETE"
+msgstr "Wir haben Ihre Lokalisierung nicht gefunden. Bitte den Namen güberprüfen. Hier die Unterkünfte, die Ihren anderen Kriterien entsprechen."
 
 #. Default: "Devenez fans sur facebook"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:11
@@ -548,7 +548,7 @@ msgstr "Auschecken"
 #. Default: "Nous vous remercions pour votre commande."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:5
 msgid "heading_checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Wir danken Ihnen für Ihre Bestellung."
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51

@@ -339,7 +339,7 @@ msgstr "Charges"
 #. Default: "Nous traitons votre commande dans les plus brefs délais.<br /> Elle vous parviendra dans les prochains jours."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:7
 msgid "checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "We will process your order as quickly as possible. It will be sent to you in the next few days."
 
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
@@ -419,7 +419,7 @@ msgstr "Last minutes"
 #. Default: "Dernières minutes et promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:11
 msgid "dernieres_minutes_promotions"
-msgstr "INCOMPLETE"
+msgstr "Last-minute offers and special offers"
 
 #. Default: "Description"
 #: gites.core/gites/core/browser/templates/hebergement.pt:433
@@ -547,7 +547,7 @@ msgstr "Checkout"
 #. Default: "Nous vous remercions pour votre commande."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:5
 msgid "heading_checkout_thank_you"
-msgstr "INCOMPLETE"
+msgstr "Thank you for your order."
 
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51
