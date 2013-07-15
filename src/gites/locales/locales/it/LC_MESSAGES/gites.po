@@ -642,19 +642,19 @@ msgstr "Lista"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:496
 msgid "lit_1_personne"
-msgstr "INCOMPLETE"
+msgstr "Letto 1 piazza"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:506
 msgid "lit_2_personne"
-msgstr "INCOMPLETE"
+msgstr "Letto 2 piazze"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:526
 msgid "lit_enfant"
-msgstr "INCOMPLETE"
+msgstr "Lettino bimbo"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:516
 msgid "lit_superpose"
-msgstr "INCOMPLETE"
+msgstr "Letto a castello"
 
 #. Default: "Localisation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:619
@@ -732,7 +732,7 @@ msgstr "Numero di camere"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:486
 msgid "nombre_de_chambre"
-msgstr "INCOMPLETE"
+msgstr "Numero di camere"
 
 #. Default: "Il y a ${nombre} hébergements"
 #: gites.core/gites/core/browser/templates/package.pt:53

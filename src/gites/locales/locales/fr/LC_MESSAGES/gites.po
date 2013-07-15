@@ -68,11 +68,11 @@ msgstr ""
 
 #: gites/shop/browser/cart.py:19
 msgid "Checkout"
-msgstr ""
+msgstr "Passer la commande"
 
 #: gites/shop/interfaces.py:22
 msgid "City"
-msgstr ""
+msgstr "Ville"
 
 #: gites.core/gites/core/browser/interfaces.py:188
 msgid "Classification"
@@ -80,7 +80,7 @@ msgstr "Classification"
 
 #: gites/shop/browser/cart.py:12
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Continuer les achats"
 
 #: gites/shop/interfaces.py:23
 msgid "Country"
@@ -88,28 +88,28 @@ msgstr "Pays"
 
 #: gites.core/gites/core/viewlets/listing.py:189
 msgid "Distance"
-msgstr ""
+msgstr "Distance"
 
 #: gites.core/gites/core/viewlets/listing.py:176
 msgid "Epis"
-msgstr ""
+msgstr "Epis"
 
 #. Default: "Evenements"
 #: gites/map/browser/templates/hebergements_map.pt:66
 msgid "Evenements"
-msgstr ""
+msgstr "Evénements"
 
 #: gites/shop/interfaces.py:20
 msgid "First Line"
-msgstr ""
+msgstr "Première ligne"
 
 #: gites/map/browser/templates/hebergements_map.pt:81
 msgid "Gares"
-msgstr ""
+msgstr "Gares"
 
 #: gites/map/browser/templates/hebergements_map.pt:25
 msgid "Gites"
-msgstr ""
+msgstr "Gîtes"
 
 #: gites.core/gites/core/browser/interfaces.py:182
 #: gites.core/gites/core/viewlets/listing.py:187
@@ -118,24 +118,24 @@ msgstr "Type d'hébergement"
 
 #: gites.core/gites/core/browser/SendMail.py:247
 msgid "Il y a eu un problème lors de l'envoi de votre demande."
-msgstr ""
+msgstr "Il y a eu un problème lors de l'envoi de votre demande."
 
 #. Default: "Informations touristiques"
 #: gites/map/browser/templates/hebergements_map.pt:34
 msgid "Informations_touristiques"
-msgstr ""
+msgstr "Informations touristiques"
 
 #: gites/shop/browser/admin_order.py:48
 msgid "Item Code"
-msgstr ""
+msgstr "Code du produit"
 
 #: gites/shop/browser/admin_order.py:46
 msgid "Item Id"
-msgstr ""
+msgstr "Référence du produit"
 
 #: gites/map/browser/templates/hebergements_map.pt:88
 msgid "Magasins"
-msgstr ""
+msgstr "Magasins"
 
 #: gites/shop/browser/checkout.py:94
 msgid "Make Payment"
@@ -151,7 +151,7 @@ msgstr ""
 
 #: gites/shop/browser/admin_order.py:47
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: gites.core/gites/core/browser/interfaces.py:285
 msgid "Near to"
@@ -160,7 +160,7 @@ msgstr "A proximité de"
 #. Default: "Night life"
 #: gites/map/browser/templates/hebergements_map.pt:125
 msgid "Night_life"
-msgstr ""
+msgstr "Night Life"
 
 #: gites.core/gites/core/browser/interfaces.py:199
 msgid "Number of rooms"
@@ -178,19 +178,19 @@ msgstr "Prix"
 #. Default: "Produits du terroir"
 #: gites/map/browser/templates/hebergements_map.pt:58
 msgid "Produits_du_terroir"
-msgstr ""
+msgstr "Produits du terroir"
 
 #: gites/shop/browser/admin_order.py:50
 msgid "Quantity"
-msgstr ""
+msgstr "Quantité"
 
 #: gites/map/browser/templates/hebergements_map.pt:74
 msgid "Restaurants"
-msgstr ""
+msgstr "Restaurants"
 
 #: gites/shop/interfaces.py:18
 msgid "Same as shipping address"
-msgstr ""
+msgstr "Identique à l'adresse d'expédition"
 
 #: gites.core/gites/core/browser/search.py:25
 msgid "Search Hebergement"
@@ -198,7 +198,7 @@ msgstr "Rechercher un hébergement"
 
 #: gites/shop/interfaces.py:21
 msgid "Second Line"
-msgstr ""
+msgstr "Deuxième ligne"
 
 #: gites.core/gites/core/browser/interfaces.py:189
 msgid "Select a classification"
@@ -215,11 +215,11 @@ msgstr "Fumeurs autorisés"
 #. Default: "Sports & loisirs"
 #: gites/map/browser/templates/hebergements_map.pt:50
 msgid "Sports_loisirs"
-msgstr ""
+msgstr "Sports & loisirs"
 
 #: gites/shop/browser/admin_order.py:52
 msgid "Status"
-msgstr ""
+msgstr "Statuts"
 
 #: gites.core/gites/core/browser/interfaces.py:213
 msgid "Stay from"
@@ -239,19 +239,19 @@ msgstr "Nombre de chambres dans l'hébergement"
 
 #: gites/shop/browser/admin_order.py:51
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #: gites/shop/interfaces.py:29
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 
 #: gites/map/browser/templates/hebergements_map.pt:111
 msgid "Wellness"
-msgstr ""
+msgstr "Wellness"
 
 #: gites/shop/interfaces.py:27
 msgid "Zip Code"
-msgstr ""
+msgstr "Code postal"
 
 #. Default: "A proximité de"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:45
@@ -307,7 +307,7 @@ msgstr "Basse saison"
 
 #: gites.core/gites/core/table/hebcomparison.py:234
 msgid "calendrier"
-msgstr ""
+msgstr "Calendrier"
 
 #. Default: "Calendrier pas à jour"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:101
@@ -621,7 +621,7 @@ msgstr "La boutique"
 #: gites/shop/browser/templates/la_boutique_view.pt:36
 #: gites/shop/browser/templates/portlet-content-buyable.pt:37
 msgid "label_add_to_cart"
-msgstr ""
+msgstr "Ajouter au panier"
 
 #. Default: "Je cherche"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:3
@@ -641,19 +641,19 @@ msgstr ""
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:496
 msgid "lit_1_personne"
-msgstr ""
+msgstr "Lit 1 personne"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:506
 msgid "lit_2_personne"
-msgstr ""
+msgstr "Lit 2 personnes"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:526
 msgid "lit_enfant"
-msgstr ""
+msgstr "Lit enfant"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:516
 msgid "lit_superpose"
-msgstr ""
+msgstr "Lits superposés"
 
 #. Default: "Localisation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:619
@@ -731,7 +731,7 @@ msgstr "Nombre de chambres"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:486
 msgid "nombre_de_chambre"
-msgstr ""
+msgstr "Nombre de chambres"
 
 #. Default: "Il y a ${nombre} hébergements"
 #: gites.core/gites/core/browser/templates/package.pt:53
@@ -861,7 +861,7 @@ msgstr "Remarques"
 #. Default: "selectionner pour comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:82
 msgid "selectionner-pour-comparer"
-msgstr ""
+msgstr "sélectionner pour comparer"
 
 #. Default: "Semaine"
 #: gites.core/gites/core/browser/templates/hebergement.pt:240

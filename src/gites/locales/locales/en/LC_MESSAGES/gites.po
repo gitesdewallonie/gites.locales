@@ -640,19 +640,19 @@ msgstr "List"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:496
 msgid "lit_1_personne"
-msgstr "INCOMPLETE"
+msgstr "Single bed"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:506
 msgid "lit_2_personne"
-msgstr "INCOMPLETE"
+msgstr "Double bed"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:526
 msgid "lit_enfant"
-msgstr "INCOMPLETE"
+msgstr "Child's bed"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:516
 msgid "lit_superpose"
-msgstr "INCOMPLETE"
+msgstr "Bunk bed"
 
 #. Default: "Localisation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:619
@@ -730,7 +730,7 @@ msgstr "Number of rooms"
 
 #: gites.core/gites/core/browser/templates/hebergement.pt:486
 msgid "nombre_de_chambre"
-msgstr "INCOMPLETE"
+msgstr "Number of rooms"
 
 #. Default: "Il y a ${nombre} hébergements"
 #: gites.core/gites/core/browser/templates/package.pt:53
