@@ -16,13 +16,13 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-msgid "gite-groupes"
-msgstr ""
-
 msgid "maison-d-hotes"
 msgstr ""
 
 msgid "chambre-d-hotes"
+msgstr ""
+
+msgid "gite"
 msgstr ""
 
 msgid "chambre"
@@ -65,7 +65,4 @@ msgid "gitesplus"
 msgstr ""
 
 msgid "informations"
-msgstr ""
-
-msgid "autre"
 msgstr ""

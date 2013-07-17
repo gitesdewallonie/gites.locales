@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-07-14 11:13+0000\n"
+"POT-Creation-Date: 2013-07-17 10:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -67,19 +67,21 @@ msgstr "Casinò"
 msgid "Chambres"
 msgstr "Camere"
 
-#: gites/shop/browser/cart.py:19
+#: gites/shop/browser/cart.py:25
 msgid "Checkout"
 msgstr "Check-out"
 
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:63
 #: gites/shop/interfaces.py:22
 msgid "City"
 msgstr "Città"
 
 #: gites.core/gites/core/browser/interfaces.py:188
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:71
 msgid "Classification"
 msgstr "Classifica"
 
-#: gites/shop/browser/cart.py:12
+#: gites/shop/browser/cart.py:19
 msgid "Continue Shopping"
 msgstr "Continuare i miei acquisti"
 
@@ -87,11 +89,11 @@ msgstr "Continuare i miei acquisti"
 msgid "Country"
 msgstr "Paese"
 
-#: gites.core/gites/core/viewlets/listing.py:189
+#: gites.core/gites/core/viewlets/listing.py:230
 msgid "Distance"
 msgstr "Distanza"
 
-#: gites.core/gites/core/viewlets/listing.py:176
+#: gites.core/gites/core/viewlets/listing.py:217
 msgid "Epis"
 msgstr "Spighe"
 
@@ -113,7 +115,7 @@ msgid "Gites"
 msgstr "Alloggi"
 
 #: gites.core/gites/core/browser/interfaces.py:182
-#: gites.core/gites/core/viewlets/listing.py:187
+#: gites.core/gites/core/viewlets/listing.py:228
 msgid "Hebergement Type"
 msgstr "Tipo di abitazione"
 
@@ -193,7 +195,7 @@ msgstr "Ristoranti"
 msgid "Same as shipping address"
 msgstr "Identico all'indirizzo di spedizione"
 
-#: gites.core/gites/core/browser/search.py:25
+#: gites.core/gites/core/browser/search.py:28
 msgid "Search Hebergement"
 msgstr "Ricercare un'abitazione"
 
@@ -223,10 +225,12 @@ msgid "Status"
 msgstr "Status"
 
 #: gites.core/gites/core/browser/interfaces.py:213
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:31
 msgid "Stay from"
 msgstr "Arrivo"
 
 #: gites.core/gites/core/browser/interfaces.py:217
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:41
 msgid "Stay to"
 msgstr "Partenza"
 
@@ -256,7 +260,6 @@ msgstr "Codice postale"
 
 #. Default: "A proximité de"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:45
-#: gites.core/gites/core/browser/templates/search_host_form.pt:57
 msgid "a_proximite_de"
 msgstr "Nelle vicinanze di"
 
@@ -266,9 +269,12 @@ msgid "accueil"
 msgstr "Benvenuto"
 
 #. Default: "Rechercher"
-#: gites.core/gites/core/browser/search.py:84
+#: gites.core/gites/core/browser/search.py:87
 msgid "action_search"
 msgstr "Ricercare"
+
+msgid "activites"
+msgstr ""
 
 #. Default: "Adresse"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:68
@@ -291,10 +297,8 @@ msgstr "Siete alla ricerca di una camera per gli ospiti per questa notte?"
 msgid "anglais"
 msgstr "Inglese"
 
-#. Default: "Animaux autorisés sur demande"
-#: gites.core/gites/core/browser/templates/search_host_form.pt:94
-msgid "animaux_autorises"
-msgstr "animali autorizzati previa domanda"
+msgid "autorisations"
+msgstr ""
 
 #. Default: "Autre"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
@@ -328,7 +332,7 @@ msgstr "Camera per gli Ospiti"
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:25
-#: gites.core/gites/core/browser/templates/search_host_form.pt:26
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:26
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
 msgstr "Camera per gli ospiti"
@@ -372,9 +376,12 @@ msgid "compare_more_than_4"
 msgstr "Scegliete al massimo 4 sistemazioni."
 
 #. Default: "Comparer"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:363
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:365
 msgid "comparer"
 msgstr "Comparare"
+
+msgid "confort"
+msgstr "Comfort"
 
 #. Default: "Contact"
 #: gites.core/gites/core/browser/templates/hebergement.pt:629
@@ -496,15 +503,13 @@ msgstr "Fine anno"
 msgid "francais"
 msgstr "Francese"
 
-#. Default: "Fumeurs autorisés"
-#: gites.core/gites/core/browser/templates/search_host_form.pt:85
-msgid "fumeurs_autorises"
-msgstr "alloggi per fumatori"
-
 #. Default: "Garantie"
 #: gites.core/gites/core/browser/templates/hebergement.pt:300
 msgid "garantie"
 msgstr "Garanzia"
+
+msgid "gite"
+msgstr "Alloggi"
 
 msgid "gite-a-la-ferme"
 msgstr "Allogio in fattoria"
@@ -512,6 +517,8 @@ msgstr "Allogio in fattoria"
 msgid "gite-citadin"
 msgstr "Abitazione cittadina"
 
+#. Default: "Groupement"
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:211
 msgid "gite-groupes"
 msgstr "Raggruppamento"
 
@@ -520,10 +527,13 @@ msgstr "Abitazione Rurale"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:16
-#: gites.core/gites/core/browser/templates/search_host_form.pt:16
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:16
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
 msgstr "Alloggi"
+
+msgid "gitesplus"
+msgstr "Alloggi Più"
 
 #. Default: "Up one level"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:15
@@ -578,6 +588,9 @@ msgstr "Idee Soggiorno"
 msgid "in_location"
 msgstr "in"
 
+msgid "informations"
+msgstr ""
+
 #. Default: "INSOLITE"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:49
 msgid "insolite"
@@ -606,7 +619,6 @@ msgstr "Scopro"
 
 #. Default: "Je trouve"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:54
-#: gites.core/gites/core/browser/templates/search_host_form.pt:98
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
 msgstr "Trovo"
@@ -726,7 +738,7 @@ msgid "nom_ou_reference"
 msgstr "Nome o riferimento"
 
 #. Default: "Nombre de chambres"
-#: gites.core/gites/core/viewlets/listing.py:175
+#: gites.core/gites/core/viewlets/listing.py:216
 msgid "nombre-chambres"
 msgstr "Numero di camere"
 
@@ -742,7 +754,7 @@ msgstr "Ci sono ${nombre} alloggi"
 #. Default: "Nombre de personnes"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:211
 #: gites.core/gites/core/browser/templates/search_base_form.pt:37
-#: gites.core/gites/core/viewlets/listing.py:174
+#: gites.core/gites/core/viewlets/listing.py:215
 msgid "nombre_personnes"
 msgstr "Numero di persone"
 
@@ -860,7 +872,7 @@ msgid "remarques"
 msgstr "Osservazioni"
 
 #. Default: "selectionner pour comparer"
-#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:82
+#: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:84
 msgid "selectionner-pour-comparer"
 msgstr "Selezionare per comparare"
 
@@ -909,6 +921,9 @@ msgstr "Seguiteci su twitter"
 msgid "table_hotes"
 msgstr "Tavola per gli ospiti"
 
+msgid "tablehote"
+msgstr "Tavola per gli ospiti"
+
 #. Default: "Tarif"
 #: gites.core/gites/core/browser/templates/hebergement.pt:399
 msgid "tarif"
@@ -935,6 +950,9 @@ msgstr "Prezzi: ${value_price} €"
 #: gites/shop/browser/templates/portlet-content-buyable.pt:12
 msgid "text_product_details"
 msgstr "Dettagli sul prodotto"
+
+msgid "theme"
+msgstr "Allogi Tema"
 
 #. Default: "Required"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:38
@@ -1010,26 +1028,3 @@ msgstr "spighe"
 msgid "x_personnes"
 msgstr "persone"
 
-msgid "confort"
-msgstr "Comfort"
-
-msgid "autorisations"
-msgstr ""
-
-msgid "activites"
-msgstr ""
-
-msgid "theme"
-msgstr "Allogi Tema"
-
-msgid "tablehote"
-msgstr "Tavola per gli ospiti"
-
-msgid "gitesplus"
-msgstr "Alloggi Più"
-
-msgid "informations"
-msgstr ""
-
-msgid "autre"
-msgstr ""
