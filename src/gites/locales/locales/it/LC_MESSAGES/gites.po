@@ -1010,3 +1010,26 @@ msgstr "spighe"
 msgid "x_personnes"
 msgstr "persone"
 
+msgid "confort"
+msgstr ""
+
+msgid "autorisations"
+msgstr ""
+
+msgid "activites"
+msgstr ""
+
+msgid "theme"
+msgstr ""
+
+msgid "tablehote"
+msgstr ""
+
+msgid "gitesplus"
+msgstr ""
+
+msgid "informations"
+msgstr ""
+
+msgid "autre"
+msgstr ""
