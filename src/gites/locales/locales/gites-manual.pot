@@ -55,7 +55,7 @@ msgstr ""
 msgid "activites"
 msgstr ""
 
-msgid "theme"
+msgid "themes"
 msgstr ""
 
 msgid "tablehote"

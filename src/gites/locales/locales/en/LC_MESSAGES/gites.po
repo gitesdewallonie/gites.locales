@@ -949,7 +949,7 @@ msgstr "Price: ${value_price} €"
 msgid "text_product_details"
 msgstr "Product details"
 
-msgid "theme"
+msgid "themes"
 msgstr "Themed Gites"
 
 #. Default: "Required"

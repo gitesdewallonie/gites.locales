@@ -948,7 +948,7 @@ msgstr ""
 msgid "text_product_details"
 msgstr ""
 
-msgid "theme"
+msgid "themes"
 msgstr ""
 
 #. Default: "Required"

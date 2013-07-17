@@ -950,7 +950,7 @@ msgstr "Preis: ${value_price}  €"
 msgid "text_product_details"
 msgstr "Produktdetails"
 
-msgid "theme"
+msgid "themes"
 msgstr "Thematische Ferienhäuser"
 
 #. Default: "Required"

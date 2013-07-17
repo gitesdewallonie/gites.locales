@@ -951,7 +951,7 @@ msgstr "Prezzi: ${value_price} €"
 msgid "text_product_details"
 msgstr "Dettagli sul prodotto"
 
-msgid "theme"
+msgid "themes"
 msgstr "Allogi Tema"
 
 #. Default: "Required"
