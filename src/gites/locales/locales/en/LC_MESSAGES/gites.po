@@ -297,7 +297,7 @@ msgstr "English"
 
 #: gites.core/gites/core/browser/hebergement.py:202
 msgid "animaux_interdits"
-msgstr ""
+msgstr "Pets not allowed"
 
 msgid "autorisations"
 msgstr ""
@@ -570,7 +570,7 @@ msgstr "accommodation corresponds to your search."
 
 #: gites.core/gites/core/browser/hebergement.py:211
 msgid "hebergement_non_fumeur"
-msgstr ""
+msgstr "Non smoking accommodation"
 
 #. Default: "h&eacute;bergements correspondent &agrave; votre recherche."
 #: gites.core/gites/core/browser/templates/search_results_hebergement.pt:43
