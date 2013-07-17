@@ -1009,7 +1009,7 @@ msgid "x_personnes"
 msgstr "people"
 
 msgid "confort"
-msgstr ""
+msgstr "Comfort"
 
 msgid "autorisations"
 msgstr ""
@@ -1018,13 +1018,13 @@ msgid "activites"
 msgstr ""
 
 msgid "theme"
-msgstr ""
+msgstr "Themed Gites"
 
 msgid "tablehote"
-msgstr ""
+msgstr "Dinner"
 
 msgid "gitesplus"
-msgstr ""
+msgstr "Plus Gites"
 
 msgid "informations"
 msgstr ""

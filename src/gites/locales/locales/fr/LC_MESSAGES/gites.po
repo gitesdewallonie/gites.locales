@@ -1010,25 +1010,25 @@ msgid "x_personnes"
 msgstr ""
 
 msgid "confort"
-msgstr ""
+msgstr "Confort"
 
 msgid "autorisations"
-msgstr ""
+msgstr "Autorisations"
 
 msgid "activites"
-msgstr ""
+msgstr "Activités sur place"
 
 msgid "theme"
-msgstr ""
+msgstr "Thèmes"
 
 msgid "tablehote"
-msgstr ""
+msgstr "Table d'hôtes"
 
 msgid "gitesplus"
-msgstr ""
+msgstr "Gîtes plus"
 
 msgid "informations"
-msgstr ""
+msgstr "Informations"
 
 msgid "autre"
-msgstr ""
+msgstr "Autres"

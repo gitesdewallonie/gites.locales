@@ -1010,7 +1010,7 @@ msgid "x_personnes"
 msgstr "Personen"
 
 msgid "confort"
-msgstr ""
+msgstr "Komfort"
 
 msgid "autorisations"
 msgstr ""
@@ -1019,13 +1019,13 @@ msgid "activites"
 msgstr ""
 
 msgid "theme"
-msgstr ""
+msgstr "Thematische Ferienhäuser"
 
 msgid "tablehote"
-msgstr ""
+msgstr "Gästetisch"
 
 msgid "gitesplus"
-msgstr ""
+msgstr "Ferienhäuser Plus"
 
 msgid "informations"
 msgstr ""
