@@ -274,7 +274,7 @@ msgid "action_search"
 msgstr "Ricercare"
 
 msgid "activites"
-msgstr ""
+msgstr "Attività sul posto"
 
 #. Default: "Adresse"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:68
@@ -298,7 +298,7 @@ msgid "anglais"
 msgstr "Inglese"
 
 msgid "autorisations"
-msgstr ""
+msgstr "Autorizzazioni"
 
 #. Default: "Autre"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
