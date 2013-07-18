@@ -273,7 +273,7 @@ msgid "action_search"
 msgstr "Zoeken"
 
 msgid "activites"
-msgstr ""
+msgstr "activiteiten ter plaatse"
 
 #. Default: "Adresse"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:68
@@ -301,7 +301,7 @@ msgid "animaux_interdits"
 msgstr "Dieren niet toegelaten"
 
 msgid "autorisations"
-msgstr ""
+msgstr "toegestaan"
 
 #. Default: "Autre"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
