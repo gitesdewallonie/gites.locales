@@ -389,7 +389,7 @@ msgstr "Comfort"
 #. Default: "Contact"
 #: gites.core/gites/core/browser/templates/hebergement.pt:640
 msgid "contact"
-msgstr "Contacten"
+msgstr "Contacteren"
 
 #. Default: "Contactez le propri&eacute;taire"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:18
