@@ -562,7 +562,7 @@ msgstr "Wir danken Ihnen für Ihre Bestellung."
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51
 msgid "heb_count"
-msgstr "Unterkunft ${heb_start} zu ${heb_number} von insgesamt ${heb_number_total}"
+msgstr "Unterkunft ${heb_start} bis ${heb_number} von insgesamt ${heb_number_total}"
 
 #. Default: "h&eacute;bergement correspond &agrave; votre recherche."
 #: gites.core/gites/core/browser/templates/search_results_hebergement.pt:44
@@ -634,7 +634,7 @@ msgstr "Ich finde"
 #: gites.core/gites/core/browser/templates/boutiquerootfolder.pt:11
 #: gites.core/gites/core/viewlets/templates/boutique.pt:7
 msgid "la_boutique"
-msgstr "Der shop"
+msgstr "Der Shop"
 
 #. Default: "Add to Cart"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:41
