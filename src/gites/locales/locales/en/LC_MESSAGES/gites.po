@@ -787,7 +787,7 @@ msgstr "No promotions for the moment"
 #. Default: "Nouveaux hebergements"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:34
 msgid "nouveaux_hebergements"
-msgstr "New accommodations"
+msgstr "New accommodation addresses"
 
 #. Default: "Nuit&eacute;e avec petit d&eacute;jeuner"
 #: gites.core/gites/core/browser/templates/hebergement.pt:342
