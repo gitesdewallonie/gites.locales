@@ -562,7 +562,7 @@ msgstr "Wij danken u voor uw bestelling."
 #. Default: "Hébergement ${heb_start} à ${heb_number} sur un total de ${heb_number_total}"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:51
 msgid "heb_count"
-msgstr "Logiesadressen ${heb_start} tot ${heb_number} op een totaal van  ${heb_number_total}"
+msgstr "Logiesadressen ${heb_start} tot ${heb_number} op een totaal van ${heb_number_total}"
 
 #. Default: "h&eacute;bergement correspond &agrave; votre recherche."
 #: gites.core/gites/core/browser/templates/search_results_hebergement.pt:44
