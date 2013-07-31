@@ -230,7 +230,7 @@ msgstr "Arrival date"
 #: gites.core/gites/core/browser/interfaces.py:218
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:41
 msgid "Stay to"
-msgstr "Leaving date"
+msgstr "Departure date"
 
 #: gites.core/gites/core/browser/interfaces.py:196
 msgid "The minimum capacity of your hebergement"
@@ -272,7 +272,7 @@ msgid "action_search"
 msgstr "Search"
 
 msgid "activites"
-msgstr "local activities"
+msgstr "Local activities"
 
 #. Default: "Adresse"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:68
