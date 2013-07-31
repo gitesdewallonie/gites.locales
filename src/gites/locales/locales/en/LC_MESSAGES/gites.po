@@ -352,7 +352,7 @@ msgstr "We will process your order as quickly as possible. It will be sent to yo
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
 msgid "city_trip"
-msgstr "CITY-TRIP"
+msgstr "CITY TRIP"
 
 #. Default: "Civilité"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:27
@@ -587,7 +587,7 @@ msgstr "Enter the exact word in the image. This is used to fight robots."
 #: gites.core/gites/core/browser/templates/ideesejourrootfolder.pt:10
 #: gites.core/gites/core/viewlets/templates/ideessejours.pt:7
 msgid "idees_sejours"
-msgstr "Ideas of Stays"
+msgstr "Ideas for stays"
 
 #. Default: "in"
 #: gites.core/gites/core/browser/templates/type_heb_commune_view.pt:36
