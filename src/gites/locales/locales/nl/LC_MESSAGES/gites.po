@@ -526,7 +526,7 @@ msgid "gite-groupes"
 msgstr "Geheel"
 
 msgid "gite-rural"
-msgstr "Landelijk gîte"
+msgstr "Gîte op het platteland"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:21
