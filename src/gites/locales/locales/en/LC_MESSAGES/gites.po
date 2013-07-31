@@ -420,7 +420,7 @@ msgstr "Rebate if no breakfast"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:18
 #: gites.core/gites/core/viewlets/templates/derniereminute.pt:9
 msgid "dernieres_minutes"
-msgstr "Last minutes"
+msgstr "Last minute"
 
 #. Default: "Dernières minutes et promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:11
