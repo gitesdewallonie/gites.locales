@@ -326,13 +326,13 @@ msgstr "Calendario non aggiornato"
 #. Default: "Carte"
 #: gites.core/gites/core/browser/templates/package.pt:57
 msgid "carte"
-msgstr "carta"
+msgstr "Mappa"
 
 msgid "chambre"
 msgstr "Camera"
 
 msgid "chambre-d-hotes"
-msgstr "Camera per gli Ospiti"
+msgstr "Camere per gli ospiti"
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:30
@@ -354,7 +354,7 @@ msgstr "Ci occuperemo del vostro ordine entro brevissimo tempo. Vi arriverà nei
 #. Default: "CITY-TRIP"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
 msgid "city_trip"
-msgstr "CITY-TRIP"
+msgstr "CITY TRIP"
 
 #. Default: "Civilité"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:27
@@ -519,7 +519,7 @@ msgid "gite-a-la-ferme"
 msgstr "Allogio in fattoria"
 
 msgid "gite-citadin"
-msgstr "Abitazione cittadina"
+msgstr "Alloggio in città"
 
 #. Default: "Groupement"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:212
@@ -527,7 +527,7 @@ msgid "gite-groupes"
 msgstr "Raggruppamento"
 
 msgid "gite-rural"
-msgstr "Abitazione Rurale"
+msgstr "Alloggio rurale"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:21
@@ -548,7 +548,7 @@ msgstr "Andare al livello superiore"
 #. Default: "Haute saison"
 #: gites.core/gites/core/browser/templates/hebergement.pt:261
 msgid "haute_saison"
-msgstr "Alta stazione"
+msgstr "Alta stagione"
 
 #. Default: "Checkout"
 #: gites.core/gites/core/browser/templates/boutique_item_view.pt:44
@@ -711,7 +711,7 @@ msgid "meuble-de-tourisme"
 msgstr "Ammobiliato di Turismo"
 
 msgid "meuble-de-vacances"
-msgstr "Ammobiliato per le vacanze"
+msgstr "Alloggio ammobiliato"
 
 #. Default: "MICE"
 #: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:43
@@ -960,7 +960,7 @@ msgid "text_product_details"
 msgstr "Dettagli sul prodotto"
 
 msgid "themes"
-msgstr "Allogi Tema"
+msgstr "Alloggi Tema"
 
 #. Default: "Required"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:38
@@ -1006,7 +1006,7 @@ msgstr "Il riferimento dell'alloggio ${heb_pk} non è valido."
 #. Default: "WE"
 #: gites.core/gites/core/browser/templates/hebergement.pt:239
 msgid "week-end"
-msgstr "Fine settimana"
+msgstr "Week-end"
 
 #. Default: "chambres"
 #: gites.core/gites/core/browser/templates/hebergement.pt:118
