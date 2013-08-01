@@ -66,3 +66,6 @@ msgstr ""
 
 msgid "informations"
 msgstr ""
+
+msgid "calendrier"
+msgstr ""

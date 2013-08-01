@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-07-31 09:07+0000\n"
+"POT-Creation-Date: 2013-08-01 17:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -66,7 +66,7 @@ msgstr "Kasinos"
 msgid "Chambres"
 msgstr "Zimmer"
 
-#: gites/shop/browser/cart.py:25
+#: gites/shop/browser/cart.py:34
 msgid "Checkout"
 msgstr "Check-Out"
 
@@ -80,7 +80,7 @@ msgstr "Stadt"
 msgid "Classification"
 msgstr "Einstufung"
 
-#: gites/shop/browser/cart.py:19
+#: gites/shop/browser/cart.py:28
 msgid "Continue Shopping"
 msgstr "Weiter einkaufen"
 
@@ -139,7 +139,7 @@ msgstr "Referenz des Produkts"
 msgid "Magasins"
 msgstr "Geschäfte"
 
-#: gites/shop/browser/checkout.py:94
+#: gites/shop/browser/checkout.py:124
 msgid "Make Payment"
 msgstr "Eine Zahlung tätigen"
 
@@ -148,10 +148,13 @@ msgid "Minimum Capacity"
 msgstr "Mindestkapazität"
 
 #: gites/shop/browser/admin_order.py:37
+#: gites/shop/browser/checkout.py:102
 msgid "N/A"
 msgstr "N/A"
 
 #: gites/shop/browser/admin_order.py:48
+#: gites/shop/browser/cart.py:49
+#: gites/shop/browser/checkout.py:91
 msgid "Name"
 msgstr "Name"
 
@@ -174,6 +177,8 @@ msgid "Pour_selectionner_zoomer"
 msgstr "Um andere Interessen auszuwählen, bitte in die Karte zoomen."
 
 #: gites/shop/browser/admin_order.py:50
+#: gites/shop/browser/cart.py:50
+#: gites/shop/browser/checkout.py:92
 msgid "Price"
 msgstr "Preis"
 
@@ -183,6 +188,8 @@ msgid "Produits_du_terroir"
 msgstr "Regionale Erzeugnisse"
 
 #: gites/shop/browser/admin_order.py:51
+#: gites/shop/browser/cart.py:48
+#: gites/shop/browser/checkout.py:90
 msgid "Quantity"
 msgstr "Menge"
 
@@ -242,6 +249,8 @@ msgid "The number of rooms in hebergement"
 msgstr "Anzahl Zimmer in der Unterkunft"
 
 #: gites/shop/browser/admin_order.py:52
+#: gites/shop/browser/cart.py:51
+#: gites/shop/browser/checkout.py:93
 msgid "Total"
 msgstr "Insgesamt"
 
@@ -258,7 +267,7 @@ msgid "Zip Code"
 msgstr "Postleitzahl"
 
 #. Default: "A proximité de"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:50
+#: gites.core/gites/core/browser/templates/search_base_form.pt:45
 msgid "a_proximite_de"
 msgstr "In der Nähe von"
 
@@ -313,7 +322,6 @@ msgstr "Sonstige"
 msgid "basse_saison"
 msgstr "Niedrige Saison"
 
-#: gites.core/gites/core/table/hebcomparison.py:236
 msgid "calendrier"
 msgstr "Kalender"
 
@@ -334,7 +342,7 @@ msgid "chambre-d-hotes"
 msgstr "Gästezimmer"
 
 #. Default: "Chambre d'h&ocirc;tes"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:30
+#: gites.core/gites/core/browser/templates/search_base_form.pt:25
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:26
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
@@ -459,7 +467,7 @@ msgid "distribution"
 msgstr "Aufteilung"
 
 #. Default: "Divers"
-#: gites.core/gites/core/browser/templates/hebergement.pt:381
+#: gites.core/gites/core/browser/templates/hebergement.pt:325
 msgid "divers"
 msgstr "Verschiedenes"
 
@@ -529,7 +537,7 @@ msgid "gite-rural"
 msgstr "Ferienhaus auf dem Land"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:21
+#: gites.core/gites/core/browser/templates/search_base_form.pt:16
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:16
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
@@ -625,7 +633,7 @@ msgid "je_decouvre"
 msgstr "Ich entdecke"
 
 #. Default: "Je trouve"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:61
+#: gites.core/gites/core/browser/templates/search_base_form.pt:56
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
 msgstr "Ich finde"
@@ -644,7 +652,7 @@ msgid "label_add_to_cart"
 msgstr "Zum Warenkorb hinzufügen"
 
 #. Default: "Je cherche"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:8
+#: gites.core/gites/core/browser/templates/search_base_form.pt:3
 msgid "label_recherche"
 msgstr "Ich suche"
 
@@ -760,7 +768,7 @@ msgstr "Es gibt ${nombre} Unterkünfte"
 
 #. Default: "Nombre de personnes"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:213
-#: gites.core/gites/core/browser/templates/search_base_form.pt:42
+#: gites.core/gites/core/browser/templates/search_base_form.pt:37
 #: gites.core/gites/core/viewlets/listing.py:218
 msgid "nombre_personnes"
 msgstr "Anzahl Personen"
@@ -853,7 +861,7 @@ msgid "promotions"
 msgstr "Sonderaktionen"
 
 #. Default: "Recherche avanc&eacute;e"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:9
+#: gites.core/gites/core/browser/templates/search_base_form.pt:4
 msgid "recherche_avancee"
 msgstr "Erweiterte Suche"
 
@@ -902,6 +910,11 @@ msgstr "Ein Problem melden"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:24
 msgid "signaler_un_probleme"
 msgstr "Ein Problem melden"
+
+#. Default: "Les Gîtes de Wallonie, c'est la garantie d'un séjour réussi où la qualité et la chaleur de l'accueil sont toujours présentes."
+#: gites.theme/gites/theme/skins/gites_theme_templates/contact-info.cpt:23
+msgid "site_description"
+msgstr ""
 
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:436
