@@ -800,7 +800,7 @@ msgstr "Nessuna promozione per il momento"
 #. Default: "Nouveaux hebergements"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:34
 msgid "nouveaux_hebergements"
-msgstr "Nuovi alloggi"
+msgstr "Nuove sistemazioni"
 
 #. Default: "Nuit&eacute;e avec petit d&eacute;jeuner"
 #: gites.core/gites/core/browser/templates/hebergement.pt:342
