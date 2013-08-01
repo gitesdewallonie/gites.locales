@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-08-01 17:18+0000\n"
+"POT-Creation-Date: 2013-08-01 17:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -80,6 +80,9 @@ msgstr "Città"
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:71
 msgid "Classification"
 msgstr "Classifica"
+
+msgid "Cles"
+msgstr "Chiavi"
 
 #: gites/shop/browser/cart.py:28
 msgid "Continue Shopping"
@@ -435,7 +438,7 @@ msgstr "Ultima ora"
 #. Default: "Dernières minutes et promotions"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:11
 msgid "dernieres_minutes_promotions"
-msgstr "Ultimo minuto e promozioni"
+msgstr "Ultima ora e promozioni"
 
 #. Default: "Description"
 #: gites.core/gites/core/browser/templates/hebergement.pt:433
@@ -650,7 +653,7 @@ msgstr "La boutique"
 #: gites/shop/browser/templates/la_boutique_view.pt:36
 #: gites/shop/browser/templates/portlet-content-buyable.pt:37
 msgid "label_add_to_cart"
-msgstr "Aggiungere al paniere"
+msgstr "Aggiungere al carrello"
 
 #. Default: "Je cherche"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:3

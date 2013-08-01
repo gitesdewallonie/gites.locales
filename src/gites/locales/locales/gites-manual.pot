@@ -69,3 +69,6 @@ msgstr ""
 
 msgid "calendrier"
 msgstr ""
+
+msgid "Cles"
+msgstr ""

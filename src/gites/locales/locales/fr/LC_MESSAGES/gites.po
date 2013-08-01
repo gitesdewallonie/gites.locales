@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-08-01 17:18+0000\n"
+"POT-Creation-Date: 2013-08-01 17:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -79,6 +79,9 @@ msgstr "Ville"
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:71
 msgid "Classification"
 msgstr "Classification"
+
+msgid "Cles"
+msgstr "Clés"
 
 #: gites/shop/browser/cart.py:28
 msgid "Continue Shopping"
