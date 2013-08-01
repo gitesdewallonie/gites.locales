@@ -775,7 +775,7 @@ msgstr "Ci sono ${nombre} alloggi"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:37
 #: gites.core/gites/core/viewlets/listing.py:218
 msgid "nombre_personnes"
-msgstr "Numero di persone"
+msgstr "Capacità"
 
 #. Default: "Nos autres sites"
 #: gites.theme/gites/theme/viewlets/templates/footerviewlet.pt:59
