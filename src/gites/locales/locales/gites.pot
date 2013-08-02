@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-08-01 17:39+0000\n"
+"POT-Creation-Date: 2013-08-01 18:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -268,7 +268,7 @@ msgid "Zip Code"
 msgstr ""
 
 #. Default: "A proximité de"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:45
+#: gites.core/gites/core/browser/templates/search_base_form.pt:50
 msgid "a_proximite_de"
 msgstr ""
 
@@ -343,7 +343,7 @@ msgid "chambre-d-hotes"
 msgstr ""
 
 #. Default: "Chambre d'h&ocirc;tes"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:25
+#: gites.core/gites/core/browser/templates/search_base_form.pt:30
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:26
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
@@ -417,7 +417,7 @@ msgid "date_debut_sejour"
 msgstr ""
 
 #. Default: "Date fin de séjour"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:189
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:192
 msgid "date_fin_sejour"
 msgstr ""
 
@@ -479,7 +479,7 @@ msgid "email"
 msgstr ""
 
 #. Default: "Envoyer votre demande"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:270
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:276
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:155
 msgid "envoyer_demande"
 msgstr ""
@@ -538,7 +538,7 @@ msgid "gite-rural"
 msgstr ""
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:16
+#: gites.core/gites/core/browser/templates/search_base_form.pt:21
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:16
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
@@ -588,7 +588,7 @@ msgid "hebergements_correspondent"
 msgstr ""
 
 #. Default: "Enter the exact word in the image. This is used to fight robots."
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:242
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:248
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:133
 msgid "help_captcha"
 msgstr ""
@@ -613,7 +613,7 @@ msgid "insolite"
 msgstr ""
 
 #. Default: "Invalid captcha"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:248
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:254
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:138
 msgid "invalid_captcha"
 msgstr ""
@@ -634,7 +634,7 @@ msgid "je_decouvre"
 msgstr ""
 
 #. Default: "Je trouve"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:56
+#: gites.core/gites/core/browser/templates/search_base_form.pt:61
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
 msgstr ""
@@ -653,7 +653,7 @@ msgid "label_add_to_cart"
 msgstr ""
 
 #. Default: "Je cherche"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:3
+#: gites.core/gites/core/browser/templates/search_base_form.pt:8
 msgid "label_recherche"
 msgstr ""
 
@@ -768,8 +768,8 @@ msgid "nombre_hebergements"
 msgstr ""
 
 #. Default: "Nombre de personnes"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:213
-#: gites.core/gites/core/browser/templates/search_base_form.pt:37
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:219
+#: gites.core/gites/core/browser/templates/search_base_form.pt:42
 #: gites.core/gites/core/viewlets/listing.py:218
 msgid "nombre_personnes"
 msgstr ""
@@ -862,7 +862,7 @@ msgid "promotions"
 msgstr ""
 
 #. Default: "Recherche avanc&eacute;e"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:4
+#: gites.core/gites/core/browser/templates/search_base_form.pt:9
 msgid "recherche_avancee"
 msgstr ""
 
@@ -882,7 +882,7 @@ msgid "rejoignez_nous"
 msgstr ""
 
 #. Default: "Remarques"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:224
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:230
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:119
 msgid "remarques"
 msgstr ""
@@ -923,7 +923,7 @@ msgid "situation"
 msgstr ""
 
 #. Default: "Inscription à la newsletter"
-#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:233
+#: gites.core/gites/core/browser/templates/form_contact_proprio.pt:239
 msgid "subscribe_to_newsletter"
 msgstr ""
 
