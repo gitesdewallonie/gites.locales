@@ -467,7 +467,7 @@ msgstr "Beschikbaarheden"
 #. Default: "Distribution"
 #: gites.core/gites/core/browser/templates/hebergement.pt:440
 msgid "distribution"
-msgstr "Verdeling"
+msgstr "Indeling"
 
 #. Default: "Divers"
 #: gites.core/gites/core/browser/templates/hebergement.pt:325
@@ -922,7 +922,7 @@ msgstr "De Gîtes de Wallonie, de garantie van een gastvrij onthaal voor een onv
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:436
 msgid "situation"
-msgstr "Situatie"
+msgstr "Ligging"
 
 #. Default: "Inscription à la newsletter"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:239
