@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-08-01 18:38+0000\n"
+"POT-Creation-Date: 2013-09-18 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -90,6 +90,10 @@ msgstr "Continue Shopping"
 msgid "Country"
 msgstr "Country"
 
+#: gites.core/gites/core/browser/SendMail.py:90
+msgid "Date de début supérieure à date de fin."
+msgstr ""
+
 #: gites.core/gites/core/viewlets/listing.py:233
 msgid "Distance"
 msgstr "Distance"
@@ -97,6 +101,14 @@ msgstr "Distance"
 #: gites.core/gites/core/viewlets/listing.py:220
 msgid "Epis"
 msgstr "Wheat ears"
+
+#: gites.core/gites/core/browser/SendMail.py:85
+msgid "Erreur d'encodage d'une date."
+msgstr ""
+
+#: gites.core/gites/core/browser/SendMail.py:74
+msgid "Erreur d'encodage du code du captcha."
+msgstr ""
 
 #. Default: "Evenements"
 #: gites/map/browser/templates/hebergements_map.pt:66
@@ -120,7 +132,7 @@ msgstr "Gîtes"
 msgid "Hebergement Type"
 msgstr "Type of accommodation"
 
-#: gites.core/gites/core/browser/SendMail.py:247
+#: gites.core/gites/core/browser/SendMail.py:253
 msgid "Il y a eu un problème lors de l'envoi de votre demande."
 msgstr "A problem occurred when sending your request."
 
@@ -256,6 +268,10 @@ msgstr "Number of rooms in the accommodation"
 msgid "Total"
 msgstr "Total"
 
+#: gites.core/gites/core/browser/SendMail.py:96
+msgid "Une seule date a été remplie."
+msgstr ""
+
 #: gites/shop/interfaces.py:31
 msgid "VAT Number"
 msgstr "VAT No"
@@ -303,7 +319,7 @@ msgstr "Looking for a guest room for tonight?"
 
 #. Default: "Anglais"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:118
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:89
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:96
 msgid "anglais"
 msgstr "English"
 
@@ -315,7 +331,7 @@ msgid "autorisations"
 msgstr "permitted"
 
 #. Default: "Autre"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:124
 msgid "autre"
 msgstr "Other"
 
@@ -328,7 +344,7 @@ msgid "calendrier"
 msgstr "Calendar"
 
 #. Default: "Calendrier pas à jour"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:101
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:112
 msgid "calendrier_pas_a_jour"
 msgstr "Calendar not updated"
 
@@ -408,7 +424,7 @@ msgid "contactez_le_proprietaire"
 msgstr "Contact the owner"
 
 #. Default: "Coordonnées incorrectes"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:102
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:116
 msgid "coordonnees_incorrectes"
 msgstr "Address details incorrect"
 
@@ -481,7 +497,7 @@ msgstr "E-mail"
 
 #. Default: "Envoyer votre demande"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:276
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:155
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:184
 msgid "envoyer_demande"
 msgstr "Send your request"
 
@@ -512,7 +528,7 @@ msgstr "End of year"
 
 #. Default: "Français"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:116
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:87
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:88
 msgid "francais"
 msgstr "French"
 
@@ -590,7 +606,7 @@ msgstr "accommodations correspond to your search."
 
 #. Default: "Enter the exact word in the image. This is used to fight robots."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:248
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:133
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:157
 msgid "help_captcha"
 msgstr "Enter the exact word in the image. This is used to fight robots."
 
@@ -615,7 +631,7 @@ msgstr "UNUSUAL"
 
 #. Default: "Invalid captcha"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:254
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:138
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:162
 msgid "invalid_captcha"
 msgstr "The characters you have entered do not correspond to the image. Please try again."
 
@@ -739,7 +755,7 @@ msgstr "Medium season"
 
 #. Default: "Néerlandais"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:117
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:88
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:92
 msgid "neerlandais"
 msgstr "Dutch"
 
@@ -853,7 +869,7 @@ msgid "print_this"
 msgstr "Print this"
 
 #. Default: "Prix incorrect"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:103
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:120
 msgid "prix_incorrect"
 msgstr "Price incorrect"
 
@@ -884,7 +900,7 @@ msgstr "Join us"
 
 #. Default: "Remarques"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:230
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:119
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:144
 msgid "remarques"
 msgstr "Remarks"
 
@@ -912,11 +928,6 @@ msgstr "Report a problem"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:24
 msgid "signaler_un_probleme"
 msgstr "Report a problem"
-
-#. Default: "Les Gîtes de Wallonie, c'est la garantie d'un séjour réussi où la qualité et la chaleur de l'accueil sont toujours présentes."
-#: gites.theme/gites/theme/skins/gites_theme_templates/contact-info.cpt:23
-msgid "site_description"
-msgstr "The Gîtes de Wallonie, the guarantee of a warm welcome for an original, unforgettable stay!"
 
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:436
@@ -1008,7 +1019,7 @@ msgid "type"
 msgstr "Type"
 
 #. Default: "Type de problème"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:94
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
 msgid "type_de_probleme"
 msgstr "Type of problem"
 

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-08-01 18:38+0000\n"
+"POT-Creation-Date: 2013-09-18 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -91,6 +91,10 @@ msgstr "Meer kopen"
 msgid "Country"
 msgstr "Land"
 
+#: gites.core/gites/core/browser/SendMail.py:90
+msgid "Date de début supérieure à date de fin."
+msgstr ""
+
 #: gites.core/gites/core/viewlets/listing.py:233
 msgid "Distance"
 msgstr "Afstand"
@@ -98,6 +102,14 @@ msgstr "Afstand"
 #: gites.core/gites/core/viewlets/listing.py:220
 msgid "Epis"
 msgstr "Aren"
+
+#: gites.core/gites/core/browser/SendMail.py:85
+msgid "Erreur d'encodage d'une date."
+msgstr ""
+
+#: gites.core/gites/core/browser/SendMail.py:74
+msgid "Erreur d'encodage du code du captcha."
+msgstr ""
 
 #. Default: "Evenements"
 #: gites/map/browser/templates/hebergements_map.pt:66
@@ -121,7 +133,7 @@ msgstr "Gîtes"
 msgid "Hebergement Type"
 msgstr "Soort logeeradres"
 
-#: gites.core/gites/core/browser/SendMail.py:247
+#: gites.core/gites/core/browser/SendMail.py:253
 msgid "Il y a eu un problème lors de l'envoi de votre demande."
 msgstr "Er was een probleem bij de verzending van uw vraag."
 
@@ -257,6 +269,10 @@ msgstr "Aantal kamers van het logeeradres"
 msgid "Total"
 msgstr "Totaal"
 
+#: gites.core/gites/core/browser/SendMail.py:96
+msgid "Une seule date a été remplie."
+msgstr ""
+
 #: gites/shop/interfaces.py:31
 msgid "VAT Number"
 msgstr "BTW-nr."
@@ -304,7 +320,7 @@ msgstr "Op zoek naar een gastenkamer voor deze nacht?"
 
 #. Default: "Anglais"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:118
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:89
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:96
 msgid "anglais"
 msgstr "Engels"
 
@@ -316,7 +332,7 @@ msgid "autorisations"
 msgstr "toegestaan"
 
 #. Default: "Autre"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:124
 msgid "autre"
 msgstr "Ander"
 
@@ -329,7 +345,7 @@ msgid "calendrier"
 msgstr "Kalender"
 
 #. Default: "Calendrier pas à jour"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:101
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:112
 msgid "calendrier_pas_a_jour"
 msgstr "Kalender niet up-to-date"
 
@@ -409,7 +425,7 @@ msgid "contactez_le_proprietaire"
 msgstr "Contacteer de eigenaar"
 
 #. Default: "Coordonnées incorrectes"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:102
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:116
 msgid "coordonnees_incorrectes"
 msgstr "Onjuiste gegevens"
 
@@ -482,7 +498,7 @@ msgstr "E-mail"
 
 #. Default: "Envoyer votre demande"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:276
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:155
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:184
 msgid "envoyer_demande"
 msgstr "Stuur uw vraag"
 
@@ -513,7 +529,7 @@ msgstr "Eindejaar"
 
 #. Default: "Français"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:116
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:87
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:88
 msgid "francais"
 msgstr "Frans"
 
@@ -591,7 +607,7 @@ msgstr "Logeeradressen die overeenkomen met uw opzoeking"
 
 #. Default: "Enter the exact word in the image. This is used to fight robots."
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:248
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:133
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:157
 msgid "help_captcha"
 msgstr "Tik de letters in die in het beeld verschijnen.<br/>Zo helpt u verhinderen dat spammers accounts aanmaken en ongewenste mail versturen."
 
@@ -616,7 +632,7 @@ msgstr "ONGEWOON "
 
 #. Default: "Invalid captcha"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:254
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:138
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:162
 msgid "invalid_captcha"
 msgstr "De controlegegevens komen niet overeen met het beeld."
 
@@ -740,7 +756,7 @@ msgstr "Tussenseizoen"
 
 #. Default: "Néerlandais"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:117
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:88
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:92
 msgid "neerlandais"
 msgstr "Nederlands"
 
@@ -854,7 +870,7 @@ msgid "print_this"
 msgstr "Afdrukken"
 
 #. Default: "Prix incorrect"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:103
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:120
 msgid "prix_incorrect"
 msgstr "Onjuiste prijs"
 
@@ -885,7 +901,7 @@ msgstr "Kom erbij"
 
 #. Default: "Remarques"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:230
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:119
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:144
 msgid "remarques"
 msgstr "Opmerkingen"
 
@@ -913,11 +929,6 @@ msgstr "Een probleem melden"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:24
 msgid "signaler_un_probleme"
 msgstr "Een probleem melden"
-
-#. Default: "Les Gîtes de Wallonie, c'est la garantie d'un séjour réussi où la qualité et la chaleur de l'accueil sont toujours présentes."
-#: gites.theme/gites/theme/skins/gites_theme_templates/contact-info.cpt:23
-msgid "site_description"
-msgstr "De Gîtes de Wallonie, de garantie van een gastvrij onthaal voor een onvergetelijk verblijf als geen ander!"
 
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:436
@@ -1009,7 +1020,7 @@ msgid "type"
 msgstr "Type"
 
 #. Default: "Type de problème"
-#: gites.core/gites/core/browser/templates/signaler_probleme.pt:94
+#: gites.core/gites/core/browser/templates/signaler_probleme.pt:104
 msgid "type_de_probleme"
 msgstr "Type probleem"
 
