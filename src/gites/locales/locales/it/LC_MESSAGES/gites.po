@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-10-27 10:02+0000\n"
+"POT-Creation-Date: 2013-10-27 13:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -186,6 +186,11 @@ msgstr "Night life"
 #: gites.core/gites/core/browser/interfaces.py:216
 msgid "Number of rooms"
 msgstr "Numero di camere"
+
+#. Default: "Pour afficher les g&icirc;tes et les chambres d'h&ocirc;tes, zoomez sur une r&eacute;gion de la Wallonie."
+#: gites/map/browser/templates/map_search.pt:11
+msgid "Pour_afficher_gites_zoomer"
+msgstr ""
 
 #. Default: "Pour s&eacute;lectionner les autres points d'int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:132
