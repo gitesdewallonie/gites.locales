@@ -189,7 +189,7 @@ msgstr "Aantal kamers"
 #. Default: "Pour afficher les g&icirc;tes et les chambres d'h&ocirc;tes, zoomez sur une r&eacute;gion de la Wallonie."
 #: gites/map/browser/templates/map_search.pt:11
 msgid "Pour_afficher_gites_zoomer"
-msgstr ""
+msgstr "Om de gîtes en gastenkamers te zien, inzoomen op een Waalse regio."
 
 #. Default: "Pour s&eacute;lectionner les autres points d'int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:132
@@ -941,7 +941,7 @@ msgstr "Een probleem melden"
 #. Default: "Les Gîtes de Wallonie, c'est la garantie d'un séjour réussi où la qualité et la chaleur de l'accueil sont toujours présentes."
 #: gites.theme/gites/theme/skins/gites_theme_templates/contact-info.cpt:23
 msgid "site_description"
-msgstr ""
+msgstr "De ‘Gîtes de Wallonie’ staan garant voor een geslaagd verblijf, waarin de kwaliteit en de hartelijkheid van het onthaal altijd centraal staan."
 
 #. Default: "Situation"
 #: gites.core/gites/core/browser/templates/hebergement.pt:436
