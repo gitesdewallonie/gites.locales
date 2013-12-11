@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2013-10-27 13:58+0000\n"
+"POT-Creation-Date: 2013-12-11 09:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -291,7 +291,7 @@ msgid "Zip Code"
 msgstr "Code postal"
 
 #. Default: "A proximité de"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:50
+#: gites.core/gites/core/browser/templates/search_base_form.pt:62
 msgid "a_proximite_de"
 msgstr ""
 
@@ -366,7 +366,7 @@ msgid "chambre-d-hotes"
 msgstr "Chambre d'hôtes"
 
 #. Default: "Chambre d'h&ocirc;tes"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:30
+#: gites.core/gites/core/browser/templates/search_base_form.pt:33
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:26
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
@@ -561,7 +561,7 @@ msgid "gite-rural"
 msgstr "Gîte rural"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:21
+#: gites.core/gites/core/browser/templates/search_base_form.pt:42
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:16
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
@@ -656,7 +656,7 @@ msgid "je_decouvre"
 msgstr ""
 
 #. Default: "Je trouve"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:61
+#: gites.core/gites/core/browser/templates/search_base_form.pt:73
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
 msgstr ""
@@ -675,7 +675,7 @@ msgid "label_add_to_cart"
 msgstr "Ajouter au panier"
 
 #. Default: "Je cherche"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:8
+#: gites.core/gites/core/browser/templates/search_base_form.pt:9
 msgid "label_recherche"
 msgstr "Je recherche"
 
@@ -791,7 +791,7 @@ msgstr ""
 
 #. Default: "Nombre de personnes"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:192
-#: gites.core/gites/core/browser/templates/search_base_form.pt:42
+#: gites.core/gites/core/browser/templates/search_base_form.pt:54
 #: gites.core/gites/core/viewlets/listing.py:219
 msgid "nombre_personnes"
 msgstr "Nombre de personnes"
@@ -868,6 +868,11 @@ msgstr ""
 msgid "prenom"
 msgstr "Prénom"
 
+#. Default: "Previous page"
+#: gites.theme/gites/theme/viewlets/templates/backbuttonviewlet.pt:4
+msgid "previous_page"
+msgstr "Page précédente"
+
 #. Default: "Print this"
 #: gites.core/gites/core/browser/templates/hebergement.pt:80
 msgid "print_this"
@@ -884,10 +889,12 @@ msgid "promotions"
 msgstr "Promotions"
 
 #. Default: "Recherche avanc&eacute;e"
-#: gites.core/gites/core/browser/templates/search_base_form.pt:9
+#: gites.core/gites/core/browser/templates/search_base_form.pt:12
 msgid "recherche_avancee"
 msgstr "Recherche avancée"
 
+#. Default: "Recherche cartographique"
+#: gites.core/gites/core/browser/templates/search_base_form.pt:17
 #: gites/map/setuphandlers.py:38
 msgid "recherche_cartographique"
 msgstr "Recherche cartographique"
