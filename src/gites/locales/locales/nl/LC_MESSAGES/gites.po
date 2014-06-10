@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2014-04-04 11:26+0000\n"
+"POT-Creation-Date: 2014-06-10 19:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -70,13 +70,13 @@ msgstr "kamers"
 msgid "Checkout"
 msgstr "Check-out"
 
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:79
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:82
 #: gites/shop/interfaces.py:26
 msgid "City"
 msgstr "Plaats"
 
 #: gites.core/gites/core/browser/interfaces.py:205
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:87
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:90
 msgid "Classification"
 msgstr "Classificatie"
 
@@ -251,12 +251,12 @@ msgid "Status"
 msgstr "Status"
 
 #: gites.core/gites/core/browser/interfaces.py:230
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:31
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:34
 msgid "Stay from"
 msgstr "Aankomstdatum"
 
 #: gites.core/gites/core/browser/interfaces.py:234
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:41
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:44
 msgid "Stay to"
 msgstr "Vertrekdatum"
 
@@ -367,7 +367,7 @@ msgstr "Gastenkamer"
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:33
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:26
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:29
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
 msgstr "Gastenkamer"
@@ -562,7 +562,7 @@ msgstr "Gîte op het platteland"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:42
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:16
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:19
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
 msgstr "Gîtes en Vakantieverblijven"
@@ -777,7 +777,7 @@ msgstr "Naam of referentie"
 
 #. Default: "Nombre de chambres"
 #: gites.core/gites/core/viewlets/listing.py:220
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:72
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:75
 msgid "nombre-chambres"
 msgstr "Aantal kamers"
 
@@ -925,6 +925,11 @@ msgstr "Kom erbij"
 #: gites.core/gites/core/browser/templates/signaler_probleme.pt:144
 msgid "remarques"
 msgstr "Opmerkingen"
+
+#. Default: "Reset"
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:8
+msgid "reset"
+msgstr "Wissen"
 
 #. Default: "selectionner pour comparer"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:85
