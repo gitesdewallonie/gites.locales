@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2014-06-10 19:21+0000\n"
+"POT-Creation-Date: 2014-06-24 14:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -16,25 +16,45 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
+#. Default: "1 personne"
+msgid "1_PERSON"
+msgstr "1 personne"
+
 #. Default: "1 p."
 #: gites.core/gites/core/browser/templates/hebergement.pt:324
 msgid "1_p"
 msgstr "1 p."
+
+#. Default: "2 personnes"
+msgid "2_PERSONS"
+msgstr "2 personnes"
 
 #. Default: "2 p."
 #: gites.core/gites/core/browser/templates/hebergement.pt:325
 msgid "2_p"
 msgstr "2 p."
 
+#. Default: "3 nuits"
+msgid "3_NIGHTS"
+msgstr "3 nuits"
+
 #. Default: "WE de fête 3 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:256
 msgid "3_nuits"
 msgstr "WE de fête 3 nuits"
 
+#. Default: "4 nuits"
+msgid "4_NIGHTS"
+msgstr "4 nuits"
+
 #. Default: "WE de fête 4 nuits"
 #: gites.core/gites/core/browser/templates/hebergement.pt:263
 msgid "4_nuits"
 msgstr "WE de fête 4 nuits"
+
+#. Default: "Selon consommation"
+msgid "ACCORDING_TO_CONSUMPTION"
+msgstr "Selon consommation"
 
 #: gites.core/gites/core/browser/interfaces.py:221
 msgid "Animals authorized"
@@ -58,6 +78,10 @@ msgstr ""
 msgid "Bibliotheques"
 msgstr ""
 
+#. Default: "Charges"
+msgid "CHARGES"
+msgstr "Charges"
+
 #: gites/map/browser/templates/hebergements_map.pt:118
 msgid "Casinos"
 msgstr ""
@@ -70,13 +94,13 @@ msgstr ""
 msgid "Checkout"
 msgstr "Passer la commande"
 
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:82
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:84
 #: gites/shop/interfaces.py:26
 msgid "City"
 msgstr "Ville"
 
 #: gites.core/gites/core/browser/interfaces.py:205
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:90
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:92
 msgid "Classification"
 msgstr "Classification"
 
@@ -99,6 +123,10 @@ msgstr ""
 msgid "Distance"
 msgstr "Distance"
 
+#. Default: "Semaine de fin année (Noêl/Nouvel An)"
+msgid "END_OF_YEAR"
+msgstr "Semaine de fin année (Noêl/Nouvel An)"
+
 #: gites.core/gites/core/viewlets/listing.py:221
 msgid "Epis"
 msgstr "Epis"
@@ -116,9 +144,17 @@ msgstr ""
 msgid "Evenements"
 msgstr "Evénements"
 
+#. Default: "Week end de fête"
+msgid "FEAST_WEEKEND"
+msgstr "Week end de fête"
+
 #: gites/shop/interfaces.py:23
 msgid "First Line"
 msgstr "Première ligne"
+
+#. Default: "Garantie"
+msgid "GUARANTEE"
+msgstr "Garantie"
 
 #: gites/map/browser/templates/hebergements_map.pt:81
 msgid "Gares"
@@ -128,10 +164,22 @@ msgstr "Gares"
 msgid "Gites"
 msgstr "Gîtes"
 
+#. Default: "Haut saison"
+msgid "HIGH_SEASON"
+msgstr "Haut saison"
+
 #: gites.core/gites/core/browser/interfaces.py:199
 #: gites.core/gites/core/viewlets/listing.py:232
 msgid "Hebergement Type"
 msgstr "Type d'hébergement"
+
+#. Default: "Inclus"
+msgid "INCLUDED"
+msgstr "Inclus"
+
+#. Default: "Calcul forfaitaire"
+msgid "INCLUSIVE"
+msgstr "Calcul forfaitaire"
 
 #: gites.core/gites/core/browser/SendMail.py:258
 msgid "Il y a eu un problème lors de l'envoi de votre demande."
@@ -149,6 +197,14 @@ msgstr "Code du produit"
 #: gites/shop/browser/admin_order.py:47
 msgid "Item Id"
 msgstr "Référence du produit"
+
+#. Default: "Basse saison"
+msgid "LOW_SEASON"
+msgstr "Basse saison"
+
+#. Default: "Moyenne saison"
+msgid "MEDIUM_SEASON"
+msgstr "Moyenne saison"
 
 #: gites/map/browser/templates/hebergements_map.pt:88
 msgid "Magasins"
@@ -186,6 +242,14 @@ msgstr "Night Life"
 msgid "Number of rooms"
 msgstr "Nombre de chambres"
 
+#. Default: "Autre"
+msgid "OTHER"
+msgstr "Autre"
+
+#. Default: "+ de 2 personnes"
+msgid "PERSON_SUP"
+msgstr "+ de 2 personnes"
+
 #. Default: "Pour afficher les g&icirc;tes et les chambres d'h&ocirc;tes, zoomez sur une r&eacute;gion de la Wallonie."
 #: gites/map/browser/templates/map_search.pt:11
 msgid "Pour_afficher_gites_zoomer"
@@ -213,9 +277,17 @@ msgstr "Produits du terroir"
 msgid "Quantity"
 msgstr "Quantité"
 
+#. Default: "Chambre"
+msgid "ROOM"
+msgstr "Chambre"
+
 #: gites/map/browser/templates/hebergements_map.pt:74
 msgid "Restaurants"
 msgstr "Restaurants"
+
+#. Default: "Taxe de séjour"
+msgid "SOJOURN_TAX"
+msgstr "Taxe de séjour"
 
 #: gites/shop/interfaces.py:20
 msgid "Same as shipping address"
@@ -251,14 +323,18 @@ msgid "Status"
 msgstr "Statuts"
 
 #: gites.core/gites/core/browser/interfaces.py:230
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:34
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:36
 msgid "Stay from"
 msgstr "Date d'arrivée"
 
 #: gites.core/gites/core/browser/interfaces.py:234
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:44
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:46
 msgid "Stay to"
 msgstr "Date de départ"
+
+#. Default: "Table d'hôtes"
+msgid "TABLE_HOTES"
+msgstr "Table d'hôtes"
 
 #: gites.core/gites/core/browser/interfaces.py:212
 msgid "The minimum capacity of your hebergement"
@@ -281,6 +357,18 @@ msgstr ""
 #: gites/shop/interfaces.py:31
 msgid "VAT Number"
 msgstr "Numéro de TVA"
+
+#. Default: "Semaine"
+msgid "WEEK"
+msgstr "Semaine"
+
+#. Default: "Week end"
+msgid "WEEKEND"
+msgstr "Week end"
+
+#. Default: "Sans petit déjeuner"
+msgid "WITHOUT_BREAKFAST"
+msgstr "Sans petit déjeuner"
 
 #: gites/map/browser/templates/hebergements_map.pt:111
 msgid "Wellness"
@@ -367,7 +455,7 @@ msgstr "Chambre d'hôtes"
 
 #. Default: "Chambre d'h&ocirc;tes"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:33
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:29
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:31
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
 msgstr "Chambre d'hôtes"
@@ -562,7 +650,7 @@ msgstr "Gîte rural"
 
 #. Default: "G&icirc;tes et meubl&eacute;s"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:42
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:19
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:21
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
 msgstr "Gîtes et Meublés"
@@ -777,7 +865,7 @@ msgstr "Nom ou référence"
 
 #. Default: "Nombre de chambres"
 #: gites.core/gites/core/viewlets/listing.py:220
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:75
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:77
 msgid "nombre-chambres"
 msgstr "Nombre de chambres"
 
@@ -927,7 +1015,7 @@ msgid "remarques"
 msgstr "Remarques"
 
 #. Default: "Reset"
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:8
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:9
 msgid "reset"
 msgstr "Effacer"
 

@@ -72,3 +72,95 @@ msgstr ""
 
 msgid "Cles"
 msgstr ""
+
+#. Default: "Basse saison"
+msgid "LOW_SEASON"
+msgstr ""
+
+#. Default: "Moyenne saison"
+msgid "MEDIUM_SEASON"
+msgstr ""
+
+#. Default: "Haut saison"
+msgid "HIGH_SEASON"
+msgstr ""
+
+#. Default: "Week end de fête"
+msgid "FEAST_WEEKEND"
+msgstr ""
+
+#. Default: "Charges"
+msgid "CHARGES"
+msgstr ""
+
+#. Default: "Chambre"
+msgid "ROOM"
+msgstr ""
+
+#. Default: "Autre"
+msgid "OTHER"
+msgstr ""
+
+#. Default: "Semaine"
+msgid "WEEK"
+msgstr ""
+
+#. Default: "Week end"
+msgid "WEEKEND"
+msgstr ""
+
+#. Default: "3 nuits"
+msgid "3_NIGHTS"
+msgstr ""
+
+#. Default: "4 nuits"
+msgid "4_NIGHTS"
+msgstr ""
+
+#. Default: "Selon consommation"
+msgid "ACCORDING_TO_CONSUMPTION"
+msgstr ""
+
+#. Default: "Inclus"
+msgid "INCLUDED"
+msgstr ""
+
+#. Default: "Calcul forfaitaire"
+msgid "INCLUSIVE"
+msgstr ""
+
+#. Default: "1 personne"
+msgid "1_PERSON"
+msgstr ""
+
+#. Default: "2 personnes"
+msgid "2_PERSONS"
+msgstr ""
+
+#. Default: "+ de 2 personnes"
+msgid "PERSON_SUP"
+msgstr ""
+
+#. Default: "Semaine de fin année (Noêl/Nouvel An)"
+msgid "END_OF_YEAR"
+msgstr ""
+
+#. Default: "Garantie"
+msgid "GUARANTEE"
+msgstr ""
+
+#. Default: "Autre"
+msgid "OTHER"
+msgstr ""
+
+#. Default: "Taxe de séjour"
+msgid "SOJOURN_TAX"
+msgstr ""
+
+#. Default: "Sans petit déjeuner"
+msgid "WITHOUT_BREAKFAST"
+msgstr ""
+
+#. Default: "Table d'hôtes"
+msgid "TABLE_HOTES"
+msgstr ""
