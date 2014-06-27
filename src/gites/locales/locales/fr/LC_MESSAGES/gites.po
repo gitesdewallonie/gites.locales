@@ -123,9 +123,9 @@ msgstr ""
 msgid "Distance"
 msgstr "Distance"
 
-#. Default: "Semaine de fin année (Noêl/Nouvel An)"
+#. Default: "Semaine de fin année"
 msgid "END_OF_YEAR"
-msgstr "Semaine de fin année (Noêl/Nouvel An)"
+msgstr "Semaine de fin année"
 
 #: gites.core/gites/core/viewlets/listing.py:221
 msgid "Epis"
@@ -164,9 +164,9 @@ msgstr "Gares"
 msgid "Gites"
 msgstr "Gîtes"
 
-#. Default: "Haut saison"
+#. Default: "Haute saison"
 msgid "HIGH_SEASON"
-msgstr "Haut saison"
+msgstr "Haute saison"
 
 #: gites.core/gites/core/browser/interfaces.py:199
 #: gites.core/gites/core/viewlets/listing.py:232
