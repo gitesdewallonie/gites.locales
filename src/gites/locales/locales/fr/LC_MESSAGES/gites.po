@@ -246,9 +246,9 @@ msgstr "Nombre de chambres"
 msgid "OTHER"
 msgstr "Autre"
 
-#. Default: "+ de 2 personnes"
+#. Default: "Personne supplémentaire"
 msgid "PERSON_SUP"
-msgstr "+ de 2 personnes"
+msgstr "Personne supplémentaire"
 
 #. Default: "Pour afficher les g&icirc;tes et les chambres d'h&ocirc;tes, zoomez sur une r&eacute;gion de la Wallonie."
 #: gites/map/browser/templates/map_search.pt:11
@@ -366,9 +366,9 @@ msgstr "Semaine"
 msgid "WEEKEND"
 msgstr "Week end"
 
-#. Default: "Sans petit déjeuner"
+#. Default: "Déduction si pas de petit déjeuner"
 msgid "WITHOUT_BREAKFAST"
-msgstr "Sans petit déjeuner"
+msgstr "Déduction si pas de petit déjeuner"
 
 #: gites/map/browser/templates/hebergements_map.pt:111
 msgid "Wellness"
