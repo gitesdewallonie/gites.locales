@@ -131,7 +131,7 @@ msgstr ""
 msgid "Distance"
 msgstr ""
 
-#. Default: "Semaine de fin année (Noêl/Nouvel An)"
+#. Default: "Semaine de fin année"
 msgid "END_OF_YEAR"
 msgstr ""
 
@@ -171,7 +171,7 @@ msgstr ""
 msgid "Gites"
 msgstr ""
 
-#. Default: "Haut saison"
+#. Default: "Haute saison"
 msgid "HIGH_SEASON"
 msgstr ""
 

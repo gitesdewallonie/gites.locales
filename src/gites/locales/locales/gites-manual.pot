@@ -81,7 +81,7 @@ msgstr ""
 msgid "MEDIUM_SEASON"
 msgstr ""
 
-#. Default: "Haut saison"
+#. Default: "Haute saison"
 msgid "HIGH_SEASON"
 msgstr ""
 
@@ -141,7 +141,7 @@ msgstr ""
 msgid "PERSON_SUP"
 msgstr ""
 
-#. Default: "Semaine de fin année (Noêl/Nouvel An)"
+#. Default: "Semaine de fin année"
 msgid "END_OF_YEAR"
 msgstr ""
 
