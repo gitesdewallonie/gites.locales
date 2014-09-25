@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2014-06-24 14:32+0000\n"
+"POT-Creation-Date: 2014-09-25 11:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -72,6 +72,10 @@ msgstr "Is the accommodation smoking permitted?"
 msgid "Attrations_et_musees"
 msgstr "Attractions & museums"
 
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:32
+msgid "Autre"
+msgstr ""
+
 #. Default: "Bibliotheques"
 #: gites/map/browser/templates/hebergements_map.pt:95
 msgid "Bibliotheques"
@@ -85,9 +89,14 @@ msgstr ""
 msgid "Casinos"
 msgstr "Casinos"
 
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:29
 #: gites/map/browser/templates/hebergements_map.pt:30
 msgid "Chambres"
 msgstr "Rooms"
+
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:24
+msgid "Charges"
+msgstr ""
 
 #: gites/shop/browser/cart.py:34
 msgid "Checkout"
@@ -201,6 +210,10 @@ msgstr "Product reference"
 msgid "LOW_SEASON"
 msgstr ""
 
+#: gites.core/gites/core/browser/tarif_edition.py:195
+msgid "Les valeurs pour Minimum et Maximum doivent être des nombres."
+msgstr ""
+
 #. Default: "Moyenne saison"
 msgid "MEDIUM_SEASON"
 msgstr ""
@@ -237,6 +250,11 @@ msgstr "Near"
 msgid "Night_life"
 msgstr "Night life"
 
+#. Default: "Noël / Nouvel an"
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:22
+msgid "Noel_nouvel_an"
+msgstr ""
+
 #: gites.core/gites/core/browser/interfaces.py:216
 msgid "Number of rooms"
 msgstr "Number of rooms"
@@ -245,7 +263,11 @@ msgstr "Number of rooms"
 msgid "OTHER"
 msgstr ""
 
-#. Default: "+ de 2 personnes"
+#. Default: "Autre (nettoyage, ...)"
+msgid "OTHER_CLEAN"
+msgstr ""
+
+#. Default: "Personne supplémentaire"
 msgid "PERSON_SUP"
 msgstr ""
 
@@ -308,6 +330,10 @@ msgstr "Select a classification"
 msgid "Select a type of Hebergement"
 msgstr "Select a type of accommodation"
 
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:18
+msgid "Semaine"
+msgstr ""
+
 #: gites.core/gites/core/browser/interfaces.py:226
 msgid "Smoking allowed"
 msgstr "Smokers allowed"
@@ -357,6 +383,10 @@ msgstr ""
 msgid "VAT Number"
 msgstr "VAT No"
 
+#: gites.core/gites/core/browser/tarif_edition.py:186
+msgid "Vous n'avez pas les droits d'accéder à cette page."
+msgstr ""
+
 #. Default: "Semaine"
 msgid "WEEK"
 msgstr ""
@@ -365,8 +395,13 @@ msgstr ""
 msgid "WEEKEND"
 msgstr ""
 
-#. Default: "Sans petit déjeuner"
+#. Default: "Déduction si pas de petit déjeuner"
 msgid "WITHOUT_BREAKFAST"
+msgstr ""
+
+#. Default: "Week end"
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:20
+msgid "Week_end"
 msgstr ""
 
 #: gites/map/browser/templates/hebergements_map.pt:111

@@ -153,6 +153,10 @@ msgstr ""
 msgid "OTHER"
 msgstr ""
 
+#. Default: "Autre (nettoyage, ...)"
+msgid "OTHER_CLEAN"
+msgstr ""
+
 #. Default: "Taxe de séjour"
 msgid "SOJOURN_TAX"
 msgstr ""
