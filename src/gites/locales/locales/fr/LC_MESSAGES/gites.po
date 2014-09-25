@@ -244,7 +244,7 @@ msgstr "Nombre de chambres"
 
 #. Default: "Autre"
 msgid "OTHER"
-msgstr "Autres (nettoyage, ...)"
+msgstr "Autres"
 
 #. Default: "Personne supplémentaire"
 msgid "PERSON_SUP"
