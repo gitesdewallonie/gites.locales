@@ -17,11 +17,11 @@ msgstr ""
 
 #. Default: "1 personne"
 msgid "1_PERSON"
-msgstr "1 person"
+msgstr "1 person"
 
 #. Default: "2 personnes"
 msgid "2_PERSONS"
-msgstr "2 persons"
+msgstr "2 people"
 
 #. Default: "3 nuits"
 msgid "3_NIGHTS"
@@ -112,7 +112,7 @@ msgstr "Country"
 
 #: gites.core/gites/core/browser/SendMail.py:96
 msgid "Date de début supérieure à date de fin."
-msgstr "Date de début supérieure à date de fin."
+msgstr "Start date later than end date."
 
 #: gites.core/gites/core/viewlets/listing.py:234
 msgid "Distance"
@@ -120,7 +120,7 @@ msgstr "Distance"
 
 #. Default: "Semaine de fin année"
 msgid "END_OF_YEAR"
-msgstr "Semaine de fin d'année"
+msgstr "End-of-year week"
 
 #: gites.core/gites/core/viewlets/listing.py:221
 msgid "Epis"
@@ -128,11 +128,11 @@ msgstr "Wheat ears"
 
 #: gites.core/gites/core/browser/SendMail.py:92
 msgid "Erreur d'encodage d'une date."
-msgstr "Erreur d'encodage d'une date."
+msgstr "Date entry error."
 
 #: gites.core/gites/core/browser/SendMail.py:82
 msgid "Erreur d'encodage du code du captcha."
-msgstr "Erreur d'encodage du code du captcha."
+msgstr "CAPTCHA code entry error."
 
 #. Default: "Evenements"
 #: gites/map/browser/templates/hebergements_map.pt:66
@@ -199,7 +199,7 @@ msgstr "Low season"
 
 #: gites.core/gites/core/browser/tarif_edition.py:195
 msgid "Les valeurs pour Minimum et Maximum doivent être des nombres."
-msgstr "Les valeurs pour Minimum et Maximum doivent être des nombres."
+msgstr "The Minimum and Maximum values must be numbers."
 
 #. Default: "Moyenne saison"
 msgid "MEDIUM_SEASON"
@@ -241,7 +241,7 @@ msgstr "Night life"
 #: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:25
 #: gites.core/gites/core/browser/templates/hebergement.pt:225
 msgid "Noel_nouvel_an"
-msgstr "Noël / Nouvel an"
+msgstr "Christmas / New Year"
 
 #: gites.core/gites/core/browser/interfaces.py:216
 msgid "Number of rooms"
@@ -253,11 +253,11 @@ msgstr "Other"
 
 #. Default: "Autre (nettoyage, ...)"
 msgid "OTHER_CLEAN"
-msgstr "Other (clean, ...)"
+msgstr "Other (cleaning, etc.)"
 
 #. Default: "Personne supplémentaire"
 msgid "PERSON_SUP"
-msgstr "Personne supplémentaire"
+msgstr "Additional person"
 
 #. Default: "Pour afficher les g&icirc;tes et les chambres d'h&ocirc;tes, zoomez sur une r&eacute;gion de la Wallonie."
 #: gites/map/browser/templates/map_search.pt:11
@@ -366,7 +366,7 @@ msgstr "Total"
 
 #: gites.core/gites/core/browser/SendMail.py:101
 msgid "Une seule date a été remplie."
-msgstr "Une seule date a été remplie."
+msgstr "Only one date has been filled in."
 
 #: gites/shop/interfaces.py:31
 msgid "VAT Number"
@@ -374,7 +374,7 @@ msgstr "VAT No"
 
 #: gites.core/gites/core/browser/tarif_edition.py:186
 msgid "Vous n'avez pas les droits d'accéder à cette page."
-msgstr "Vous n'avez pas les droits d'accéder à cette page."
+msgstr "You do not have access rights to this page."
 
 #. Default: "Semaine"
 msgid "WEEK"
@@ -1085,7 +1085,7 @@ msgstr "Type of problem"
 #. Default: "Type de table d'hôtes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:245
 msgid "type_table_hotes"
-msgstr "Type de table d'hôtes"
+msgstr "Type of dinner for guests"
 
 #. Default: "La référence de l'hébergement ${heb_pk} n'est pas valide"
 #: gites.core/gites/core/browser/templates/unknown_gites.pt:13
