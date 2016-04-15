@@ -1120,3 +1120,5 @@ msgstr "wheat ears"
 msgid "x_personnes"
 msgstr "people"
 
+msgid "Birthday"
+msgstr "Birthday"

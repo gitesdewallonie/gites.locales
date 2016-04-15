@@ -172,3 +172,7 @@ msgstr ""
 #. Default: "Oui"
 msgid "CHECKED"
 msgstr ""
+
+#. Default: "Birthday"
+msgid "Birthday"
+msgstr ""

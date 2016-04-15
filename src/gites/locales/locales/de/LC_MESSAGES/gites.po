@@ -1121,3 +1121,5 @@ msgstr "Ähren"
 msgid "x_personnes"
 msgstr "Personen"
 
+msgid "Birthday"
+msgstr "Geburtstag"

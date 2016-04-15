@@ -1121,3 +1121,5 @@ msgstr "aren"
 msgid "x_personnes"
 msgstr "personen"
 
+msgid "Birthday"
+msgstr "Geboortedatum"

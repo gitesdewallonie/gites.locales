@@ -1121,3 +1121,5 @@ msgstr ""
 msgid "x_personnes"
 msgstr ""
 
+msgid "Birthday"
+msgstr "Date de naissance"

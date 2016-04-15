@@ -1121,3 +1121,5 @@ msgstr "spighe"
 msgid "x_personnes"
 msgstr "persone"
 
+msgid "Birthday"
+msgstr "Data di nascita"
