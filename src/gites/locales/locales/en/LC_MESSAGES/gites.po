@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1 build 10\n"
-"POT-Creation-Date: 2016-05-11 10:10+0000\n"
+"POT-Creation-Date: 2014-10-15 11:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Affinitic <info@affinitic.be>\n"
 "Language-Team: <info@affinitic.be>\n"
@@ -49,24 +49,18 @@ msgstr "Is the accommodation smoking permitted?"
 
 #. Default: "Attractions & musees"
 #: gites/map/browser/templates/hebergements_map.pt:42
-#: gites/map/browser/templates/poc.pt:48
 msgid "Attrations_et_musees"
 msgstr "Attractions & museums"
 
-#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:37
-#: gites.core/gites/core/browser/templates/hebergement.pt:287
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:35
+#: gites.core/gites/core/browser/templates/hebergement.pt:235
 msgid "Autre"
 msgstr "Other"
 
 #. Default: "Bibliotheques"
 #: gites/map/browser/templates/hebergements_map.pt:95
-#: gites/map/browser/templates/poc.pt:101
 msgid "Bibliotheques"
 msgstr "Libraries"
-
-#. Default: "Birthday"
-msgid "Birthday"
-msgstr ""
 
 #. Default: "Charges"
 msgid "CHARGES"
@@ -77,18 +71,17 @@ msgid "CHECKED"
 msgstr "Yes"
 
 #: gites/map/browser/templates/hebergements_map.pt:118
-#: gites/map/browser/templates/poc.pt:124
 msgid "Casinos"
 msgstr "Casinos"
 
-#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:34
-#: gites.core/gites/core/browser/templates/hebergement.pt:284
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:32
+#: gites.core/gites/core/browser/templates/hebergement.pt:232
 #: gites/map/browser/templates/hebergements_map.pt:30
 msgid "Chambres"
 msgstr "Rooms"
 
-#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:29
-#: gites.core/gites/core/browser/templates/hebergement.pt:279
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:27
+#: gites.core/gites/core/browser/templates/hebergement.pt:227
 msgid "Charges"
 msgstr "Charges"
 
@@ -96,13 +89,13 @@ msgstr "Charges"
 msgid "Checkout"
 msgstr "Checkout"
 
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:86
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:84
 #: gites/shop/interfaces.py:26
 msgid "City"
 msgstr "City"
 
 #: gites.core/gites/core/browser/interfaces.py:205
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:94
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:92
 msgid "Classification"
 msgstr "Classification"
 
@@ -143,13 +136,10 @@ msgstr "CAPTCHA code entry error."
 
 #. Default: "Evenements"
 #: gites/map/browser/templates/hebergements_map.pt:66
-#: gites/map/browser/templates/poc.pt:72
 msgid "Evenements"
 msgstr "Events"
 
 #. Default: "Week end de fête"
-#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:25
-#: gites.core/gites/core/browser/templates/hebergement.pt:275
 msgid "FEAST_WEEKEND"
 msgstr "Feast weekend"
 
@@ -162,12 +152,10 @@ msgid "GUARANTEE"
 msgstr "Guarantee"
 
 #: gites/map/browser/templates/hebergements_map.pt:81
-#: gites/map/browser/templates/poc.pt:87
 msgid "Gares"
 msgstr "Railway stations"
 
 #: gites/map/browser/templates/hebergements_map.pt:25
-#: gites/map/browser/templates/poc.pt:31
 msgid "Gites"
 msgstr "Gîtes"
 
@@ -194,7 +182,6 @@ msgstr "A problem occurred when sending your request."
 
 #. Default: "Informations touristiques"
 #: gites/map/browser/templates/hebergements_map.pt:34
-#: gites/map/browser/templates/poc.pt:40
 msgid "Informations_touristiques"
 msgstr "Tourist information"
 
@@ -219,7 +206,6 @@ msgid "MEDIUM_SEASON"
 msgstr "Medium season"
 
 #: gites/map/browser/templates/hebergements_map.pt:88
-#: gites/map/browser/templates/poc.pt:94
 msgid "Magasins"
 msgstr "Shops"
 
@@ -248,15 +234,14 @@ msgstr "Near"
 
 #. Default: "Night life"
 #: gites/map/browser/templates/hebergements_map.pt:125
-#: gites/map/browser/templates/poc.pt:131
 msgid "Night_life"
 msgstr "Night life"
 
 #. Default: "Noël / Nouvel an"
-#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:27
-#: gites.core/gites/core/browser/templates/hebergement.pt:277
+#: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:25
+#: gites.core/gites/core/browser/templates/hebergement.pt:225
 msgid "Noel_nouvel_an"
-msgstr ""
+msgstr "Christmas / New Year"
 
 #: gites.core/gites/core/browser/interfaces.py:216
 msgid "Number of rooms"
@@ -281,7 +266,6 @@ msgstr "To display the gîtes and guest rooms, zoom in on a region of Wallonia."
 
 #. Default: "Pour s&eacute;lectionner les autres points d'int&eacute;r&ecirc;t, merci de zoomer sur la carte."
 #: gites/map/browser/templates/hebergements_map.pt:132
-#: gites/map/browser/templates/poc.pt:138
 msgid "Pour_selectionner_zoomer"
 msgstr "To select other points of interest, please zoom in on the map."
 
@@ -293,7 +277,6 @@ msgstr "Price"
 
 #. Default: "Produits du terroir"
 #: gites/map/browser/templates/hebergements_map.pt:58
-#: gites/map/browser/templates/poc.pt:64
 msgid "Produits_du_terroir"
 msgstr "Local produce"
 
@@ -308,7 +291,6 @@ msgid "ROOM"
 msgstr "Room"
 
 #: gites/map/browser/templates/hebergements_map.pt:74
-#: gites/map/browser/templates/poc.pt:80
 msgid "Restaurants"
 msgstr "Restaurants"
 
@@ -337,7 +319,7 @@ msgid "Select a type of Hebergement"
 msgstr "Select a type of accommodation"
 
 #: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:21
-#: gites.core/gites/core/browser/templates/hebergement.pt:271
+#: gites.core/gites/core/browser/templates/hebergement.pt:221
 msgid "Semaine"
 msgstr "Week"
 
@@ -347,7 +329,6 @@ msgstr "Smokers allowed"
 
 #. Default: "Sports & loisirs"
 #: gites/map/browser/templates/hebergements_map.pt:50
-#: gites/map/browser/templates/poc.pt:56
 msgid "Sports_loisirs"
 msgstr "Sports & leisure"
 
@@ -361,7 +342,7 @@ msgid "Stay from"
 msgstr "Arrival date"
 
 #: gites.core/gites/core/browser/interfaces.py:234
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:47
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:46
 msgid "Stay to"
 msgstr "Departure date"
 
@@ -409,12 +390,11 @@ msgstr "Rebate if no breakfast"
 
 #. Default: "Week end"
 #: gites.core/gites/core/browser/tarif_edition_templates/tarif_edition.pt:23
-#: gites.core/gites/core/browser/templates/hebergement.pt:273
+#: gites.core/gites/core/browser/templates/hebergement.pt:223
 msgid "Week_end"
 msgstr "Weekend"
 
 #: gites/map/browser/templates/hebergements_map.pt:111
-#: gites/map/browser/templates/poc.pt:117
 msgid "Wellness"
 msgstr "Wellness"
 
@@ -428,7 +408,7 @@ msgid "a_proximite_de"
 msgstr "Near"
 
 #. Default: "Accueil"
-#: gites.core/gites/core/browser/templates/hebergement.pt:178
+#: gites.core/gites/core/browser/templates/hebergement.pt:156
 msgid "accueil"
 msgstr "Welcome"
 
@@ -461,7 +441,7 @@ msgstr "Looking for a guest room for tonight?"
 msgid "anglais"
 msgstr "English"
 
-#: gites.core/gites/core/browser/hebergement.py:208
+#: gites.core/gites/core/browser/hebergement.py:206
 msgid "animaux_interdits"
 msgstr "Pets not allowed"
 
@@ -505,7 +485,7 @@ msgid "checkout_thank_you"
 msgstr "We will process your order as quickly as possible. It will be sent to you in the next few days."
 
 #. Default: "CITY-TRIP"
-#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:46
+#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:69
 msgid "city_trip"
 msgstr "CITY TRIP"
 
@@ -541,13 +521,13 @@ msgid "confort"
 msgstr "Comfort"
 
 #. Default: "Contact"
-#: gites.core/gites/core/browser/templates/hebergement.pt:542
+#: gites.core/gites/core/browser/templates/hebergement.pt:482
 msgid "contact"
 msgstr "Contacts"
 
 #. Default: "Contactez le propri&eacute;taire"
 #: gites.core/gites/core/browser/templates/form_contact_proprio.pt:18
-#: gites.core/gites/core/browser/templates/hebergement.pt:585
+#: gites.core/gites/core/browser/templates/hebergement.pt:524
 msgid "contactez_le_proprietaire"
 msgstr "Contact the owner"
 
@@ -578,12 +558,12 @@ msgid "dernieres_minutes_promotions"
 msgstr "Last-minute offers and special offers"
 
 #. Default: "Description"
-#: gites.core/gites/core/browser/templates/hebergement.pt:334
+#: gites.core/gites/core/browser/templates/hebergement.pt:275
 msgid "description"
 msgstr "Description"
 
 #. Default: "Nous sommes désolés. Nous ne disposons pas des disponibilités pour cet hébergement."
-#: gites.core/gites/core/browser/templates/hebergement.pt:474
+#: gites.core/gites/core/browser/templates/hebergement.pt:415
 msgid "desoles_pas_de_calendrier_pour_ce_gite"
 msgstr "Sorry. We do not have any details of vacancies for this accommodation."
 
@@ -593,17 +573,17 @@ msgid "developed_by"
 msgstr "Developed by"
 
 #. Default: "Devenir membre"
-#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:54
+#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:77
 msgid "devenir_membre"
 msgstr "Become a member"
 
 #. Default: "Disponibilités"
-#: gites.core/gites/core/browser/templates/hebergement.pt:457
+#: gites.core/gites/core/browser/templates/hebergement.pt:398
 msgid "disponibilites"
 msgstr "Vacancies"
 
 #. Default: "Distribution"
-#: gites.core/gites/core/browser/templates/hebergement.pt:341
+#: gites.core/gites/core/browser/templates/hebergement.pt:282
 msgid "distribution"
 msgstr "Distribution"
 
@@ -698,7 +678,7 @@ msgstr "Accommodation addresses ${heb_start} to ${heb_number} out of a total of 
 msgid "hebergement_correspond"
 msgstr "accommodation corresponds to your search."
 
-#: gites.core/gites/core/browser/hebergement.py:217
+#: gites.core/gites/core/browser/hebergement.py:215
 msgid "hebergement_non_fumeur"
 msgstr "Non smoking accommodation"
 
@@ -728,7 +708,7 @@ msgid "informations"
 msgstr "informations"
 
 #. Default: "INSOLITE"
-#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:49
+#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:72
 msgid "insolite"
 msgstr "UNUSUAL"
 
@@ -787,24 +767,24 @@ msgstr "Language"
 msgid "listing"
 msgstr "List"
 
-#: gites.core/gites/core/browser/templates/hebergement.pt:408
+#: gites.core/gites/core/browser/templates/hebergement.pt:349
 msgid "lit_1_personne"
 msgstr "Single bed"
 
-#: gites.core/gites/core/browser/templates/hebergement.pt:418
+#: gites.core/gites/core/browser/templates/hebergement.pt:359
 msgid "lit_2_personne"
 msgstr "Double bed"
 
-#: gites.core/gites/core/browser/templates/hebergement.pt:438
+#: gites.core/gites/core/browser/templates/hebergement.pt:379
 msgid "lit_enfant"
 msgstr "Child's bed"
 
-#: gites.core/gites/core/browser/templates/hebergement.pt:428
+#: gites.core/gites/core/browser/templates/hebergement.pt:369
 msgid "lit_superpose"
 msgstr "Bunk bed"
 
 #. Default: "Localisation"
-#: gites.core/gites/core/browser/templates/hebergement.pt:532
+#: gites.core/gites/core/browser/templates/hebergement.pt:472
 msgid "localisation"
 msgstr "Location"
 
@@ -841,7 +821,7 @@ msgid "meuble-de-vacances"
 msgstr "Furnished Holiday Accommodation"
 
 #. Default: "MICE"
-#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:43
+#: gites.core/gites/core/viewlets/templates/produitpackageviewlet.pt:66
 msgid "mice"
 msgstr "MICE"
 
@@ -869,11 +849,11 @@ msgstr "Name or reference"
 
 #. Default: "Nombre de chambres"
 #: gites.core/gites/core/viewlets/listing.py:220
-#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:79
+#: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:77
 msgid "nombre-chambres"
 msgstr "Number of rooms"
 
-#: gites.core/gites/core/browser/templates/hebergement.pt:398
+#: gites.core/gites/core/browser/templates/hebergement.pt:339
 msgid "nombre_de_chambre"
 msgstr "Number of rooms"
 
@@ -916,7 +896,6 @@ msgstr "New accommodation addresses"
 
 #. Default: "Parcs"
 #: gites/map/browser/templates/hebergements_map.pt:103
-#: gites/map/browser/templates/poc.pt:109
 msgid "parcs"
 msgstr "Parks"
 
@@ -926,7 +905,7 @@ msgid "pays"
 msgstr "Country"
 
 #. Default: "Photos"
-#: gites.core/gites/core/browser/templates/hebergement.pt:487
+#: gites.core/gites/core/browser/templates/hebergement.pt:428
 msgid "photos"
 msgstr "Photos"
 
@@ -966,11 +945,6 @@ msgstr "Price incorrect"
 #: gites.core/gites/core/browser/templates/derniereminuterootfolder.pt:26
 msgid "promotions"
 msgstr "Promotions"
-
-#. Default: "Tarification des Gîtes et Meublés"
-#: gites.core/gites/core/browser/templates/hebergement.pt:292
-msgid "rates_for_gites"
-msgstr ""
 
 #. Default: "Recherche avanc&eacute;e"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:12
@@ -1020,7 +994,7 @@ msgid "send_to"
 msgstr "Send this page to someone"
 
 #. Default: "Signaler un problème"
-#: gites.core/gites/core/browser/templates/hebergement.pt:604
+#: gites.core/gites/core/browser/templates/hebergement.pt:543
 msgid "signaler-un-probleme"
 msgstr "Report a problem"
 
@@ -1035,7 +1009,7 @@ msgid "site_description"
 msgstr "The Gîtes de Wallonie, the guarantee of a successful stay marked by quality and a warm welcome."
 
 #. Default: "Situation"
-#: gites.core/gites/core/browser/templates/hebergement.pt:337
+#: gites.core/gites/core/browser/templates/hebergement.pt:278
 msgid "situation"
 msgstr "Situation"
 
@@ -1074,11 +1048,6 @@ msgstr "Price: ${value_price} €"
 msgid "text_product_details"
 msgstr "Product details"
 
-#. Default: "Réservez en ligne"
-#: gites.core/gites/core/browser/templates/hebergement.pt:130
-msgid "texte-commercialisation-chambre"
-msgstr "Book online"
-
 msgid "themes"
 msgstr "Themed Gites"
 
@@ -1114,7 +1083,7 @@ msgid "type_de_probleme"
 msgstr "Type of problem"
 
 #. Default: "Type de table d'hôtes"
-#: gites.core/gites/core/browser/templates/hebergement.pt:304
+#: gites.core/gites/core/browser/templates/hebergement.pt:245
 msgid "type_table_hotes"
 msgstr "Type of dinner for guests"
 
@@ -1151,3 +1120,5 @@ msgstr "wheat ears"
 msgid "x_personnes"
 msgstr "people"
 
+msgid "Birthday"
+msgstr "Birthday"
