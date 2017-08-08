@@ -667,7 +667,7 @@ msgstr "Rural Gîte"
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:21
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:38
 msgid "gites_et_meubles"
-msgstr "Gîtes and Furnished Accommodation"
+msgstr "Gîtes"
 
 msgid "gitesplus"
 msgstr "Plus Gites"
@@ -756,7 +756,7 @@ msgstr "I'm finding out"
 #: gites.core/gites/core/browser/templates/search_base_form.pt:73
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
-msgstr "I've found"
+msgstr "Search"
 
 #. Default: "La boutique"
 #: gites.core/gites/core/browser/templates/boutiquerootfolder.pt:11

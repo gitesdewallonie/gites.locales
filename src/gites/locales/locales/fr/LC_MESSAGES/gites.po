@@ -757,7 +757,7 @@ msgstr ""
 #: gites.core/gites/core/browser/templates/search_base_form.pt:73
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:26
 msgid "je_trouve"
-msgstr ""
+msgstr "Rechecher"
 
 #. Default: "La boutique"
 #: gites.core/gites/core/browser/templates/boutiquerootfolder.pt:11
