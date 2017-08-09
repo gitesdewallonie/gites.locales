@@ -1044,6 +1044,11 @@ msgstr "Situation"
 msgid "subscribe_to_newsletter"
 msgstr "Registration to the newsletter"
 
+#. Default: "Inscription"
+#: gites.theme/gites/theme/viewlets/templates/mailchimpnewsletterformviewlet.pt:40
+msgid "subscribe_form"
+msgstr "Registration"
+
 #. Default: "Suivant"
 #: gites.core/gites/core/viewlets/templates/hebergementsinlisting.pt:25
 msgid "suivant"
