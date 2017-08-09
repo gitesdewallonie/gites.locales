@@ -497,7 +497,7 @@ msgstr "Bed & breakfast"
 #: gites.core/gites/core/viewlets/templates/hebergementlistingforminadvancedsearch.pt:31
 #: gites.core/gites/core/viewlets/templates/mainheaderviewlet.pt:39
 msgid "chambre_hotes"
-msgstr "Guest room"
+msgstr "Guest rooms"
 
 #. Default: "Nous traitons votre commande dans les plus brefs délais.<br /> Elle vous parviendra dans les prochains jours."
 #: gites.theme/gites/theme/static/overrides/Products.PloneGetPaid.browser.templates.checkout-thank-you.pt:7
