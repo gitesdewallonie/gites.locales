@@ -131,7 +131,7 @@ msgstr "End-of-year week"
 
 #: gites.core/gites/core/viewlets/listing.py:221
 msgid "Epis"
-msgstr "Wheat ears"
+msgstr "ears"
 
 #: gites.core/gites/core/browser/SendMail.py:92
 msgid "Erreur d'encodage d'une date."
@@ -1147,7 +1147,7 @@ msgstr "keys"
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_macro.pt:94
 #: gites.core/gites/core/skins/gitescore_templates/hebergement_table.pt:76
 msgid "x_epis"
-msgstr "wheat ears"
+msgstr "ears"
 
 #. Default: "personnes"
 #: gites.core/gites/core/browser/templates/hebergement.pt:109
